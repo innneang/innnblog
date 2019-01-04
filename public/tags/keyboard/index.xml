@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Keyboard on Chris Turner</title>
+    <link>https://example.com/tags/keyboard/</link>
+    <description>Recent content in Keyboard on Chris Turner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 08 Nov 2013 15:52:05 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/keyboard/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>User Mini Review: SwiftKey Keyboard</title>
+      <link>https://example.com/2013/11/swiftkey-mini-review/</link>
+      <pubDate>Fri, 08 Nov 2013 15:52:05 +0000</pubDate>
+      
+      <guid>https://example.com/2013/11/swiftkey-mini-review/</guid>
+      <description>Swiftkey เป็นคีย์บอร์ดที่อยู่ใน Android ครับ ซึ่งผมก็ซื้อไว้นานแล้วละ [เจ็บใจซื้อก่อนมันลด 50% วันนึง อ๊อกกก] ราคา 3.99 เหรียญ ซื้อได้จาก Play Store เลยครับ ลิงค์นี้ สาเหตุที่ซื้อนานแล้วแต่เพิ่งมาเขียนคือมันมี major อัพเดตครับ ทำให้เราสามารถปรับ layout keyboard เองได้ \หมดมุกชัด
+ให้ดูวีดีโอ Present ของ Swiftkey ก่อน
+จากการอัพเดตใหม่เลยทำให้เราสามารถเปลี่ยนน Layout เป็นแบบ Full, Thumb, Compact เพื่อใช้ในการพิมพ์ในสถานะการต่างๆ เช่น Thumb จะเป็นการใช้นิ้วโป้งสองมือพิมพ์ๆ ถ้าเป็น Compact ก็จะเหมาะกับการลากนิ้วแบบมือเดียว และสามารถ Undock keyboard ได้อีกด้วย
+
+ในตัวแอพตอนก่อนใช้เราจะต้องไปดาวน์โหลด Dictionary มาก่อน ซึ่งเป็นหัวใจหลักที่ช่วยให้มันเดาคำได้อย่างมีประสิทธิภาพ &amp;lt;&amp;lt;อันนี้คงไม่ต้องอธิบายอะไร
+สามารถเปลี่ยน Theme ได้ด้วย มี Theme เยอะแยะให้เลือก และ Theme ใหม่ๆก็จะมาอีกเยอะๆในอัพเดตครั้งต่อๆไปด้วย อย่างในรูปด้านล่างเป็น Theme Halo
+
+หากคำไหนที่มันเดาแย่ ขัดต่อการพิมพ์ของเราก็สามารถลบออกจาก Dictionary ได้ด้วย :D แน่นอนว่ามันเรียนรู้กลับเข้าไปใหม่ได้เช่นกันครับ</description>
+    </item>
+    
+  </channel>
+</rss>

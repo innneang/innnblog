@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security on Chris Turner</title>
+    <link>https://example.com/tags/security/</link>
+    <description>Recent content in Security on Chris Turner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 27 Dec 2012 06:55:36 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hacker ระบาดทั่วไทย</title>
+      <link>https://example.com/2012/12/hacker-%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%b2%e0%b8%94%e0%b8%97%e0%b8%b1%e0%b9%88%e0%b8%a7%e0%b9%84%e0%b8%97%e0%b8%a2/</link>
+      <pubDate>Thu, 27 Dec 2012 06:55:36 +0000</pubDate>
+      
+      <guid>https://example.com/2012/12/hacker-%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%b2%e0%b8%94%e0%b8%97%e0%b8%b1%e0%b9%88%e0%b8%a7%e0%b9%84%e0%b8%97%e0%b8%a2/</guid>
+      <description>นอกจากเด็กแฮกกระทรวงศึกษาแล้ว ปกติที่ไทยไม่ค่อยได้เป็นเป้าหมายของ Hacker เท่าไร(ในที่นี้ขอเรียก Hacker แทนคำว่า Cracker เพราะว่าทำให้เข้าใจได้ง่ายกว่า) แต่ว่าตอนนี้มันเกิดบ้าอะไรขึ้นไม่รู้มันมี Hacker คนนึงชื่อว่า khmer.hacker1 จาก Unlimited Hack team โดยเล็ง ip ที่ไทยเอาไว้ตอนนี้ก็โดนเจาะเป็นพันๆเว็บได้แล้วละมั้ง ขณะนี้ 7333 เว็บวิธีการแฮกของพวกเขาก็ไม่ได้อยู่ที่ความปลอดภัยของเว็บซะเท่าไร มันอยู่ที่โฮสต์ ตาบ้านี้มันแฮกที่โฮสต์ของเรา ทำให้โดนที่เป็นพันๆเว็บไงละ
+วิธีป้องกันที่ดีที่สุดก็คือเก็บ Backup ไว้ให้ได้มากที่สุด ถ้าโดนแฮกจะได้เอากลับมาได้ ไม่งั้นถึงโดนไปเราอาจจะโดนฝัง Backdoor เอาไว้แล้วโดนเล่นงานใหม่อีกเมื่อไรก็ได้ครับ
+ปล Hacker กลุ่มพวกนี้ไม่ได้สร้างความเสียหายให้แก้เว็บไซต์เพียงแค่เปลี่ยนหน้าแรกเท่านั้นสมมุติว่าเป็น index.php เป็นหน้าแรกเขาก็เพียงแค่นำ index.html มาทับเพียงเท่านั้นครับ
+หน้าเว็บที่โดนจะเป็นแบบรูปข้างล่างนี่
+ก่อนหน้านี้เว็บไซต์ของคณะนิติศาสตร์มหาวิทยาลัยธรรมศาสตร์กับฐานข้อมูลเว็บบอร์ดของกองทัพเรือเพิ่งโดนไป ต้องเพิ่มความระมัดระวังขึ้นได้แล้ว</description>
+    </item>
+    
+  </channel>
+</rss>
