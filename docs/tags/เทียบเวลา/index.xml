@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>เทียบเวลา on Innnnnnnnnnn</title>
-    <link>https://innneang.github.io/innnblog/tags/%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2/</link>
+    <link>https://innnblog.com/tags/%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2/</link>
     <description>Recent content in เทียบเวลา on Innnnnnnnnnn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 01 Jan 2013 03:27:40 +0000</lastBuildDate>
     
-	<atom:link href="https://innneang.github.io/innnblog/tags/%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://innnblog.com/tags/%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>เทียบเวลาให้ตรงทำอย่างไร</title>
-      <link>https://innneang.github.io/innnblog/2013/01/time-set/</link>
+      <link>https://innnblog.com/2013/01/time-set/</link>
       <pubDate>Tue, 01 Jan 2013 03:27:40 +0000</pubDate>
       
-      <guid>https://innneang.github.io/innnblog/2013/01/time-set/</guid>
+      <guid>https://innnblog.com/2013/01/time-set/</guid>
       <description>เมื่อวานวันสิ้นปี (31 ธันวาคม 2555) พอดี ผมก็นั่ง CountDown เล่นๆ เลยคิดถึงเรื่องเช็คเวลาให้ตรง การเช็คเวลาที่ผมรู้ของไทยคือต้องโทรเบอร์ 181 ซึ่งเบอร์นี้ก็เป็นเบอร์ที่ทุกคนน่าจะรู้กันเป็นทั่วไป แต่มันมีปัญหาว่าเราไม่รู้ว่าจะเทียบเวลาตอนไหนเช่น
 ติ๊ด1 สัญญานต่อไปนี้เป็นเวลายี่สิบสามนาฬิกา 59 นาที 50 วินาที ติ๊ด2 สัญญานต่อไปนี้เป็นเวลายี่สิบสี่นาฬิกา 0 นาที 0 วินาที ติ๊ด3
 ใช่ไหม มันปีติ๊ด ตั้ง 3 ติ๊ดแนะ แล้ว ติ๊ด ไหนที่เป็นเวลายี่สิบสี่นาฬิกาละ

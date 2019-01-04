@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Digitalocean on Innnnnnnnnnn</title>
-    <link>https://innneang.github.io/innnblog/tags/digitalocean/</link>
+    <link>https://innnblog.com/tags/digitalocean/</link>
     <description>Recent content in Digitalocean on Innnnnnnnnnn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 04 May 2015 10:39:45 +0000</lastBuildDate>
     
-	<atom:link href="https://innneang.github.io/innnblog/tags/digitalocean/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://innnblog.com/tags/digitalocean/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>จัดการ VPS DigitalOcean ด้วย Vesta Control Panel</title>
-      <link>https://innneang.github.io/innnblog/2015/05/install-vesta-panel-in-digitalocean/</link>
+      <link>https://innnblog.com/2015/05/install-vesta-panel-in-digitalocean/</link>
       <pubDate>Mon, 04 May 2015 10:39:45 +0000</pubDate>
       
-      <guid>https://innneang.github.io/innnblog/2015/05/install-vesta-panel-in-digitalocean/</guid>
+      <guid>https://innnblog.com/2015/05/install-vesta-panel-in-digitalocean/</guid>
       <description>เนื่องจากเมื่อเดือนที่แล้วผมได้ย้ายเว็บตัวเองจาก Shared Host มาเป็น VPS ที่ DigitalOcean เป็นครั้งที่สอง [ครั้งแรกที่ย้ายกลับ]
 ปกติโฮสต์ที่ให้บริการส่วนใหญ่ในไทยก็จะเป็น Directadmin ที่คนใช้เยอะๆ หรือที่แพงๆหน่อยก็เป็น cPanel แต่สองตัวนี้มีข้อจำกัดครับ
 คือมันเสียตัง&amp;hellip;
@@ -27,10 +27,10 @@
     
     <item>
       <title>วิธีติดตั้ง VPN ใช้ส่วนตัวใน VPS [Linux] ภายใน 3 นาที</title>
-      <link>https://innneang.github.io/innnblog/2015/04/howto-setup-vpn-in-vps/</link>
+      <link>https://innnblog.com/2015/04/howto-setup-vpn-in-vps/</link>
       <pubDate>Wed, 01 Apr 2015 08:42:33 +0000</pubDate>
       
-      <guid>https://innneang.github.io/innnblog/2015/04/howto-setup-vpn-in-vps/</guid>
+      <guid>https://innnblog.com/2015/04/howto-setup-vpn-in-vps/</guid>
       <description>เนื่องจากปิดเทอมและว่างโคตร ไม่มีอะไรทำเช่นเดิม เมื่อวานเลยติดตั้ง VPN เล่นๆโดยหาวิธีติดทั้งให้เร็วที่สุด โดยที่ผมทำใช้เวลาจริงๆไม่น่าเกิน 3 นาที [ไม่รวมติดตั้งโปรแกรม Open VPS ในคอมหรือมือถือนะครับ] มาเริ่มกันเลย
 ก่อนอื่นขออธิบายศัพท์เพื่อคนไม่รู้นะครับ
  * VPN คือ Virtual Private Network เป็นระบบเน็ตเวิคส่วนตัว * VPS คือ Virtual Private Server เป็นเซิฟเวอร์เสมือนส่วนตัว  เซิฟเวอร์ที่ผมใช้วันนี้ก็เป็น DigitalOcean เจ้าเก่าครับ ซึ่งถ้าใคร สมัครผ่านลิงค์ของผมตรงนี้ แล้วเติมเงินครั้งแรกที่ $25 จะได้รับเพิ่มอีก $10 รวมเป็น $35 ครับ

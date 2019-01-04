@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nfc Tag on Innnnnnnnnnn</title>
-    <link>https://innneang.github.io/innnblog/tags/nfc-tag/</link>
+    <link>https://innnblog.com/tags/nfc-tag/</link>
     <description>Recent content in Nfc Tag on Innnnnnnnnnn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 30 Aug 2013 15:17:51 +0000</lastBuildDate>
     
-	<atom:link href="https://innneang.github.io/innnblog/tags/nfc-tag/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://innnblog.com/tags/nfc-tag/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>รีวิว NFC tag ใช้ NFC ในโทรศัพท์ให้เป็นประโยชน์</title>
-      <link>https://innneang.github.io/innnblog/2013/08/review-nfc-tag/</link>
+      <link>https://innnblog.com/2013/08/review-nfc-tag/</link>
       <pubDate>Fri, 30 Aug 2013 15:17:51 +0000</pubDate>
       
-      <guid>https://innneang.github.io/innnblog/2013/08/review-nfc-tag/</guid>
+      <guid>https://innnblog.com/2013/08/review-nfc-tag/</guid>
       <description>ตอนนี้โทรศัพท์หลายเครื่องรุ่นใหม่ๆ ได้มี NFC เข้ามาใส่แล้ว [ยกเว้น iPhone ผู้ล้าหลังในเทคโนโลยี] [ผมถือว่า iPhone เป็นพวกอารยธรรม คือเน้นแฟชั่นมากกว่าการใช้งาน เหมาะสำหรับ end-user ทั่วๆไป]
 มาเข้าเรื่องกันเลยดีกว่า NFC ย่อมาจาก Near Field Communication ยกตัวอย่างเช่น S-Beam ของ Samsung ที่สามารถส่งรูปส่งหนังได้ โดยการใช้ NFC ให้เป็นประโยชน์ ดูวีดีโอสาธิตการใช้งาน S-Beam ได้ข้างหลัง [อธิบายก่อนว่า NFC เป็นการส่งข้อความเพื่อสื่อสารในขนาดน้อยๆ ไม่สามารถส่งรูปหรือวีดีโอได้ แต่ S-Beam ของ Samsung นั้นใช้ NFC เพื่อสื่อสารว่าเราจะส่งข้อมูลกันแล้วนะ ส่วนข้อมูลจริงๆนั้นส่งผ่านเทคโนโลยี Wifi-Direct อีกทีนึง]
 NFC tag ข้างในจะมีชิปเล็กๆ อยู่ไว้เก็บข้อมูลได้ ของผมเก็บข้อมูลได้ 768 byte [อันนี้] สั่งมาจาก eBay ค่าส่งฟรี ก็รอกันเหงือกแห้งกันเลยทีเดียว แต่เราก็ได้ของดีราคาถูก ซึ่งไม่มีขายในไทยมาได้นะครับ
