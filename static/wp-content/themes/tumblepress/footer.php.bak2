@@ -1,0 +1,16 @@
+<div id="footer-wrapper">
+	<div id="footer"><!---Footer-->
+    	<div class="navbar2"><!---Navigation Bottom-->
+        	<?php colabs_nav( 'bottommenu' ); ?>
+        </div><!---/Navigation Bottom-->
+        <h5 class="copyrights">
+		<?php if( $colabs_options['colabs_footer_credit'] != 'true' ){ ?>
+		<a href="http://www.iinnn.net/">&copy; iinnn.net</a>
+		<?php }else{ echo stripslashes( $colabs_options['colabs_footer_credit_txt'] ); } ?>
+		</h5>
+    </div><!---/Footer-->
+</div><!---/Footer Wrapper-->
+</div><!---/Page-->
+<?php wp_footer(); ?>
+</body>
+</html>

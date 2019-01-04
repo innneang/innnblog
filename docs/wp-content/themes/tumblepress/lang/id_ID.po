@@ -1,0 +1,862 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Arthemia Premium\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-11-22 14:25+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Michael Jubel Hutagalung <michaeljubel@gmail.com>\n"
+"Language-Team: Colorlabs Project <sales@colorlabsproject.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Indonesian\n"
+"X-Poedit-Country: INDONESIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: c:/wamp/www/wp-content/themes/arthemia-premium\n"
+"X-Textdomain-Support: yes"
+
+#: functions/admin-functions.php:2087
+#: includes/theme-functions.php:469
+#@ colabsthemes
+msgid "Home"
+msgstr "Utama"
+
+#: includes/theme-functions.php:931
+#: page-sitemap.php:43
+#@ colabsthemes
+msgid "% Comments"
+msgstr "% Komentar"
+
+#: includes/theme-functions.php:227
+#@ colabsthemes
+msgid "No posts found. Try a different search?"
+msgstr "Artikel tidak ditemukan. Coba kata kunci lain?"
+
+#: comments.php:82
+#@ colabsthemes
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+#: comments.php:44
+#@ default
+msgid "Name"
+msgstr "Nama"
+
+#: comments.php:48
+#@ default
+msgid "Website"
+msgstr "Website"
+
+#: comments.php:58
+#@ colabsthemes
+msgid "Submit Comment"
+msgstr "Tinggalkan komentar"
+
+#: includes/theme-functions.php:833
+#@ default
+msgid "Search"
+msgstr "Cari"
+
+#: functions/admin-functions.php:1383
+#@ colabsthemes
+msgid "Search Results"
+msgstr "Hasil Pencarian"
+
+#: functions/admin-functions.php:2539
+#@ colabsthemes
+msgid "Theme Options"
+msgstr "Opsi-opsi Tema"
+
+#: functions/admin-functions.php:2543
+#@ colabsthemes
+msgid "Sidebar Manager"
+msgstr "Pengaturan Sidebar"
+
+#: functions/admin-functions.php:2549
+#@ colabsthemes
+msgid "Framework Settings"
+msgstr "Settingan Framework"
+
+#: functions/admin-custom.php:507
+#@ colabsthemes
+msgid " Custom Settings"
+msgstr "kustom Pengaturan"
+
+#: functions/admin-functions.php:1384
+#@ colabsthemes
+msgid "Author Archives"
+msgstr "Arsip-arsip Penulis"
+
+#: functions/admin-functions.php:1387
+#@ colabsthemes
+msgid "Category Archive"
+msgstr "Kategori Arsip"
+
+#: functions/admin-functions.php:1388
+#: functions/admin-functions.php:1393
+#@ colabsthemes
+msgid " Archive"
+msgstr "Arsip"
+
+#: functions/admin-functions.php:1389
+#@ colabsthemes
+msgid "Daily Archive"
+msgstr "Arsip Harian"
+
+#: functions/admin-functions.php:1390
+#@ colabsthemes
+msgid "Monthly Archive"
+msgstr "Arsip Bulanan"
+
+#: functions/admin-functions.php:1391
+#@ colabsthemes
+msgid "Yearly Archive"
+msgstr "Arsip Tahunan"
+
+#: functions/admin-functions.php:1392
+#@ colabsthemes
+msgid "Tag Archive"
+msgstr "Arsip Tag"
+
+#: functions/admin-functions.php:1965
+#@ colabsthemes
+msgid "&laquo; Previous"
+msgstr "&laquo; Sebelumnya"
+
+#: functions/admin-functions.php:1966
+#@ colabsthemes
+msgid "Next &raquo;"
+msgstr "Berikutnya &raquo;"
+
+#: functions/admin-functions.php:2084
+#@ colabsthemes
+msgid "You are here:"
+msgstr "Anda Disini"
+
+#: functions/admin-functions.php:2243
+#@ colabsthemes
+msgid "g:i a"
+msgstr ""
+
+#: functions/admin-functions.php:2246
+#, php-format
+#@ colabsthemes
+msgid "Minute %1$s"
+msgstr "Menit %1$s"
+
+#: functions/admin-functions.php:2246
+#@ colabsthemes
+msgid "i"
+msgstr ""
+
+#: functions/admin-functions.php:2249
+#@ colabsthemes
+msgid "g a"
+msgstr ""
+
+#: functions/admin-functions.php:2260
+#: functions/admin-functions.php:2266
+#: functions/admin-functions.php:2271
+#: functions/admin-functions.php:2276
+#@ colabsthemes
+msgid "Y"
+msgstr ""
+
+#: functions/admin-functions.php:2261
+#: functions/admin-functions.php:2272
+#@ colabsthemes
+msgid "F"
+msgstr ""
+
+#: functions/admin-functions.php:2262
+#@ colabsthemes
+msgid "j"
+msgstr ""
+
+#: functions/admin-functions.php:2267
+#, php-format
+#@ colabsthemes
+msgid "Week %1$s"
+msgstr "Minggu %1$s"
+
+#: functions/admin-functions.php:2267
+#@ colabsthemes
+msgid "W"
+msgstr ""
+
+#: functions/admin-functions.php:2283
+#, php-format
+#@ colabsthemes
+msgid "Search results for &quot;%1$s&quot;"
+msgstr "Hasil Pencarian untuk &quot;%1$s&quot;"
+
+#: functions/admin-functions.php:2287
+#@ colabsthemes
+msgid "404 Not Found"
+msgstr "404 Tidak Ditemukan"
+
+#: functions/admin-functions.php:2528
+#@ colabsthemes
+msgid "ColorLabs Project"
+msgstr ""
+
+#: functions/admin-functions.php:2552
+#@ colabsthemes
+msgid "Update Framework"
+msgstr ""
+
+#: functions/admin-interface.php:96
+#@ colabsthemes
+msgid "Readme"
+msgstr "Baca Saya"
+
+#: functions/admin-interface.php:250
+#: functions/admin-seo.php:386
+#@ colabsthemes
+msgid "Framework"
+msgstr ""
+
+#: functions/admin-medialibrary-uploader.php:66
+#@ default
+msgid "CoLabsFramework Internal Container"
+msgstr ""
+
+#: functions/admin-medialibrary-uploader.php:192
+#@ default
+msgid "Upload"
+msgstr ""
+
+#: functions/admin-medialibrary-uploader.php:229
+#@ colabsthemes
+msgid "View File"
+msgstr "Lihat Berkas"
+
+#: functions/admin-medialibrary-uploader.php:422
+#@ colabsthemes
+msgid "Gallery"
+msgstr "Galeri"
+
+#: functions/admin-medialibrary-uploader.php:422
+#@ colabsthemes
+msgid "Previously Uploaded"
+msgstr "Telah Diperbaharui Sebelumnya"
+
+#: functions/admin-readme.php:29
+#@ colabsthemes
+msgid " - README.txt Theme File"
+msgstr ""
+
+#: comments.php:46
+#@ default
+msgid "Email"
+msgstr ""
+
+#: includes/widgets/widget-colabs-twitter.php:24
+#@ colabsthemes
+msgid "Follow"
+msgstr "Mengikuti"
+
+#: comments.php:59
+#@ colabsthemes
+msgid "Cancel"
+msgstr ""
+
+#: functions/js/shortcode-generator/dialog.php:51
+#@ colabsthemes
+msgid "Customize the Shortcode"
+msgstr "Kustomisasi Shortcode"
+
+#: functions/js/shortcode-generator/dialog.php:60
+#@ colabsthemes
+msgid "Preview"
+msgstr "Pratinjau"
+
+#: functions/js/shortcode-generator/dialog.php:74
+#@ colabsthemes
+msgid "Shortcode Generator Error"
+msgstr ""
+
+#: functions/js/shortcode-generator/dialog.php:77
+#, php-format
+#@ colabsthemes
+msgid "Your version of the CoLabsFramework (%s) does not yet support shortcodes. Shortcodes were introduced with version %s of the framework."
+msgstr "Versi dari CoLabsFramework (%s) belum mendukung shortcodes, Shortcodes diperkenankan untuk versi %s dari framework"
+
+#: functions/js/shortcode-generator/dialog.php:79
+#: functions/js/shortcode-generator/dialog.php:93
+#@ colabsthemes
+msgid "What to do now?"
+msgstr "Apa yang harus dilakukan sekarang?"
+
+#: functions/js/shortcode-generator/dialog.php:81
+#@ colabsthemes
+msgid "Upgrading your theme, or rather the CoLabsFramework portion of it, will do the trick."
+msgstr "Upgrade tema anda, atau lebih tepatnya bagian CoLabsFramework, akan dilakukan trik."
+
+#: functions/js/shortcode-generator/dialog.php:83
+#, php-format
+#@ colabsthemes
+msgid "The framework is a collection of functionality that all CoLabsThemes have in common. In most cases you can update the framework even if you have modified your theme, because the framework resides in a separate location (under %s)."
+msgstr "Kerangka kerja ini adalah kumpulan fungsi bahwa semua CoLabsThemes memiliki kesamaan. Dalam kebanyakan kasus Anda dapat memperbarui kerangka bahkan jika Anda telah memodifikasi tema, karena kerangka berada di lokasi yang terpisah (dibawah %s)."
+
+#: functions/js/shortcode-generator/dialog.php:85
+#, php-format
+#@ colabsthemes
+msgid "There's a tutorial on how to do this on colorlabsproject.com: %sHow to upgradeyour theme%s."
+msgstr "Ada tutorial tentang cara untuk melakukan ini pada colorlabsproject.com: %sBagaimana cara upgrade Tema Anda%s."
+
+#: functions/js/shortcode-generator/dialog.php:91
+#@ colabsthemes
+msgid "Looks like your active theme is not from ColorLabs. The shortcode generator only works with themes from ColorLabs."
+msgstr "Terlihat seperti tema aktif Anda bukan dari ColorLabs. Generator shortcode hanya bekerja dengan tema dari ColorLabs."
+
+#: functions/js/shortcode-generator/dialog.php:95
+#@ colabsthemes
+msgid "Pick a fight: (1) If you already have a theme from ColorLabs, install and activate it or (2) if you don't yet have one of the awesome ColorLabs theme head over to the <a href=\"http://colorlabsproject.com/themes/\" target=\"_blank\" title=\"ColorLabs Gallery\">ColorLabs Gallery</a> and get one."
+msgstr "Bentrok: (1) Jika Anda sudah memiliki tema dari ColorLabs, menginstal dan mengaktifkannya atau (2) jika Anda belum memiliki salah satu kepala tema ColorLabs <a href=\"http://colorlabsproject.com/themes/\" target=\"_blank\" title=\"ColorLabs Gallery\">ColorLabs Gallery</a> dan dapatkan salah satunya."
+
+#: includes/theme-functions.php:337
+#@ colabsthemes
+msgid "on "
+msgstr ""
+
+#: includes/widgets/widget-colabs-ad-sidebar.php:68
+#: includes/widgets/widget-colabs-flickr.php:52
+#: includes/widgets/widget-colabs-twitter.php:43
+#@ colabsthemes
+msgid "Title (optional):"
+msgstr "Judul (opsional):"
+
+#: includes/widgets/widget-colabs-ad-sidebar.php:72
+#: includes/widgets/widget-colabs-adspace125.php:84
+#: includes/widgets/widget-colabs-adspace125.php:103
+#@ colabsthemes
+msgid "Ad Code:"
+msgstr "Kode Iklan:"
+
+#: includes/widgets/widget-colabs-ad-sidebar.php:77
+#: includes/widgets/widget-colabs-adspace125.php:89
+#: includes/widgets/widget-colabs-adspace125.php:108
+#@ colabsthemes
+msgid "Image Url:"
+msgstr "Url gambar:"
+
+#: includes/widgets/widget-colabs-ad-sidebar.php:81
+#: includes/widgets/widget-colabs-adspace125.php:93
+#: includes/widgets/widget-colabs-adspace125.php:112
+#@ colabsthemes
+msgid "Link URL:"
+msgstr "Alamat URL:"
+
+#: includes/widgets/widget-colabs-ad-sidebar.php:85
+#: includes/widgets/widget-colabs-adspace125.php:97
+#: includes/widgets/widget-colabs-adspace125.php:116
+#@ colabsthemes
+msgid "Alt text:"
+msgstr "Texs Alt:"
+
+#: includes/widgets/widget-colabs-flickr.php:77
+#: includes/widgets/widget-colabs-tabs.php:31
+#: includes/widgets/widget-colabs-tabs.php:36
+#: includes/widgets/widget-colabs-tabs.php:111
+#: includes/widgets/widget-colabs-tabs.php:121
+#@ colabsthemes
+msgid "Latest"
+msgstr "Terakhir"
+
+#: includes/widgets/widget-colabs-flickr.php:78
+#@ colabsthemes
+msgid "Random"
+msgstr "Acak"
+
+#: includes/widgets/widget-colabs-facebook-page.php:42
+#: includes/widgets/widget-colabs-googlemaps.php:58
+#: includes/widgets/widget-colabs-search.php:36
+#@ colabsthemes
+#@ default
+msgid "Title:"
+msgstr "Judul:"
+
+#: includes/widgets/widget-colabs-flickr.php:82
+#@ colabsthemes
+msgid "Size:"
+msgstr "Ukuran:"
+
+#: includes/widgets/widget-colabs-flickr.php:10
+#@ colabsthemes
+msgid "ColorLabs - Flickr"
+msgstr ""
+
+#: includes/widgets/widget-colabs-flickr.php:60
+#@ colabsthemes
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr ""
+
+#: includes/widgets/widget-colabs-flickr.php:64
+#@ colabsthemes
+msgid "Number:"
+msgstr "Nomor:"
+
+#: includes/widgets/widget-colabs-tabs.php:10
+#@ colabsthemes
+msgid "ColorLabs - Tabs"
+msgstr ""
+
+#: comments.php:34
+#: includes/widgets/widget-colabs-tabs.php:32
+#: includes/widgets/widget-colabs-tabs.php:37
+#: includes/widgets/widget-colabs-tabs.php:112
+#: includes/widgets/widget-colabs-tabs.php:124
+#@ colabsthemes
+msgid "Comments"
+msgstr "Komentar"
+
+#: includes/widgets/widget-colabs-tabs.php:33
+#: includes/widgets/widget-colabs-tabs.php:38
+#: includes/widgets/widget-colabs-tabs.php:113
+#: includes/widgets/widget-colabs-tabs.php:127
+#@ colabsthemes
+msgid "Tags"
+msgstr ""
+
+#: includes/widgets/widget-colabs-tabs.php:35
+#: includes/widgets/widget-colabs-tabs.php:110
+#: includes/widgets/widget-colabs-tabs.php:118
+#@ colabsthemes
+msgid "Popular"
+msgstr "Populer"
+
+#: includes/widgets/widget-colabs-tabs.php:102
+#@ colabsthemes
+msgid "Number of posts:"
+msgstr "Nomor dari posting"
+
+#: includes/widgets/widget-colabs-tabs.php:108
+#@ colabsthemes
+msgid "First Visible Tab:"
+msgstr "Tab Pertama Tampil:"
+
+#: includes/widgets/widget-colabs-twitter.php:24
+#@ colabsthemes
+msgid "on Twitter"
+msgstr "dalam Twitter"
+
+#: includes/widgets/widget-colabs-twitter.php:47
+#@ colabsthemes
+msgid "Username:"
+msgstr ""
+
+#: includes/widgets/widget-colabs-twitter.php:51
+#@ colabsthemes
+msgid "Limit:"
+msgstr "Batas:"
+
+#: comments.php:4
+#@ colabsthemes
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:21
+#: comments.php:65
+#@ default
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:24
+#: comments.php:68
+#@ colabsthemes
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:27
+#: comments.php:71
+#@ colabsthemes
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:34
+#@ colabsthemes
+msgid "Add Comment"
+msgstr ""
+
+#: comments.php:34
+#@ colabsthemes
+msgid "Comment"
+msgstr ""
+
+#: comments.php:44
+#@ default
+msgid "required"
+msgstr ""
+
+#: comments.php:44
+#@ default
+msgid "Your name"
+msgstr ""
+
+#: comments.php:46
+#@ default
+msgid "required, hidden"
+msgstr ""
+
+#: comments.php:46
+#@ default
+msgid "Your email, won&rsquo;t be published, promise!"
+msgstr ""
+
+#: comments.php:48
+#@ default
+msgid "URL"
+msgstr ""
+
+#: comments.php:48
+#@ default
+msgid "optional"
+msgstr ""
+
+#: comments.php:52
+#@ default
+msgid "Insert your comment here"
+msgstr ""
+
+#: comments.php:56
+#@ colabsthemes
+msgid "Respond"
+msgstr ""
+
+#: comments.php:57
+#, php-format
+#@ colabsthemes
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: functions/js/shortcode-generator/dialog.php:87
+#@ colabsthemes
+msgid "<strong>Remember:</strong> Every Ninja has a backup plan. Safe or not, always backup your theme before you update it or make changes to it."
+msgstr ""
+
+#: header.php:33
+#: includes/theme-functions.php:401
+#: includes/theme-functions.php:899
+#@ colabsthemes
+msgid "Note"
+msgstr ""
+
+#: includes/theme-comments.php:11
+#@ colabsthemes
+msgid "\\t\\t\\t\\t\\t<span class='unapproved'>Your comment is awaiting moderation.</span>\n"
+msgstr ""
+
+#: includes/theme-comments.php:22
+#, php-format
+#@ default
+msgid "<a href=\"%3$s\">%1$s %2$s</a>&nbsp;"
+msgstr ""
+
+#: includes/theme-comments.php:26
+#: includes/theme-comments.php:66
+#: includes/theme-functions.php:932
+#@ colabsthemes
+#@ default
+msgid "Edit"
+msgstr ""
+
+#: includes/theme-comments.php:33
+#@ colabsthemes
+msgid "Reply"
+msgstr ""
+
+#: includes/theme-comments.php:34
+#@ colabsthemes
+msgid "Log in to reply."
+msgstr ""
+
+#: includes/theme-comments.php:62
+#, php-format
+#@ default
+msgid "By %1$s on %2$s at %3$s"
+msgstr ""
+
+#: includes/theme-comments.php:67
+#@ colabsthemes
+msgid "\\t\\t\\t\\t\\t<span class=\"unapproved\">Your trackback is awaiting moderation.</span>\n"
+msgstr ""
+
+#: includes/theme-functions.php:67
+#: sidebar.php:8
+#@ colabsthemes
+msgid "Read more"
+msgstr ""
+
+#: includes/theme-functions.php:198
+#@ colabsthemes
+msgid "<span class=\"meta-nav\">&laquo;</span> Previous Entries"
+msgstr ""
+
+#: includes/theme-functions.php:199
+#@ colabsthemes
+msgid "Next Entries <span class=\"meta-nav\">&raquo;</span>"
+msgstr ""
+
+#: includes/theme-functions.php:378
+#@ colabsthemes
+msgid "Author"
+msgstr ""
+
+#: includes/theme-functions.php:384
+#@ colabsthemes
+msgid "Topic"
+msgstr ""
+
+#: includes/theme-functions.php:391
+#@ colabsthemes
+msgid "Tag archive for"
+msgstr ""
+
+#: includes/theme-functions.php:396
+#@ colabsthemes
+msgid "Format Post for "
+msgstr ""
+
+#: includes/theme-functions.php:406
+#@ colabsthemes
+msgid "Archive for"
+msgstr ""
+
+#: includes/theme-functions.php:412
+#@ colabsthemes
+msgid "Search Results for"
+msgstr ""
+
+#: includes/theme-functions.php:418
+#@ colabsthemes
+msgid "404 Error (Page Not Found)"
+msgstr ""
+
+#: includes/theme-functions.php:430
+#@ default
+msgid "bottom menu"
+msgstr ""
+
+#: includes/theme-functions.php:891
+#@ colabsthemes
+msgid "Quote"
+msgstr ""
+
+#: includes/theme-functions.php:893
+#@ colabsthemes
+msgid "Photo"
+msgstr ""
+
+#: includes/theme-functions.php:895
+#@ colabsthemes
+msgid "Link"
+msgstr ""
+
+#: includes/theme-functions.php:897
+#@ colabsthemes
+msgid "Video"
+msgstr ""
+
+#: includes/theme-functions.php:931
+#: page-sitemap.php:43
+#@ colabsthemes
+msgid "0 comment"
+msgstr ""
+
+#: includes/theme-functions.php:931
+#: page-sitemap.php:43
+#@ colabsthemes
+msgid "1 Comment"
+msgstr ""
+
+#: includes/theme-options.php:322
+#@ colabsthemes
+msgid " Post Format Item Settings"
+msgstr ""
+
+#: includes/theme-sidebar-init.php:11
+#@ colabsthemes
+msgid "Sidebar"
+msgstr ""
+
+#: includes/theme-sidebar-init.php:13
+#@ colabsthemes
+msgid "Sidebar widget area"
+msgstr ""
+
+#: includes/widgets/widget-colabs-ad-sidebar.php:10
+#@ colabsthemes
+msgid "ColorLabs - Ad Sidebar"
+msgstr ""
+
+#: includes/widgets/widget-colabs-adspace125.php:10
+#@ colabsthemes
+msgid "ColorLabs - Ad 125"
+msgstr ""
+
+#: includes/widgets/widget-colabs-facebook-page.php:10
+#@ colabsthemes
+msgid "Facebook Page"
+msgstr ""
+
+#: includes/widgets/widget-colabs-facebook-page.php:25
+#@ colabsthemes
+msgid "Stay Connected"
+msgstr ""
+
+#: includes/widgets/widget-colabs-facebook-page.php:46
+#@ colabsthemes
+msgid "Facebook Page URL :"
+msgstr ""
+
+#: includes/widgets/widget-colabs-facebook-page.php:50
+#: includes/widgets/widget-colabs-googlemaps.php:70
+#@ colabsthemes
+#@ default
+msgid "Width:"
+msgstr ""
+
+#: includes/widgets/widget-colabs-facebook-page.php:54
+#: includes/widgets/widget-colabs-googlemaps.php:74
+#@ colabsthemes
+#@ default
+msgid "Height:"
+msgstr ""
+
+#: includes/widgets/widget-colabs-flickr.php:25
+#@ colabsthemes
+msgid "FLICKR PHOTOS"
+msgstr ""
+
+#: includes/widgets/widget-colabs-flickr.php:56
+#@ colabsthemes
+msgid "Description (optional):"
+msgstr ""
+
+#: includes/widgets/widget-colabs-flickr.php:68
+#@ colabsthemes
+msgid "Type:"
+msgstr ""
+
+#: includes/widgets/widget-colabs-flickr.php:70
+#@ colabsthemes
+msgid "User"
+msgstr ""
+
+#: includes/widgets/widget-colabs-flickr.php:71
+#@ colabsthemes
+msgid "Group"
+msgstr ""
+
+#: includes/widgets/widget-colabs-flickr.php:75
+#@ colabsthemes
+msgid "Sorting:"
+msgstr ""
+
+#: includes/widgets/widget-colabs-flickr.php:84
+#@ colabsthemes
+msgid "Square"
+msgstr ""
+
+#: includes/widgets/widget-colabs-flickr.php:85
+#@ colabsthemes
+msgid "Medium"
+msgstr ""
+
+#: includes/widgets/widget-colabs-flickr.php:86
+#@ colabsthemes
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/widgets/widget-colabs-googlemaps.php:9
+#@ equilibria
+msgid "Colorlabs - Google Maps"
+msgstr ""
+
+#: includes/widgets/widget-colabs-googlemaps.php:62
+#@ default
+msgid "Latitude:"
+msgstr ""
+
+#: includes/widgets/widget-colabs-googlemaps.php:66
+#@ default
+msgid "Longitude:"
+msgstr ""
+
+#: includes/widgets/widget-colabs-googlemaps.php:78
+#@ default
+msgid "Zoom Level: <small>(1-19)</small>"
+msgstr ""
+
+#: includes/widgets/widget-colabs-googlemaps.php:82
+#@ default
+msgid "Map Type:<br /><small>(ROADMAP, SATELLITE, HYBRID, TERRAIN)</small>"
+msgstr ""
+
+#: includes/widgets/widget-colabs-googlemaps.php:86
+#@ default
+msgid "Address for directions:"
+msgstr ""
+
+#: includes/widgets/widget-colabs-googlemaps.php:90
+#@ default
+msgid "Info Bubble Content:"
+msgstr ""
+
+#: includes/widgets/widget-colabs-search.php:9
+#@ colabsthemes
+msgid "ColorLabs - Search"
+msgstr ""
+
+#: includes/widgets/widget-colabs-twitter.php:9
+#@ colabsthemes
+msgid "ColorLabs - Twitter Stream"
+msgstr ""
+
+#: loop.php:19
+#: single.php:7
+#, php-format
+#@ colabsthemes
+msgid "Permalink to %s"
+msgstr ""
+
+#: page-sitemap.php:10
+#@ colabsthemes
+msgid "Pages"
+msgstr ""
+
+#: page-sitemap.php:17
+#@ colabsthemes
+msgid "Feeds"
+msgstr ""
+
+#: page-sitemap.php:19
+#@ colabsthemes
+msgid "Main RSS"
+msgstr ""
+
+#: page-sitemap.php:20
+#@ colabsthemes
+msgid "Comment Feed"
+msgstr ""
+
+#: page-sitemap.php:27
+#@ colabsthemes
+msgid "Categories"
+msgstr ""
+
+#: page-sitemap.php:34
+#@ colabsthemes
+msgid "All Blog Posts"
+msgstr ""
+
+#: page-sitemap.php:52
+#@ colabsthemes
+msgid "Archives"
+msgstr ""
+
