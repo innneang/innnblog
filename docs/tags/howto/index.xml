@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Howto on Innnnnnnnnnn</title>
+    <link>https://innnblog.com/tags/howto/</link>
+    <description>Recent content in Howto on Innnnnnnnnnn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 18 Oct 2013 17:15:42 +0000</lastBuildDate>
+    
+	<atom:link href="https://innnblog.com/tags/howto/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Root คืออะไร|วิธี Root เครื่อง</title>
+      <link>https://innnblog.com/2013/10/how-to-root-your-android/</link>
+      <pubDate>Fri, 18 Oct 2013 17:15:42 +0000</pubDate>
+      
+      <guid>https://innnblog.com/2013/10/how-to-root-your-android/</guid>
+      <description>มีคนถามใน Facebook Comment ข้างใต้หลายคน จนผมขี้เกียจตอบแล้วเพราะมันเยอะมาก ตอบไปบางทีก็ไม่เข้าใจ
+อยากตอบง่ายๆว่าการ Root ก็เหมือนการปลดล็อกความสามารถของ Android ของคุณละครับ
+แต่ถ้าตอบตามความเข้าใจผมนะ (ย้ำว่าความเข้าใจผม) [ที่ถูกชัวร์ อิอิ] มันคือการปลดล็อกให้ &amp;ldquo;เรา&amp;rdquo; เข้าไปแก้ไขไฟล์ และข้อมูลในระบบที่โดนระบบ Android ล็อกเอาไว้ ล็อกทำไมนะหรอ ก็ไม่ให้เราไปลบโดนไฟล์แปลกๆแล้วเครื่องพังไงละ [อธิบายแค่นี้น่าจะเข้าใจแล้วนะ]
+ปกติที่ผมจะไม่ตอบ คนที่ถามมาว่า Root เครื่องยังไงก็เพราะว่าผมไม่รู้ว่าเครื่องคุณรุ่นอะไร เดียวผมบอกแล้วทำเครื่องคุณพังอีก - -&amp;rdquo; เลยใช้ให้ไปถาม Google เอาเอง แต่วันนี้ผมไปเจอโปรแกรมดีๆ ที่ได้คนอื่นเขาแนะนำมาอีกที เลยอยากมาเขียนแนะนำต่อๆไปอีก
+ชื่อโปรแกรมคือ Kingo|Android Root
+ไปหาโปรแกรมนี้ได้ที่เว็บต้นทางครับ http://www.kingoapp.com/ ปุ่มเขียวๆนะละ ปุ่มดาวน์โหลด
+การ Root มีความเสี่ยง ผู้ Root ควรศึกษาความเสี่ยงก่อน Root
+วิธีใช้นะเหรอ
+ที่จริงโปรแกรมนี้มันใช้ง่ายจนผมแทบไม่ต้องเขียนวิธีใช้ให้มันแล้วละ คือแค่ทำตามที่หน้าจอแนะนำแล้วกดปุ่มวิเศษปุ่มเดียวเครื่องเราก็ Rooted แล้ว
+แต่จะเขียนไว้เผื่องงกัน
+1.ตรวจเช็คว่ารุ่นของท่านรองรับไหม??? ได้ที่ http://www.kingoapp.com/android-root/devices.htm แต่บางคนถึงเครื่องไม่รองรับก็ใช้ได้นะ คือรองก่อนไม่ได้เครื่องไม่พัง เขาบอกมา
+2.เปิด USB Debugging mode ขั้นนี้แต่ละเครื่องจะไม่เหมือนกัน ดูในโปรแกรมจะมีบอกครับ</description>
+    </item>
+    
+  </channel>
+</rss>

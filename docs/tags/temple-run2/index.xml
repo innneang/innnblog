@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Temple Run2 on Innnnnnnnnnn</title>
+    <link>https://innnblog.com/tags/temple-run2/</link>
+    <description>Recent content in Temple Run2 on Innnnnnnnnnn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 03 Feb 2013 10:28:23 +0000</lastBuildDate>
+    
+	<atom:link href="https://innnblog.com/tags/temple-run2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>วิธีโกง Temple Run2 [Android]</title>
+      <link>https://innnblog.com/2013/02/%e0%b8%a7%e0%b8%b4%e0%b8%98%e0%b8%b5%e0%b9%82%e0%b8%81%e0%b8%87-temple-run2-android/</link>
+      <pubDate>Sun, 03 Feb 2013 10:28:23 +0000</pubDate>
+      
+      <guid>https://innnblog.com/2013/02/%e0%b8%a7%e0%b8%b4%e0%b8%98%e0%b8%b5%e0%b9%82%e0%b8%81%e0%b8%87-temple-run2-android/</guid>
+      <description>วิธีการนี้ใชได้กับ temple run 1 และเกมอื่นๆอีกในส่วนมาก
+เกมในตำนานระดับ Temple run ได้เปิดตัวภาค 2 เมื่อไม่กี่อาทิตย์มานี้นี่เองแถมยังได้ทำลายสถิติยอดการดาวน์โหลดเร็วที่สุด ทำลายสถิติ Angry Bird Space ด้วยจำนวนดาวน์โหลด 13 วัน 50 ล้านฮิต และผมก็ได้ค้นพบวิธีโกง(อีกแล้ว) แถมคราวนี้ใชได้ทั้ง iPhone และ Android วิธีก็จะทั่วๆไปคือใน Android ก็ใช้ Game CIH
+
+หมายเหตุ โปรแกรมโกงต้องใช้สิทธิ Root
+1.ดาวโหลดแอพที่ใช้โกงเกมกันก่อนครับ ซึ่งแอพนั้นก็เหมือนที่กล่าวมาตอนแรกเลยก็คือ Game CIH http://www.cih.com.tw/download.html
+2.ดาวโหลดเสร็จแล้วก็ Copy ลงโทรศัพท์ให้เรียบร้อยครับ แล้วติดตั้งเหมือนแอพทั่วๆไป หากคุณเป็นพวกที่ไม่เคย Root ไม่เคยลงแอพเถื่อนอะไรทั้งนั้นให้ไปคลิก Unknow Sources ใน Settings &amp;gt;&amp;gt;&amp;gt; Unknown Sources ก่อนนะครับ ให้ติดตั้งแอพจากภายนอกได้ครับ
+3.มาเข้าสู่ขั้นตอนการโกงกันเลยครับ ในขั้นนี้ให้เราเปิดโปรแกรม Game CIH ขึ้นมาครับ แล้วปิดลงไป จะสังเกตได้ว่ามี Toolbar โผล่ขึ้นมาแล้ว
+4.เปิดเกม Temple Run2 เลยครับ ^^
+Trip: หลักการของ Game CIH จะเหมือนกับ Cheat Engine ในคอมครับคือเราไปแก้ค่าใน Memory ของเกม ค่าในเกมจะมีอยู่เป็นล้านค่าก็เป็นได้แล้วแต่ความซับซ้อนของเกมตรงนี้ผมก็รู้ไม่ค่อยมากครับดังนั้นเราต้องการจะหาค่า Memory ที่เอาไว้เก็บเงิน (ในเกมนี้เงินแปลผันตรงตามคะแนน แค่ได้เงินคะแนนก็มา) ซึ่งตามที่บอกไปข้างต้นว่า Memory ของเกมมีเยอะมาก แต่ว่า Memory ของเงินมีเพียงหนึ่งเดียวเท่านั้น !</description>
+    </item>
+    
+  </channel>
+</rss>

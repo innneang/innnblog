@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>โกง on Innnnnnnnnnn</title>
+    <link>https://innnblog.com/tags/%E0%B9%82%E0%B8%81%E0%B8%87/</link>
+    <description>Recent content in โกง on Innnnnnnnnnn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 14 Jun 2013 17:11:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://innnblog.com/tags/%E0%B9%82%E0%B8%81%E0%B8%87/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>มาโกง Hill climb racing [Android] กันเถอะ</title>
+      <link>https://innnblog.com/2013/06/%e0%b8%a1%e0%b8%b2%e0%b9%82%e0%b8%81%e0%b8%87-hill-climb-racing-android-%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%96%e0%b8%ad%e0%b8%b0/</link>
+      <pubDate>Fri, 14 Jun 2013 17:11:00 +0000</pubDate>
+      
+      <guid>https://innnblog.com/2013/06/%e0%b8%a1%e0%b8%b2%e0%b9%82%e0%b8%81%e0%b8%87-hill-climb-racing-android-%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%96%e0%b8%ad%e0%b8%b0/</guid>
+      <description>เกมทุกๆเกมที่ผมเล่น ถ้าโกงไม่ได้ผมจะไม่เล่น :D เกมไหนที่เพื่อนผมเล่น
+ผมจะจับมาโกงให้หมดแล้วเอาชนะเพื่อน
+ด้วยเหตุที่ว่าผมไม่มีเวลามากพอที่จะเล่น
+วันนี้ถึงตาเกม Hill climb racing
+ผมค่อยๆขับเก็บเหรียญเพื่อนไปด่านดวงจันทร์แล้วยอมไม่ได้ วิธีทำ
+1.Root เครื่องของคุณก่อน อัพเดต: วิธีการ Root เครื่องคลิก
+2.ดาวน์โหลด ES File Explorer มาจาก Play Store
+3.เปิด Es File Explorer กดตรงเครื่องหมายรูปโลกกับโทรศัพท์ หาคำว่า Root Explorer กดเข้าไปมันขึ้นมาถามอะไรกด Grant
+4.ไปที่ส่วน root ของโทรศัพท์โดยการกดเครื่องหมาย / กดไปที่ data&amp;gt;data&amp;gt;com.fingersoft.hillclimb&amp;gt;shared_prefs&amp;gt;hillclimbprefs.xml&amp;gt;กด Edit
+5.ที่นี้ก็ถึงเวลาสนุกแล้วครับ เปลี่ยนแค่สองอย่างพอ
+ * adfree value เปลี่ยนจาก 0 เป็น 1 * coin value เปลี่ยนเป็นค่าที่ต้องการ [หากเปลี่ยนมากเกินไปเกมอาจเปิดไม่ติดได้]  6.เข้าเกมแล้วจัดการซื้อของที่ต้องการให้หมด
+หลายๆครั้งที่ผมทำแล้วมีคนมาบ่นว่าทำไม่เป็น อันนี้ผมทำเป็น VDO ให้ดูแล้ว อิอิ</description>
+    </item>
+    
+  </channel>
+</rss>

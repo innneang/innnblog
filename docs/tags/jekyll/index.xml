@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jekyll on Innnnnnnnnnn</title>
+    <link>https://innnblog.com/tags/jekyll/</link>
+    <description>Recent content in Jekyll on Innnnnnnnnnn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 09 May 2015 10:54:44 +0000</lastBuildDate>
+    
+	<atom:link href="https://innnblog.com/tags/jekyll/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ลองบล็อกด้วย Jekyll: Blogging Like A Hacker</title>
+      <link>https://innnblog.com/2015/05/play-with-jekyll/</link>
+      <pubDate>Sat, 09 May 2015 10:54:44 +0000</pubDate>
+      
+      <guid>https://innnblog.com/2015/05/play-with-jekyll/</guid>
+      <description>วันสองวันมานี้ผมได้ทำการศึกษาเรื่อง Jekyll ซึ่งเป็น Static file generator คือเราเขียนบล็อกเป็นไฟล์ Text แล้ว Jekyll จะแปลงเป็นไฟล์ HTML ให้เรานำไปอัพโหลดบนเซิฟเวอร์ต่อได้
+ครั้งแรกที่ผมเห็น Jekyll คือในเว็บของ Paul Stammy ที่เห็นแล้วสบถในใจว่าทำไมสวยขนาดนี้ จากนั้นจึงไปค้นว่าใช้ Jekyll เขียนบล็อก ศึกษาไปศึกษามาแล้วพบว่า Jekyll นี่สุดยอดมากจริงๆ
+ข้อดีคือ  * ทุกอย่างเป็น static file ทำให้ทำงานเร็วมาก และโฮสต์ไว้ที่ไหนก็ได้ [เช่น Github page สามารถโฮสต์ static file ได้ฟรี เลยมีหลายคนที่โฮสต์บล็อกที่เขียนด้วย Jekyll ไว้ใน Github ดังนั้นค่าใช้จ่ายสำหรับการเขียนบล็อกจะมีแค่ค่าโดเมน] * ไม่มีการเชื่อมต่อ Database ทำให้การย้าย Host เป็นไปได้เร็วมาก เพียงกดอัพโหลด ไม่ต้องจัดการกับการย้ายฐานข้อมูล mysql เหมือนของทางฝั่ง Wordpress * เหมาะแก่การทำเว็บเล็กๆ เช่นเว็บ Doccument หรือบล็อกเปิดใหม่ที่รักความ Geek มากๆ * ไม่เยอะเหมือน Wordpress [คือ Wordpress มันเยอะ เกินคำว่าบล็อกไปแล้ว] * การเขียน Theme และส่วนเสริมอื่นๆทำได้ง่าย เพราะใช้ Liquid ในการจัดการ Theme และระบบต่างๆถูกเขียนมาดีอยู่แล้ว [คิดไปคิดมาก็เหมือน Wordpress เลย] * มี Web server ในตัว ทำให้ไม่จำเป็นต้องลง Appserve, Xampp เพิ่ม สะดวกดี!</description>
+    </item>
+    
+  </channel>
+</rss>

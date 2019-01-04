@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Sarat Limawongpranee" />
+    <meta name="description" content="TH Blog Diary">
+    <link rel="shortcut icon" type="image/x-icon" href="https://innnblog.comimg/favicon.ico">
+    <title>จัดการ VPS DigitalOcean ด้วย Vesta Control Panel</title>
+    <meta name="generator" content="Hugo 0.53" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="https://innnblog.comcss/main.css" />
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,200bold,400old" />
+    
+    <!--[if lt IE 9]>
+			<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+			<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+		<![endif]-->
+
+    
+  </head>
+
+  <body>
+    <div id="wrap">
+
+      
+      <nav class="navbar navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="https://innnblog.com"><i class="fa fa-home"></i></a>
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+    <div class="navbar-collapse collapse" id="navbar">
+      <ul class="nav navbar-nav navbar-right">
+      
+        
+        <li><a href="/blog/">BLOG</a></li>
+        
+        <li><a href="/projects/">PROJECTS</a></li>
+        
+        <li><a href="/resume/">RESUME</a></li>
+        
+      
+      </ul>
+    </div>
+  </div>
+</nav>
+
+      
+      <div class="container">
+        <div class="blog-post">
+          <h3>
+            <strong><a href="https://innnblog.com/2015/05/install-vesta-panel-in-digitalocean/">จัดการ VPS DigitalOcean ด้วย Vesta Control Panel</a></strong>
+          </h3>
+        </div>
+        <div class="blog-title">
+          <h4>
+          May 4, 2015
+            &nbsp;&nbsp;
+            
+            <span class="label label-success">digitalocean</span>
+            
+            <span class="label label-success">vps</span>
+            
+          </h4>
+        </div>
+        <div class="panel panel-default">
+          <div class="panel-body">
+            <div class="blogpost">
+              
+
+<p>เนื่องจากเมื่อเดือนที่แล้วผมได้ย้ายเว็บตัวเองจาก Shared Host มาเป็น VPS ที่ <a href="https://www.innnblog.com/digital-ocean-high-quality-vps/">DigitalOcean</a> เป็นครั้งที่สอง [<a href="https://www.innnblog.com/from-shared-host-to-vps/">ครั้งแรก</a>ที่ย้ายกลับ]</p>
+
+<p>ปกติโฮสต์ที่ให้บริการส่วนใหญ่ในไทยก็จะเป็น Directadmin ที่คนใช้เยอะๆ หรือที่แพงๆหน่อยก็เป็น cPanel แต่สองตัวนี้มีข้อจำกัดครับ</p>
+
+<p>คือมันเสียตัง&hellip;</p>
+
+<!-- more -->
+
+<h2 id="ในบทความน-ผมจะใช-digitalocean-เป-นหล-กนะคร-บ-ใครย-งไม-ม-สม-ครได-ท-คล-กน-https-goo-gl-fqyxbv-ซ-งล-งค-น-เป-น-refferal-link-นะคร-บ-ค-อใครกดผ-านล-งค-น-แล-วจ-ายเง-นคร-งแรก-25-จะได-เพ-มอ-ก-10-รวมเป-น-35-ซ-ง-35-น-ใช-ได-ประมาณ-7-เด-อนพอด-3">ในบทความนี่ ผมจะใช้ DigitalOcean เป็นหลักนะครับ ใครยังไม่มี สมัครได้ที่ <a href="https://goo.gl/FQYxBV">คลิกนี่</a> ซึ่งลิงค์นี่เป็น Refferal Link นะครับ คือใครกดผ่านลิงค์นี้แล้วจ่ายเงินครั้งแรก $25 จะได้เพิ่มอีก $10 รวมเป็น $35 ซึ่ง $35 นี่ใช้ได้ประมาณ 7 เดือนพอดี :3</h2>
+
+<p><img src="https://www.innnblog.com/wp-content/uploads/2015/05/list_user-1.jpg" alt="list_user" />
+.</p>
+
+<p>เนื่องจากความงก เราเลยหาของฟรีแทน ซึ่งจากการค้นคว้าผ่าน Google แล้ว พบว่า ZPanel ที่เคยใช้คราวก่อนมันเลิกซัพพอร์ต Ubuntu เวอร์ชั่นใหม่ๆแล้วแถมคนส่วนใหญ่ยังบอกว่าไอ้นี่มันช่องโหว่เยอะ จึงตัดออกจากตัวเลือกไป และมาเจอ Vesta Panel ในบอร์ด Thaihosttalk [เจ้าของ Shared Host ที่ผมย้ายออกมาเป็นคนเอามาโพส โฮะๆ]</p>
+
+<h3 id="และจากการค-นคว-าต-อไป-ก-สร-ปได-เลยว-าไอ-ต-วน-ด-ส-ด-อ-คราวก-อนอ-นก-พ-ดง-และ-แต-ม-นด-จร-งๆนะ">และจากการค้นคว้าต่อไป ก็สรุปได้เลยว่าไอ้ตัวนี้ดีสุด [อีคราวก่อนอินก็พูดงี้และ (แต่มันดีจริงๆนะ)]</h3>
+
+<p>คือพอเห็นความสามารถแล้ว คือแบบ Directadmin ตกงานเลยอะ ขายแพงกว่า แต่มันทำได้เท่ากัน</p>
+
+<h1 id="ความสามารถของ-vestacp">ความสามารถของ VestaCP</h1>
+
+<p><img src="https://www.innnblog.com/wp-content/uploads/2015/05/vesta-features.png" alt="vesta-features" /></p>
+
+<p>จากที่เห็นจะพบว่าดีพอๆกับ Directadmin เลย ที่ผมรู้ว่าสำคัญและขาดอยู่อย่างเดียวคือ Online File Manager [แต่ก็ใช้ FTP แทนกันได้และ] ที่ชอบที่สุดและไม่คิดว่าจะมีในนี้คือระบบ Autoupdates ครับ!!! แถมรองรับ SNI ด้วย \โฮสต์แพงๆบางที่ยังไม่ให้ใช้เลย</p>
+
+<h1 id="ว-ธ-ต-ดต-ง">วิธีติดตั้ง</h1>
+
+<p>ตั้งค่า Droplet ใน <a href="https://www.innnblog.com/digital-ocean-high-quality-vps/">DigitalOcean </a>ก่อน ให้เลือกเป็น Ubuntu เวอร์ชั่นใดก็ได้ ตั้งแต่ 12.04 ขึ้นไปตามรูปครับ</p>
+
+<p>[คือจะเลือก CentOS หรือ Debian ก็ได้นะครับ แต่ผมใช้ไม่เป็น ดังนั้นมีปัญหาอะไรถามผมไม่ได้นะครับ :3]</p>
+
+<p><img src="https://www.innnblog.com/wp-content/uploads/2013/12/digitalocean-imageselect.png" alt="digitalocean-imageselect" /></p>
+
+<p>ตั้งค่าเสร็จแล้ว กด Deploy รอ 55 วินาที แล้วใช้ Putty ต่อเข้าไป หากใครมีปัญหาอะไร ไปอ่านบทความ <a href="https://www.innnblog.com/digital-ocean-high-quality-vps/">DigitalOcean </a>ที่ผมเคยเขียนไว้ได้ หรือไปดู<a href="https://www.innnblog.com/howto-setup-vpn-in-vps/">วิธีติดตั้ง VPN</a> เป็นแนวทางได้เหมือนกัน</p>
+
+<p>ตามหน้าเว็บ Doc ของ VestaPanel จะพบว่า VestaPanel นี่เป็นอะไรที่ติดตั้งง่ายที่สุดแล้ว เพราะพิมพ์แค่ 3 คำสั่ง ที่เหลือมันจัดการเอง \เหย้ดดด แต่มีข้อแม้ว่า VPS ที่เราเอามาใช้นั้นต้องเป็นเครื่องเปล่าห้ามติดตั้งอะไรมาก่อนไม่งั้นจะเจอ Error</p>
+
+<h1 id="ระบบปฏ-บ-ต-การท-รองร-บ">   ระบบปฏิบัติการที่รองรับ</h1>
+
+<p>#    RHEL 5, RHEL 6
+#    CentOS 5, CentOS 6
+#    Debian 7
+#    Ubuntu 12.04, Ubuntu 12.10, Ubuntu 13.04, Ubuntu 13.10, Ubuntu 14.04</p>
+
+<blockquote>
+
+> 
+> # เชื่อม Server  \\หากใช้ Putty ก็ไม่ต้องพิมพ์นะครับ 555+
+> 
+> 
+
+
+> 
+> ## ssh root@your.server
+> 
+> 
+
+> 
+> # ดาวโหลดน์สคริป
+> 
+> 
+
+
+> 
+> ## curl -O http://vestacp.com/pub/vst-install.sh
+> 
+> 
+
+> 
+> # เริ่มติดตั้ง! อาจจะมีให้ตั้งค่าตอนติดตั้งบ้างอะไรบ้างก็จิ้มๆไปผมไม่ได้แคพมาให้นะครับ
+> 
+> 
+
+
+> 
+> ## bash vst-install.sh
+> 
+> 
+</blockquote>
+
+<h3 id="ท-สำค-ญตอนเสร-จส-น-ม-นจะให-รห-ส-admin-ต-างๆเรามาก-อย-าล-มจดไว-นะคร-บ-เด-ยวต-องไปค-นในไฟล-config-อ-ก">ที่สำคัญตอนเสร็จสิ้น มันจะให้รหัส admin ต่างๆเรามาก็อย่าลืมจดไว้นะครับ เดียวต้องไปค้นในไฟล์ Config อีก</h3>
+
+<p>เพียงเท่านี้เราก็จะได้ Panel สุดเจ๋งมาแว้ววว สามารถเพิ่ม Web แล้วชี้ A record มาได้เลย หรือจะตั้งค่า nameserver ใช้เองก็ได้เลย</p>
+
+<p>หากใครต้องการตั้งค่า Nameserver แล้วหาวิธีทำไม่ถูก อ่านจาก Document ได้ที่ <a href="https://vestacp.com/docs/#how-to-setup-vanity-nameservers">https://vestacp.com/docs/#how-to-setup-vanity-nameservers</a> ครับ</p>
+
+<h2 id="หากใครม-คำถามอะไร-ฝากไว-ท-กล-องคอมเมนท-ด-านล-างได-คร-บ-ผมผ-านมาเม-อไรจะมาทยอยตอบให-หร-อหากต-องการคำตอบด-วน-ก-สามารถส-งเมลล-มาถามได-ท-in-innnblog-com-คร-บ">หากใครมีคำถามอะไร ฝากไว้ที่กล่องคอมเมนท์ด้านล่างได้ครับ ผมผ่านมาเมื่อไรจะมาทยอยตอบให้ หรือหากต้องการคำตอบด่วน ก็สามารถส่งเมลล์มาถามได้ที่ in@innnblog.com ครับ</h2>
+
+<p>ลิงค์เพิ่มเติม อ่านได้: <a href="https://vestacp.com/">https://vestacp.com/</a>, <a href="https://vestacp.com/docs/">https://vestacp.com/docs/</a></p>
+
+              <hr>
+              <div class="related-posts">
+                <h5>Related Posts</h5>
+                
+                  <div class="row">
+                    <div class="col-sm-4 col-md-4 col-lg-4">
+                      <h6 style="text-align: right">
+                        April 1, 2015
+                      </h6>
+                    </div>
+                    <div class="col-sm-8 col-md-8 col-lg-8">
+                      <h6 style="text-align: left">
+                        <strong><a href="/2015/04/howto-setup-vpn-in-vps/">วิธีติดตั้ง VPN ใช้ส่วนตัวใน VPS [Linux] ภายใน 3 นาที</a></strong>
+                      </h6>
+                    </div>
+                  </div>
+                
+                  <div class="row">
+                    <div class="col-sm-4 col-md-4 col-lg-4">
+                      <h6 style="text-align: right">
+                        February 21, 2014
+                      </h6>
+                    </div>
+                    <div class="col-sm-8 col-md-8 col-lg-8">
+                      <h6 style="text-align: left">
+                        <strong><a href="/2014/02/from-shared-host-to-vps/">จาก Shared Host สู่ VPS</a></strong>
+                      </h6>
+                    </div>
+                  </div>
+                
+                  <div class="row">
+                    <div class="col-sm-4 col-md-4 col-lg-4">
+                      <h6 style="text-align: right">
+                        December 12, 2013
+                      </h6>
+                    </div>
+                    <div class="col-sm-8 col-md-8 col-lg-8">
+                      <h6 style="text-align: left">
+                        <strong><a href="/2013/12/how-to-blog-1/">วิธีทำเว็บ เขียนบล็อกเบื้องต้น [ตอน 1]</a></strong>
+                      </h6>
+                    </div>
+                  </div>
+                
+              </div>
+            </div>
+          </div>
+          <hr>
+        
+        </div>
+      </div>
+      
+    </div>
+
+    
+    <footer>
+  <div id="footer">
+    <div class="container">
+      <p class="text-muted">&copy; All rights reserved. </p>
+      
+      
+    </div>
+  </div>
+</footer>
+<div class="footer"></div>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script src="https://innnblog.comjs/docs.min.js"></script>
+<script src="https://innnblog.comjs/main.js"></script>
+
+<script src="https://innnblog.comjs/ie10-viewport-bug-workaround.js"></script>
+
+
+
+  </body>
+</html>

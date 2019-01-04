@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Sarat Limawongpranee" />
+    <meta name="description" content="TH Blog Diary">
+    <link rel="shortcut icon" type="image/x-icon" href="https://innnblog.comimg/favicon.ico">
+    <title>ติดตั้ง Dictionary แปลอังกฤษเป็นไทยเพิ่มใน iOS ด้วย Dictionary.Append</title>
+    <meta name="generator" content="Hugo 0.53" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="https://innnblog.comcss/main.css" />
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,200bold,400old" />
+    
+    <!--[if lt IE 9]>
+			<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+			<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+		<![endif]-->
+
+    
+  </head>
+
+  <body>
+    <div id="wrap">
+
+      
+      <nav class="navbar navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="https://innnblog.com"><i class="fa fa-home"></i></a>
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+    <div class="navbar-collapse collapse" id="navbar">
+      <ul class="nav navbar-nav navbar-right">
+      
+        
+        <li><a href="/blog/">BLOG</a></li>
+        
+        <li><a href="/projects/">PROJECTS</a></li>
+        
+        <li><a href="/resume/">RESUME</a></li>
+        
+      
+      </ul>
+    </div>
+  </div>
+</nav>
+
+      
+      <div class="container">
+        <div class="blog-post">
+          <h3>
+            <strong><a href="https://innnblog.com/2014/09/how-to-install-eng-thai-in-ios-built-in-dictionary/">ติดตั้ง Dictionary แปลอังกฤษเป็นไทยเพิ่มใน iOS ด้วย Dictionary.Append</a></strong>
+          </h3>
+        </div>
+        <div class="blog-title">
+          <h4>
+          September 22, 2014
+            &nbsp;&nbsp;
+            
+            <span class="label label-success">dictionary</span>
+            
+            <span class="label label-success">ios</span>
+            
+            <span class="label label-success">iphone</span>
+            
+          </h4>
+        </div>
+        <div class="panel panel-default">
+          <div class="panel-body">
+            <div class="blogpost">
+              
+
+<p>Dictionary ใน iOS นั้นหลายคนอาจจะไม่เคยรู้ว่ามันมีฟังค์ชั่นนี้อยู่ในโลก โดยหากเรากด Select ข้อความแล้วเลือก Define จะมี Dictionary ขึ้นมาทันทีซึ่งมันสะดวกมาก สามารถดาวน์โหลดภาษาต่างๆเพิ่มได้มากมาย[จาก Server Apple] แต่ปัญหาของเราก็คือมันไม่มีภาษาไทยครับ!!! หลายเดือนก่อนผมพยายามค้นหาวิธีเพิ่มพจนานุกรมอังกฤษ-ไทย เข้าไปใน iOS แต่ก็ล้มเหลว แต่วันนี้ผมเจอแล้วครับ :D บล็อกนี้เลยจะมาเขียนบล็อกถึงวิธีเพิ่มพจนานุกรมแบบ อังกฤษ-ไทย ใน iOS ครับ [ที่บอกว่า iOS นั้นหมายความว่าใช้ได้ทั้ง iPhone, iPad, iPod etc.]</p>
+
+<!-- more -->
+
+<p><img src="https://www.innnblog.com/wp-content/uploads/2014/09/dictionary-install-1.jpg" alt="dictionary-install-1" /></p>
+
+<p>สำหรับใครที่เพิ่งจะอัพ iOS8 อาจจะได้ใช้ Dictionary ภาษาไทย แต่เป็นแบบไทยแท้ๆไม่มีอังกฤษปน [พจนานุกรมฉบับราชบัณฑิตสถาน ไทย-ไทย] ซึ่งผมยังคิดไม่ออกว่านอกจากตอนอ่านวรรณคดีไทยที่โรงเรียนแล้ว ผมจะใช้พจนานุกรมไทย-ไทย ไปทำไม สิ่งที่ผมต้องการคือพจนานุกรมแบบ อังกฤษ-ไทยต่างหากละ</p>
+
+<p>เมื่อไม่กี่วันก่อนความต้องการของผมได้สัมฤทธิ์ผล เนื่องจากได้ไปค้นหาในเว็บต่างประเทศต่างๆนานา เลยได้พบกับแอพ Dictionary.Append ที่สามารถเพิ่ม Dictionary ที่เราต้องการจากคอมพิวเตอร์ลงไปใน iOS ได้ ฟังดูดีใช่ไหมละครับ</p>
+
+<p>แต่มีปัญหาอยู่ข้อนึง คือโดน Apple จัดการลงดาบ ถอดแอพออกจาก Appstore เรียบร้อย เนื่องจากไปขัดกฏของ Apple พวกที่เกี่ยวกับการดัดแปลงเครื่อง และในความรู้สึกผมแอพนี้เป็นการแหก Sandbox ของ Apple ด้วย</p>
+
+<p>ผมใช้เวลาเกือบสองชั่วโมงเพื่อหาวิธีเอาแอพที่โดนถอดไปแล้ว มาลงในเครื่อง ซึ่งขอบอกไว้ก่อนนะครับว่าวิธีนี้ผิดกฏ Apple แน่นอน ถึงแม้ในบล็อกนี้จะใช้กับแอพฟรีก็เถอะ</p>
+
+<p>วิธีของผมก็คือใช้การโหลดแอพจาก Tongbu ซึ่งเป็น Appstore(เถื่อน) ของจีนครับ</p>
+
+<h2 id="ว-ธ-ทำ">วิธีทำ</h2>
+
+<p>1.ดาวน์โหลดแอพ Tongbu จากเว็บ <a href="http://www.tongbu.com/zhushou/">Tongbu.com</a> [สามารถอ่านเรื่อง Tongbu เพิ่มเติมได้ที่ <a href="https://www.innnblog.com/tongbu-ios-free-appstore/">Tongbu ลงแอพเถื่อนไม่เสียเงิน</a>] ติดตั้งให้เรียบร้อย ใครงงวิธีอะไรไปอ่านใน<a href="https://www.innnblog.com/tongbu-ios-free-appstore/">ลิงค์เมื่อกี้</a> :3</p>
+
+<p>2.ติดตั้งแอพ Dictionary.Append จากโปรแกรม Tongbu สามารถดูวิธีได้จาก<a href="https://www.innnblog.com/tongbu-ios-free-appstore/">ลิงค์เมื่อกี้</a>เช่นเคย</p>
+
+<p>3.จากนี้เราก็ไม่ต้องใช้โปรแกรม Tongbu แล้ว ลบมันทิ้งไปเล๊ยยยย</p>
+
+<p>4.เสียบสาย เปิด iTunes ดาวน์โหลดไฟล์ Dictionary ของ Lexitron ได้จาก<a href="https://www.dropbox.com/s/k6julmp1tq4jnp0/Lexitron%20English-Thai%20Dictionary.dictionary.zip?dl=0">ลิงค์นี้คลิกเลย</a></p>
+
+<p>5.จากนั้นทำการแตก Zip ไฟล์ที่ดาวน์โหลดไปแล้ว ก็อปใส่แอพ Dicitonary.Append</p>
+
+<p><img src="https://www.innnblog.com/wp-content/uploads/2014/09/dictionary-install-3-1.jpg" alt="dictionary-install-3" /></p>
+
+<p>6.เปิดแอพ Dictionary.Append ขึ้นมาแล้วหา Dictionary ที่เราเพิ่งลากลงเครื่องไปแล้วกด Install ให้เรียบร้อย แค่นี้ก็เสร็จสิ้นจบพิธีครับ ลองกด Define ได้เลย</p>
+
+<p><img src="https://www.innnblog.com/wp-content/uploads/2014/09/dictionary-install-2.jpg" alt="dictionary-install-2" /></p>
+
+<h3 id="หล-งจากทำเสร-จแล-วค-ณสามารถอ-านน-ยายภาษาอ-งกฤษใน-ibooks-อ-านข-าวใน-cnn-ได-แบบไม-ต-องมาน-งคอยไปเป-ดด-กซ-ในอ-กแอพน-งแล-วย-ายกล-บมาอ-านต-ออ-กต-อไปแล-ว-ชะลาล-าา">หลังจากทำเสร็จแล้วคุณสามารถอ่านนิยายภาษาอังกฤษใน iBooks อ่านข่าวใน CNN ได้แบบไม่ต้องมานั่งคอยไปเปิดดิกซ์ในอีกแอพนึงแล้วย้ายกลับมาอ่านต่ออีกต่อไปแล้ว ชะลาล๊าา</h3>
+
+<h3 id="อน-งว-ธ-การน-เป-นการแหกกฏ-apple-โดยลงแอพจากนอก-appstore-หากใครเป-นพวกชอบใช-ของแท-ก-อาจต-องข-ามว-ธ-น-ไปคร-บ">อนึ่งวิธีการนี้เป็นการแหกกฏ Apple โดยลงแอพจากนอก Appstore หากใครเป็นพวกชอบใช้ของแท้ ก็อาจต้องข้ามวิธีนี้ไปครับ</h3>
+
+              <hr>
+              <div class="related-posts">
+                <h5>Related Posts</h5>
+                
+                  <div class="row">
+                    <div class="col-sm-4 col-md-4 col-lg-4">
+                      <h6 style="text-align: right">
+                        January 14, 2016
+                      </h6>
+                    </div>
+                    <div class="col-sm-8 col-md-8 col-lg-8">
+                      <h6 style="text-align: left">
+                        <strong><a href="/2016/01/screen-recording-on-ios/">อัดหน้าจอ iPhone iPad ทำยังไง [ไม่เจลเบรค]</a></strong>
+                      </h6>
+                    </div>
+                  </div>
+                
+                  <div class="row">
+                    <div class="col-sm-4 col-md-4 col-lg-4">
+                      <h6 style="text-align: right">
+                        October 8, 2014
+                      </h6>
+                    </div>
+                    <div class="col-sm-8 col-md-8 col-lg-8">
+                      <h6 style="text-align: left">
+                        <strong><a href="/2014/10/%e0%b8%a7%e0%b8%b4%e0%b8%98%e0%b8%b5%e0%b9%82%e0%b8%81%e0%b8%87%e0%b9%80%e0%b8%81%e0%b8%a1-maze-runner-ios/">วิธีโกงเกม Maze runner [iOS]</a></strong>
+                      </h6>
+                    </div>
+                  </div>
+                
+                  <div class="row">
+                    <div class="col-sm-4 col-md-4 col-lg-4">
+                      <h6 style="text-align: right">
+                        September 12, 2014
+                      </h6>
+                    </div>
+                    <div class="col-sm-8 col-md-8 col-lg-8">
+                      <h6 style="text-align: left">
+                        <strong><a href="/2014/09/bridge-transfer-music-video-to-iphone-without-itunes/">Review: Bridge ลงเพลง/วีดีโอลง iPhone โดยไม่ผ่าน iTunes</a></strong>
+                      </h6>
+                    </div>
+                  </div>
+                
+              </div>
+            </div>
+          </div>
+          <hr>
+        
+        </div>
+      </div>
+      
+    </div>
+
+    
+    <footer>
+  <div id="footer">
+    <div class="container">
+      <p class="text-muted">&copy; All rights reserved. </p>
+      
+      
+    </div>
+  </div>
+</footer>
+<div class="footer"></div>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script src="https://innnblog.comjs/docs.min.js"></script>
+<script src="https://innnblog.comjs/main.js"></script>
+
+<script src="https://innnblog.comjs/ie10-viewport-bug-workaround.js"></script>
+
+
+
+  </body>
+</html>

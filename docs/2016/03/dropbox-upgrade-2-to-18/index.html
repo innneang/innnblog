@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Sarat Limawongpranee" />
+    <meta name="description" content="TH Blog Diary">
+    <link rel="shortcut icon" type="image/x-icon" href="https://innnblog.comimg/favicon.ico">
+    <title>วิธีเพิ่มพื้นที่ Dropbox ด้วยการชวนเพื่อน เป็น 18GB</title>
+    <meta name="generator" content="Hugo 0.53" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="https://innnblog.comcss/main.css" />
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,200bold,400old" />
+    
+    <!--[if lt IE 9]>
+			<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+			<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+		<![endif]-->
+
+    
+  </head>
+
+  <body>
+    <div id="wrap">
+
+      
+      <nav class="navbar navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="https://innnblog.com"><i class="fa fa-home"></i></a>
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+    <div class="navbar-collapse collapse" id="navbar">
+      <ul class="nav navbar-nav navbar-right">
+      
+        
+        <li><a href="/blog/">BLOG</a></li>
+        
+        <li><a href="/projects/">PROJECTS</a></li>
+        
+        <li><a href="/resume/">RESUME</a></li>
+        
+      
+      </ul>
+    </div>
+  </div>
+</nav>
+
+      
+      <div class="container">
+        <div class="blog-post">
+          <h3>
+            <strong><a href="https://innnblog.com/2016/03/dropbox-upgrade-2-to-18/">วิธีเพิ่มพื้นที่ Dropbox ด้วยการชวนเพื่อน เป็น 18GB</a></strong>
+          </h3>
+        </div>
+        <div class="blog-title">
+          <h4>
+          March 17, 2016
+            &nbsp;&nbsp;
+            
+            <span class="label label-success">dropbox</span>
+            
+          </h4>
+        </div>
+        <div class="panel panel-default">
+          <div class="panel-body">
+            <div class="blogpost">
+              
+
+<p>ผมเคยรับทำงาน (ตอนนี้ก็ยังมีคนรับทำงานแบบนี้อยู่ในเว็บ fiiver)เพิ่ม Dropbox จาก 2GB เป็น 18GB ด้วยการเชิญเพื่อนอยู่ ภาษาอังกฤษเรียกว่า referrals คร่าวๆคือเชิญเพื่อนมาสมัคร Dropbox ต่อจากลิงค์ที่เราให้เพื่อน เมื่อเพื่อนสมัครและทำการ Signin ในโปรแกรม Dropbox จากนั้นกดยืนยัน Email เราก็จะได้พื้นที่มาฟรีๆคนละ 500MB ครับ มันก็ไม่ค่อยถูกหลักที่ควรจะทำซักเท่าไร แต่ในเมื่อไม่ได้ทำมานานแล้ว เลยอยากนำวิธีมาให้ศึกษาดูถึงช่องโหว่บริการ Dropbox เล็กๆน้อยๆครับ<img src="https://www.innnblog.com/wp-content/uploads/2016/03/dropbox-1-1024x371.jpg" alt="dropbox" /></p>
+
+<!-- more -->
+
+<h1 id="แล-วม-นม-อะไรซ-บซ-อน">แล้วมันมีอะไรซับซ้อน?</h1>
+
+<p>หลักการฟังดูง่ายๆใช่ไหมครับ แบบแค่เอาลิงค์มา สมัครเสร็จ ก็นำไป Signin แล้วก็ยืนยันอีเมลล์ แล้วทำไมคนเขาไม่ทำกันเองละ? เหตุผลก็คือหากทำไม่เป็นมันจะขึ้นว่า &ldquo;ไม่เข้าเงื่อนไข&rdquo; เพราะ Dropbox เขากลัวคนไปทำเองแบบนี้จึงทำอัลกอริทึมเพื่อตรวจสอบว่า คนที่มาสมัครเป็นคนใหม่จริงๆ ไม่ใช่คนหน้าเก่าที่มาแอบเอาพื้นที่ฟรีๆครับ</p>
+
+<p>_ซึ่งจากที่ผมทำการทดลองทดสอบหลายๆครั้งแล้ว พบว่า _</p>
+
+<pre><code>  1. _Dropbox จะเช็คหมายเลข IP (ข้อนี้ที่จริงไม่ต้องแก้ก็ได้ไม่มีผล แต่ปกติผมทำเพื่อข้าม Capctha ตอนสมัครเฉยๆ  ไม่มีความจำเป็นต้องทำก็ได้)_
+  2. แอพ Dropbox ในเครื่องว่าเคย Login Dropbox มาหรือยัง ถ้าเคยแล้วก็จะไม่เข้าเงื่อนไข
+  3. Dropbox จะเช็คการยืนยันอีเมลล์ ถ้าไม่ยืนยันอีเมลล์ก็จะไม่ได้พื้นที่เพิ่ม
+</code></pre>
+
+<h1 id="แล-วเราจะแก-ป-ญหาน-อย-างไร">แล้วเราจะแก้ปัญหานี้อย่างไร</h1>
+
+<p>1.วิธีแก้ปัญหาของผมที่คิดได้คือใช้ Tor เพื่อสร้าง Sock5 Proxy และ Foward traffic ของแอพ Dropbox ผ่านเข้าไป โดยทั้งหมดใช้โปรแกรม Proxifier และ Tor Browser ครับ \สำหรับใครที่ไม่อยากใช้วิธีนี้ ใช้การ Reset Router เอาก็ได้ ง่ายกว่าเยอะ</p>
+
+<p>2.เนื่องจากเราไม่ต้องการที่จะลงวินโดวใหม่ทุกๆครั้งในการทำ 1 ครั้ง เราจะใช้โปรแกรมเพื่อจำลอง OS ขึ้นมาตัวหนึ่ง ซึ่งในที่นี้ผมใช้โปรแกรม Parallels  และระบบปฏิบัติการ Ubuntu ซึ่งเป็น Opensource</p>
+
+<p>3.เนื่องจากเราไม่ต้องการสมัคร Hotmail, Gmail ใหม่ทุกๆครั้ง เราจึงใช้บริการที่เรียกว่า Temp-mail ซึ่งบริการนี้จะสร้างอีเมลล์ขึ้นมาเท่าไรก็ได้ โดยไม่ต้องสมัครสมาชิก ซึ่งมีหลายที่ แต่ในที่นี้ ผมใช้ของ <a href="http://temp-mail.org">temp-mail.org</a></p>
+
+<h1 id="เรามาลองด-ว-ธ-คร-าวๆด-กว-า">เรามาลองดูวิธีคร่าวๆดีกว่า</h1>
+
+<p><strong>ขั้นเตรียมการ ติดตั้งโปรแกรม Dropbox</strong></p>
+
+<pre><code>  1. เปิด Parallels สร้าง Virtual Machine ขึ้นมาตัวหนึ่ง เลือก Ubuntu image ที่ได้ดาวน์โหลดไว้จากเว็บ www.**ubuntu**.com
+  2. โหลดโปรแกรม Dropbox ใน Virtual Machine ติดตั้งให้เรียบร้อย
+  3. ทำ Snapshot ตอนติดตั้ง เพื่อจะได้ย้อนกลับมาก่อนทำการ Login
+</code></pre>
+
+<p><strong>ขั้นเตรียมการ ลงทะเบียน Dropbox</strong></p>
+
+<pre><code>  1. ใช้อีเมลล์ที่ได้จาก temp-mail.org แล้วนำไปสมัครผ่านลิงค์ที่ได้จาก www.dropbox.com/referrals
+</code></pre>
+
+<p><strong>ขั้นดำเนินการ</strong></p>
+
+<pre><code>  1. เปิดโปรแกรม Proxifier และ Tor browser ตั้งค่าให้ Proxifier ใช้ Sock5 Proxy จาก Tor [ดูการตั้งค่าได้ใน tor browser]
+  2. เมื่อสมัครเสร็จแล้ว 1 คน นำอีเมลล์ที่สมัครเสร็จไป login ใน virtual machine ของเรา
+  3. กลับไปที่ temp-mail.org ทำการ activate ให้เรียบร้อย
+  4. เมื่อจะทำคนต่อไปให้กลับไปที่ tor browser และกด New identity เพื่อเปลี่ยน IP
+  5. Revert to latest snapshot
+  6. เสร็จแล้ว 1 เหลืออีก 31 คนที่ต้องทำ ขอให้สนุกครับ :D
+</code></pre>
+
+<p>หมายเหตุ: สามารถย่นขั้นตอนการสมัครลิงค์ Refferals จาก Dropbox ได้โดยการใช้ Chrome/Firefox Plugin ที่ชื่อ iMacro เขียนสคริปในการสมัครเว็บ Dropbox ได้ง่ายๆ</p>
+
+              <hr>
+              <div class="related-posts">
+                <h5>Related Posts</h5>
+                
+                  <div class="row">
+                    <div class="col-sm-4 col-md-4 col-lg-4">
+                      <h6 style="text-align: right">
+                        April 12, 2013
+                      </h6>
+                    </div>
+                    <div class="col-sm-8 col-md-8 col-lg-8">
+                      <h6 style="text-align: left">
+                        <strong><a href="/2013/04/customers-telphone/">รับโทรศัพท์ลูกค้าครั้งแรก</a></strong>
+                      </h6>
+                    </div>
+                  </div>
+                
+              </div>
+            </div>
+          </div>
+          <hr>
+        
+        </div>
+      </div>
+      
+    </div>
+
+    
+    <footer>
+  <div id="footer">
+    <div class="container">
+      <p class="text-muted">&copy; All rights reserved. </p>
+      
+      
+    </div>
+  </div>
+</footer>
+<div class="footer"></div>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script src="https://innnblog.comjs/docs.min.js"></script>
+<script src="https://innnblog.comjs/main.js"></script>
+
+<script src="https://innnblog.comjs/ie10-viewport-bug-workaround.js"></script>
+
+
+
+  </body>
+</html>

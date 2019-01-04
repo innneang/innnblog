@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ghost on Innnnnnnnnnn</title>
+    <link>https://innnblog.com/tags/ghost/</link>
+    <description>Recent content in Ghost on Innnnnnnnnnn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 14 Feb 2014 09:48:24 +0000</lastBuildDate>
+    
+	<atom:link href="https://innnblog.com/tags/ghost/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>โดดมาเล่น &#34;Ghost: just a blogging platform&#34;</title>
+      <link>https://innnblog.com/2014/02/ghost-blogging-platform/</link>
+      <pubDate>Fri, 14 Feb 2014 09:48:24 +0000</pubDate>
+      
+      <guid>https://innnblog.com/2014/02/ghost-blogging-platform/</guid>
+      <description>คือปิดเทอมแล้วละ มีเวลาว่างสองวันมาเล่นคอม เลยได้ลองของใหม่
+Ghost คืออะไร &amp;ldquo;Ghost:just a blogging platform&amp;rdquo; ชือก็บอกแล้วว่าใช้ทำอะไร เรื่องมันเริ่มจากคุณJohn O&amp;rsquo;Nolan [รองหัวหน้าทีม Wordpress UI Group] ออกมาบอกว่า&amp;ldquo;WordPress is so much more than just a blogging platform&amp;rdquo; นั้นคือ wordpress มันไม่ได้เป็นแค่สิ่งที่ไว้เขียนบล็อกอีกต่อไปแล้ว คือเขารู้สึกว่ามัน มาก เกินไปนั้นเอง โดยเขาได้เอาแนวคิดนี้ไปลงใน Kickstarter ซึ่งก็มีคนมาระดมทุนอย่างล้นหลาม Kickstarter ตอนนี้ Ghost ก็เป็นรูปเป็นร่างเรียบร้อยแล้ว
+ตัว Ghost นั้นเป็น Opensource ใช้สัญญาอนุญาติ MIT นั้นหมายความว่าคุณสามารถดาวน์โหลดมาติดตั้งแล้วใช้เองได้เลย [แบบผม]
+ซึ่งตัวเว็บของมันอยู่ที่ Ghost.org ดาวน์โหลดมาเล่นกันได้เลย :3
+สรุป ซึ่งโดยรวมแล้วผมยังถือว่ายังไม่ค่อยสมบูรณ์ หน้า Dasboard ที่ว่ากันว่าดียังไม่ได้ออกมาให้ใช้ ตัวระบบ EDITOR ยังรวนๆค้างๆ อาจเป็นเพราะมี Live Preview อยู่ ปรับแต่งอะไรไม่ได้เลยตอนนี้ [เขาบอกว่าเดียวจะตามมา] ตัวเลขเวอร์ชั่นเองยังไม่ถึงเลข 1 เสียด้วยซ้ำ ผมก็ถือเป็น Earlybird มาลองยาก่อน :3</description>
+    </item>
+    
+  </channel>
+</rss>
