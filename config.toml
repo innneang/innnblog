@@ -6,7 +6,7 @@ title = "Innnnnnnnnnn"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 theme = "hugo-sustain"
-publishDir = "docs"
+#publishDir = "docs"
 [permalinks]
   post = "/:year/:month/:slug"
 
