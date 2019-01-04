@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hacking Facebook on Innnnnnnnnnn</title>
-    <link>https://innnblog.com/tags/hacking-facebook/</link>
+    <link>https://innneang.github.io/innnblog/tags/hacking-facebook/</link>
     <description>Recent content in Hacking Facebook on Innnnnnnnnnn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 14 Sep 2014 16:33:33 +0000</lastBuildDate>
     
-	<atom:link href="https://innnblog.com/tags/hacking-facebook/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://innneang.github.io/innnblog/tags/hacking-facebook/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>แฮกเฟสบุคทำยังไง: เรียนรู้การทำ Phishing Facebook</title>
-      <link>https://innnblog.com/2014/09/howto-hack-facebook-learn-about-phishing/</link>
+      <link>https://innneang.github.io/innnblog/2014/09/howto-hack-facebook-learn-about-phishing/</link>
       <pubDate>Sun, 14 Sep 2014 16:33:33 +0000</pubDate>
       
-      <guid>https://innnblog.com/2014/09/howto-hack-facebook-learn-about-phishing/</guid>
+      <guid>https://innneang.github.io/innnblog/2014/09/howto-hack-facebook-learn-about-phishing/</guid>
       <description>คือมีคนถามเยอะมาก ว่าจะแฮกเฟสบุคทำยังไงหรอ บลาๆ
 วันนี้เลยจะมาสอนวิธีการทำ Phishing เฟสบุคเพื่อการศึกษา ย้ำว่าเพื่อการศึกษานะครับ ผมเองยังแทบไม่เคยเอาไปใช้กับใครเลย ผิดพ.ร.บ.คอมพิวเตอร์น้าาา เตือนไว้ก่อน
 Phishing คืออะไร Phishing คือคำที่ใช้เรียกเทคนิคการหลอกลวงโดยใช้อีเมลหรือหน้าเว็บไซต์ปลอมเพื่อให้ได้มาซึ่งข้อมูล เช่น ชื่อผู้ใช้ รหัสผ่าน หรือข้อมูลส่วนบุคคลอื่น ๆ เพื่อนำข้อมูลที่ได้ไปใช้ในการเข้าถึงระบบโดยไม่ได้รับอนุญาต หรือสร้างความเสียหายในด้านอื่น ๆ เช่น ด้านการเงิน เป็นต้น ในบทความนี้จะเน้นในเรื่องของ Phishing ที่มีจุดมุ่งหมายเพื่อหลอกลวงทางการเงิน เนื่องจากจะทำให้ผู้อ่านมองเห็นผลกระทบได้ง่าย อ้างอิงจาก: https://www.thaicert.or.th/papers/general/2012/pa2012ge007.html แล้วเกี่ยวอะไรกับการแฮกเฟสบุค คือเฟสบุคนี่มีระบบความปลอดภัยระดับสูงมาก คือระดับโลกเลย (ก็บริษัทเขาก็ระดับโลกนี่เนาะ) ทำให้ไม่สามารถดักหรือโจมตีช่องทางอื่นๆได้ (อาจมีพวก MID, DNS Spoof) ซึ่งอาจเกินขอบเขตความรู้ผมไปหน่อย และไม่สามารถส่งให้เพื่อนได้ แต่ Phishing ทำได้

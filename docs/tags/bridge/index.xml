@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bridge on Innnnnnnnnnn</title>
-    <link>https://innnblog.com/tags/bridge/</link>
+    <link>https://innneang.github.io/innnblog/tags/bridge/</link>
     <description>Recent content in Bridge on Innnnnnnnnnn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 12 Sep 2014 13:37:41 +0000</lastBuildDate>
     
-	<atom:link href="https://innnblog.com/tags/bridge/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://innneang.github.io/innnblog/tags/bridge/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Review: Bridge ลงเพลง/วีดีโอลง iPhone โดยไม่ผ่าน iTunes</title>
-      <link>https://innnblog.com/2014/09/bridge-transfer-music-video-to-iphone-without-itunes/</link>
+      <link>https://innneang.github.io/innnblog/2014/09/bridge-transfer-music-video-to-iphone-without-itunes/</link>
       <pubDate>Fri, 12 Sep 2014 13:37:41 +0000</pubDate>
       
-      <guid>https://innnblog.com/2014/09/bridge-transfer-music-video-to-iphone-without-itunes/</guid>
+      <guid>https://innneang.github.io/innnblog/2014/09/bridge-transfer-music-video-to-iphone-without-itunes/</guid>
       <description>ปฏิเสธไม่ได้เลยว่า iPhone, iPod, iPad นั้นเป็นอุปกรณ์ที่สุดยอดมากในแง่ความบันเทิง เปิดเพลงก็ได้ เปิดวีดีโอก็ได้ แต่ก็ยังมีข้อจำกัดที่ทุกคนรู้ดีคือคุณต้องใช้ iTunes ในการ Import สื่อต่างๆเข้ามาในเครื่อง วันนี้ข้อจำกัดนั้นจะหมดไป ด้วย Bridge - [Cydia app]
 นักพัฒนาคนนึงชื่อ Jonas Gessner ได้พัฒนาโปรแกรม Bridge ขึ้นมา ไว้ใช้ import เพลง/วีดีโอจากแอพอื่น เช่น Music Downloader ต่างๆ เข้ามาในเครื่องได้ภายในไม่เกินสามวิเท่านั้น
 แอพนี้มีมานานแล้ว แต่ผมเพิ่งเห็น แล้วเห็นว่ายังใช้ได้และดีด้วย จึงขอเอามาฝากไว้ในบล็อกตัวเองเป็นการแชร์ให้คนอื่นรู้ต่อๆไป :3

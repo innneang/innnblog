@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maze Runner on Innnnnnnnnnn</title>
-    <link>https://innnblog.com/tags/maze-runner/</link>
+    <link>https://innneang.github.io/innnblog/tags/maze-runner/</link>
     <description>Recent content in Maze Runner on Innnnnnnnnnn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 08 Oct 2014 14:07:53 +0000</lastBuildDate>
     
-	<atom:link href="https://innnblog.com/tags/maze-runner/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://innneang.github.io/innnblog/tags/maze-runner/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>วิธีโกงเกม Maze runner [iOS]</title>
-      <link>https://innnblog.com/2014/10/%e0%b8%a7%e0%b8%b4%e0%b8%98%e0%b8%b5%e0%b9%82%e0%b8%81%e0%b8%87%e0%b9%80%e0%b8%81%e0%b8%a1-maze-runner-ios/</link>
+      <link>https://innneang.github.io/innnblog/2014/10/%e0%b8%a7%e0%b8%b4%e0%b8%98%e0%b8%b5%e0%b9%82%e0%b8%81%e0%b8%87%e0%b9%80%e0%b8%81%e0%b8%a1-maze-runner-ios/</link>
       <pubDate>Wed, 08 Oct 2014 14:07:53 +0000</pubDate>
       
-      <guid>https://innnblog.com/2014/10/%e0%b8%a7%e0%b8%b4%e0%b8%98%e0%b8%b5%e0%b9%82%e0%b8%81%e0%b8%87%e0%b9%80%e0%b8%81%e0%b8%a1-maze-runner-ios/</guid>
+      <guid>https://innneang.github.io/innnblog/2014/10/%e0%b8%a7%e0%b8%b4%e0%b8%98%e0%b8%b5%e0%b9%82%e0%b8%81%e0%b8%87%e0%b9%80%e0%b8%81%e0%b8%a1-maze-runner-ios/</guid>
       <description>Mazerunner เป็นเกมแนว Endless Runner อีกเกม ออกมาเพื่อโปรโมตตัวหนัง คล้ายๆ Minion Rush หรือ Subway Surfers แต่อยู่ที่ว่าหากคุณได้ลองเล่นแล้วจะรู้สึกได้ทันทีว่าเกมมันเจ๋ง (และหากคุณไปดูหนังคุณอาจจะรู้สึกว่าหนังมันห่วย) เพราะมีลูกเล่นต่างๆที่เพิ่มเข้ามามากมาย เช่นทางถล่ม กำแพงบีบ หลุมหรือแมพสวยๆอีก 108 แมพ และข้อแตกต่างที่สำคัญจาก Minion Rush หรือ Subway Surfers ที่มีเป้าหมายเดียวคือการทำ Score ให้สูงที่สุด แต่ในเกมนี้คุณต้องออกจากเขาวงกตให้ทันเวลาที่กำหนด ไม่เช่นนั้นประตูเขาวงกตจะปิดและ Game Over ครับ
 ดาวน์โหลด Maze Runner ได้จาก Play Store [Android] และ App Store [iOS]
 บล็อกนี้จะเป็นการสอนการโกงเกม Maze Runner ใน iOS โดยใช้ช่องโหว่ in App purchase ที่มันมีตั้งนานแล้วแต่ไม่ได้รับการแก้ไขในเกมนี้

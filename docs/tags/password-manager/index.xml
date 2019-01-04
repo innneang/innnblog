@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Password Manager on Innnnnnnnnnn</title>
-    <link>https://innnblog.com/tags/password-manager/</link>
+    <link>https://innneang.github.io/innnblog/tags/password-manager/</link>
     <description>Recent content in Password Manager on Innnnnnnnnnn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 20 Dec 2014 16:19:18 +0000</lastBuildDate>
     
-	<atom:link href="https://innnblog.com/tags/password-manager/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://innneang.github.io/innnblog/tags/password-manager/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Review: PasswordBox แอพจัดการรหัสผ่านที่ดีที่สุด</title>
-      <link>https://innnblog.com/2014/12/passwordbox/</link>
+      <link>https://innneang.github.io/innnblog/2014/12/passwordbox/</link>
       <pubDate>Sat, 20 Dec 2014 16:19:18 +0000</pubDate>
       
-      <guid>https://innnblog.com/2014/12/passwordbox/</guid>
+      <guid>https://innneang.github.io/innnblog/2014/12/passwordbox/</guid>
       <description>อันเนื่องมาจากต้องต่ออายุโดเมนนี้ แต่คือจำรหัสผ่าน Godaddy ไม่ได้ จนต้องรีเซ็ทรหัสผ่านไปสามสี่รอบ เพราะรีเซ็ทแล้วก็จำไม่ได้อยู่ดี อันเนื่องมาจากข้อกำหนดหยุบหยับของ Godaddy ที่บอกว่า เนี่ย ต้องมีอักษรตัวพิมพ์ใหญ่หนึ่งตัวนะ เครื่องหมายหนึ่งตัวนะ อักษรพิมพ์เล็ก ตัวเลข ตัวยก บลาๆ ด้วยความนี้เปลี่ยนรหัสไปสี่ครั้งก็ยังจำไม่ได้เลยว่าตอนนี้รหัสอะไรเลย
 เมื่อไม่กี่วันก่อนได้อ่านในเว็บ blognone เกี่ยวกับข่าวเรื่อง Intel ซื้อแอพจัดการรหัสผ่าน Passwordbox (เหมือน 1password ที่หลายคนอาจรู้จัก) ซึ่งข้อดีของการซื้อครั้งนี้คือ Intel ปล่อยความสามารถแบบ Premium ให้เราได้ใช้กันฟรีๆเลย ไม่คิดตัง ตลอดกาล (มั้ง)
 สิ่งหนึ่งที่ทำให้ผมเลือกใช้โปรแกรมนี้ในการจัดเก็บรหัสผ่านของผมข้อเดียวคือ มันฟรี แม้ Passwordbox จะไม่ได้มีความสามารถเทียบเท่าแอพเสียเงิน หรือมีประสิทธิภาพเท่าแต่ก็แลกมากับการที่ มันฟรีครับ

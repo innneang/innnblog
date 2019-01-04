@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2048 on Innnnnnnnnnn</title>
-    <link>https://innnblog.com/tags/2048/</link>
+    <link>https://innneang.github.io/innnblog/tags/2048/</link>
     <description>Recent content in 2048 on Innnnnnnnnnn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 08 Jun 2014 01:58:23 +0000</lastBuildDate>
     
-	<atom:link href="https://innnblog.com/tags/2048/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://innneang.github.io/innnblog/tags/2048/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>การตลาดชั้นเยี่ยม ผู้สร้างเกม Threes บ่น 2048 ดังกว่าได้ไง</title>
-      <link>https://innnblog.com/2014/06/threes-developer-say-how-2048-is-popular/</link>
+      <link>https://innneang.github.io/innnblog/2014/06/threes-developer-say-how-2048-is-popular/</link>
       <pubDate>Sun, 08 Jun 2014 01:58:23 +0000</pubDate>
       
-      <guid>https://innnblog.com/2014/06/threes-developer-say-how-2048-is-popular/</guid>
+      <guid>https://innneang.github.io/innnblog/2014/06/threes-developer-say-how-2048-is-popular/</guid>
       <description>เกม 2048 เป็นเกมกระดานที่ให้เราเลื่อนไปเลื่อนมา &amp;ldquo;โดยมันแจกฟรีและเป็น Open source&amp;rdquo;ทำให้คนเล่นมากมาย จากที่ผมเขียนบล็อกเมื่อวันก่อน เกม 2048 ข้อสุดท้ายของเทคนิคที่ผมเขียนก็คือหากคุณเป็นคนที่ชอบเกม2048 มากให้ไปหาเกมที่ชื่อ Threes มาเล่น
 เมื่อไม่กี่วันก่อนผู้สร้างเกม Threes! ได้ออกมาเขียนบล็อกบอกว่า เกมชั้นนี่ มาก่อนใครเพื่อนทำไมโดนคนอื่นโขมยไปแล้วดังเป็นพลุแตกได้ละ
 เกม Threes นั้นเป็นจุดเริ่มต้นของการลอกครั้งยิ่งใหญ่เลยละครับ เรื่องมันมีอยู่ว่า
@@ -29,10 +29,10 @@
     
     <item>
       <title>เกม 2048 วิธีเล่น และ 7 เทคนิคสู่ชัยชนะ</title>
-      <link>https://innnblog.com/2014/06/2048-game-how-to-play-with-7-tips/</link>
+      <link>https://innneang.github.io/innnblog/2014/06/2048-game-how-to-play-with-7-tips/</link>
       <pubDate>Thu, 05 Jun 2014 15:53:40 +0000</pubDate>
       
-      <guid>https://innnblog.com/2014/06/2048-game-how-to-play-with-7-tips/</guid>
+      <guid>https://innneang.github.io/innnblog/2014/06/2048-game-how-to-play-with-7-tips/</guid>
       <description>ช่วงนี้เกมนี้กำลังฮิต ผมเองได้เล่นเกมนี้มาได้ช่วงนึงแล้วเลิกเล่นไปแล้ว [อ้าว] และกลับมาเล่นใหม่อีกที [เอ๊ะ] คือตอนนี้ไปไหนก็เห็นแต่คนเล่นเกมนี้ ไม่คิดว่ามันจะดังขนาดนี้
 ตัวเกมเป็นแบบเว็บแอพคือเล่นผ่านเว็บเบราว์เซอร์ได้เลย ไม่ว่าจะเป็นมือถือ แทบเล็ต หรือคอมพิวเตอร์ก็เข้าเว็บนี้ http://gabrielecirulli.github.io/2048/ เลย เล่นได้ในทุกๆเครื่อง ส่วนแอพใน Appstore หรือ PlayStore พวกนั้นบอกได้คำเดียวครับว่าของเก๊ มีโฆษณาหาเงินแน่นอน
 เกมนี้กฏธรรมดามาก แต่เล่นยากพอตัว ผมได้ทำวิธีเล่นไว้ให้แล้ว

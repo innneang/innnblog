@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vps on Innnnnnnnnnn</title>
-    <link>https://innnblog.com/tags/vps/</link>
+    <link>https://innneang.github.io/innnblog/tags/vps/</link>
     <description>Recent content in Vps on Innnnnnnnnnn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 04 May 2015 10:39:45 +0000</lastBuildDate>
     
-	<atom:link href="https://innnblog.com/tags/vps/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://innneang.github.io/innnblog/tags/vps/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>จัดการ VPS DigitalOcean ด้วย Vesta Control Panel</title>
-      <link>https://innnblog.com/2015/05/install-vesta-panel-in-digitalocean/</link>
+      <link>https://innneang.github.io/innnblog/2015/05/install-vesta-panel-in-digitalocean/</link>
       <pubDate>Mon, 04 May 2015 10:39:45 +0000</pubDate>
       
-      <guid>https://innnblog.com/2015/05/install-vesta-panel-in-digitalocean/</guid>
+      <guid>https://innneang.github.io/innnblog/2015/05/install-vesta-panel-in-digitalocean/</guid>
       <description>เนื่องจากเมื่อเดือนที่แล้วผมได้ย้ายเว็บตัวเองจาก Shared Host มาเป็น VPS ที่ DigitalOcean เป็นครั้งที่สอง [ครั้งแรกที่ย้ายกลับ]
 ปกติโฮสต์ที่ให้บริการส่วนใหญ่ในไทยก็จะเป็น Directadmin ที่คนใช้เยอะๆ หรือที่แพงๆหน่อยก็เป็น cPanel แต่สองตัวนี้มีข้อจำกัดครับ
 คือมันเสียตัง&amp;hellip;
@@ -27,10 +27,10 @@
     
     <item>
       <title>จาก Shared Host สู่ VPS</title>
-      <link>https://innnblog.com/2014/02/from-shared-host-to-vps/</link>
+      <link>https://innneang.github.io/innnblog/2014/02/from-shared-host-to-vps/</link>
       <pubDate>Fri, 21 Feb 2014 12:16:41 +0000</pubDate>
       
-      <guid>https://innnblog.com/2014/02/from-shared-host-to-vps/</guid>
+      <guid>https://innneang.github.io/innnblog/2014/02/from-shared-host-to-vps/</guid>
       <description>คือเพิ่งเปลี่ยนมาใช้ VPS จริงๆจังๆเสียที เนื่องจากทาง DigitalOcean มาเปิดสาขาใหม่ในสิงคโปร์ ทำให้ทุกอย่างเข้าถึงได้เร็วกว่าเดิมมากๆๆ เหมือนตั้งอยู่ในไทยเลย Ping อยู่ที่ 30-50 ซึ่งถือว่าน้อยมากก [ยิ่งน้อยยิ่งดี] ที่ผมย้ายผมไม่ได้มีปัญหากับโฮสต์เก่าของผมนะ โฮสต์เก่ามันดีมากก แต่ผมแค่อยากลองของใหม่เท่านั้นละ มันเป็นความฝันผมเมื่อนานมาแล้วที่อยากจะทำโฮสต์ใช้เอง ซึ่งวันนี้ก็ทำได้แล้ว มาดูวิธีผมทำยังไงดีกว่า
 1.สร้าง Droplet ที่ DigitalOcean จากนั้น ติดตั้ง Zpanel
 2.เรียบร้อย
@@ -41,10 +41,10 @@ Zpanel เป็น Panel ที่ในไทยไม่ค่อยมีค
     
     <item>
       <title>วิธีทำเว็บ เขียนบล็อกเบื้องต้น [ตอน 1]</title>
-      <link>https://innnblog.com/2013/12/how-to-blog-1/</link>
+      <link>https://innneang.github.io/innnblog/2013/12/how-to-blog-1/</link>
       <pubDate>Thu, 12 Dec 2013 18:40:39 +0000</pubDate>
       
-      <guid>https://innnblog.com/2013/12/how-to-blog-1/</guid>
+      <guid>https://innneang.github.io/innnblog/2013/12/how-to-blog-1/</guid>
       <description>เนื่องด้วยผมชอบให้เพื่อนเข้ามาอ่านเว็บผม ซึ่งปกติจะเขียนเรื่องที่คนส่วนใหญ่ต้องใช้กันเช่น Tutorial ต่างๆ และเพื่อนก็ชอบถามว่า ทำยังไงหรอ ทำไงวะ ทำไงอะ สอนหน่อยดิ หรืออะไรประมาณนี้ นับรวมๆแล้วก็จะเกินสิบคนแล้วละ ขี้เกียจตอบ เขียนไว้เลยดีกว่า :D
 เดียวนี้มันต่างจากเมื่อประมาณ 4-5 ปีก่อนมาก สมัยนี้อะไรก็พัฒนาผมจะเมื่อ 5-6 ปีที่แล้ว ผมจำได้ดี กว่าจะทำได้สักเว็บ ตั้งแต่ไม่มีพื้นฐานอะไรเลย ไม่มีทุน ต้องใช้ของฟรี ผมจำได้ว่าสมัยนั้นพ่อซื้อเครื่องเซิฟเวอร์มาไว้ให้ที่บ้านด้วยแนะ แต่สุดท้ายก็กองไว้[ตอนนี้]
 วิธีทำเว็บแบบเว็บนี้ผมขอแบ่งเป็นขั้นๆแบบนี่ ซึ่งมันง่ายมาก
@@ -62,10 +62,10 @@ Zpanel เป็น Panel ที่ในไทยไม่ค่อยมีค
     
     <item>
       <title>DigitalOcean VPS คุณภาพดีเกินราคา</title>
-      <link>https://innnblog.com/2013/12/digital-ocean-high-quality-vps/</link>
+      <link>https://innneang.github.io/innnblog/2013/12/digital-ocean-high-quality-vps/</link>
       <pubDate>Tue, 03 Dec 2013 17:23:44 +0000</pubDate>
       
-      <guid>https://innnblog.com/2013/12/digital-ocean-high-quality-vps/</guid>
+      <guid>https://innneang.github.io/innnblog/2013/12/digital-ocean-high-quality-vps/</guid>
       <description>ผมได้ไปลองใช้ DigitalOceanซึ่งเป็น VPS ที่เป็นที่กล่าวขวัญคือ ราคาถูก แต่คุณภาพ[โคตร]สวนทางกับราคาเลย คือเป็น SSD 20GB แรม 512MB ราคาแค่ $5 ต่อเดือน [ประมาณ 150 บาท] และ $5 นี้จะนับจากเวลาที่เราใช้จริงๆ คือหากเราปิดเครื่องไปราคาก็จะไม่ขึ้น รวมๆแล้วตกอยู่ที่ ชั่วโมงละ $0.007 พอ 1 เดือนก็จะครบ $5 พอดี
 แน่นอนเด็กจอมงกอย่างผมต้องลองใช้อย่างรวดเร็ว!!!
 สมัคร จ่ายเงิน แล้วใช้ได้เลย ตอนสมัครไม่ต้องกรอกอะไรเลยทั้งนั้น [สมัครได้ที่ลิงค์นี้ครับ คลิก :3] กรอกแค่ Email และ รหัสผ่าน จากนั้นจะพาเราไปสู่หน้าจ่ายเงิน คือเราต้องจ่ายเงินเข้าไปก่อนเพื่อเป็นการยืนยันว่าเราไม่ได้มาแสปมโฮสต์เขา [เหมือนที่คนไทยชอบไปแสปมโฮสต์ฟรีทั้งหลาย] แล้วค่อยไปตัดยอดว่าเราใช้มาเท่าไหร่ตอนสิ้นเดือน

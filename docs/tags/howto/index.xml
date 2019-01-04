@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Howto on Innnnnnnnnnn</title>
-    <link>https://innnblog.com/tags/howto/</link>
+    <link>https://innneang.github.io/innnblog/tags/howto/</link>
     <description>Recent content in Howto on Innnnnnnnnnn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 18 Oct 2013 17:15:42 +0000</lastBuildDate>
     
-	<atom:link href="https://innnblog.com/tags/howto/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://innneang.github.io/innnblog/tags/howto/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Root คืออะไร|วิธี Root เครื่อง</title>
-      <link>https://innnblog.com/2013/10/how-to-root-your-android/</link>
+      <link>https://innneang.github.io/innnblog/2013/10/how-to-root-your-android/</link>
       <pubDate>Fri, 18 Oct 2013 17:15:42 +0000</pubDate>
       
-      <guid>https://innnblog.com/2013/10/how-to-root-your-android/</guid>
+      <guid>https://innneang.github.io/innnblog/2013/10/how-to-root-your-android/</guid>
       <description>มีคนถามใน Facebook Comment ข้างใต้หลายคน จนผมขี้เกียจตอบแล้วเพราะมันเยอะมาก ตอบไปบางทีก็ไม่เข้าใจ
 อยากตอบง่ายๆว่าการ Root ก็เหมือนการปลดล็อกความสามารถของ Android ของคุณละครับ
 แต่ถ้าตอบตามความเข้าใจผมนะ (ย้ำว่าความเข้าใจผม) [ที่ถูกชัวร์ อิอิ] มันคือการปลดล็อกให้ &amp;ldquo;เรา&amp;rdquo; เข้าไปแก้ไขไฟล์ และข้อมูลในระบบที่โดนระบบ Android ล็อกเอาไว้ ล็อกทำไมนะหรอ ก็ไม่ให้เราไปลบโดนไฟล์แปลกๆแล้วเครื่องพังไงละ [อธิบายแค่นี้น่าจะเข้าใจแล้วนะ]

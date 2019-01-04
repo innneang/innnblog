@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ghost Online on Innnnnnnnnnn</title>
-    <link>https://innnblog.com/tags/ghost-online/</link>
+    <link>https://innneang.github.io/innnblog/tags/ghost-online/</link>
     <description>Recent content in Ghost Online on Innnnnnnnnnn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 23 Dec 2012 08:43:37 +0000</lastBuildDate>
     
-	<atom:link href="https://innnblog.com/tags/ghost-online/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://innneang.github.io/innnblog/tags/ghost-online/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ghost Online เถื่อน</title>
-      <link>https://innnblog.com/2012/12/ghost-online-private-server/</link>
+      <link>https://innneang.github.io/innnblog/2012/12/ghost-online-private-server/</link>
       <pubDate>Sun, 23 Dec 2012 08:43:37 +0000</pubDate>
       
-      <guid>https://innnblog.com/2012/12/ghost-online-private-server/</guid>
+      <guid>https://innneang.github.io/innnblog/2012/12/ghost-online-private-server/</guid>
       <description>Private Server เป็นการเปิด Server Game Online หรือที่เรียกว่า Ghost เถื่อนนั้นเองซึ่งบทความที่จะนำมาเขียนในตอนนี้เพราะว่า Ghost Online ตอนนี้ดูสถานการเริ่มแย่ๆแล้ว เหมือนจะปิดไม่ปิดในไม่กี่วันนี้ วันนี้เลยจะนำวิธีเปิด Ghost Online เถื่อนเองเพื่อนำมาเล่นเองได้ครับ
 ที่ต้องเปลี่ยนไม่งั้นผมโดน MF ลบ
  MySql and MySQL Query Browser เปิดทั้งสองอันนี้รอแปปนึง  2.เปิด mysql query browser แล้วใส่รหัสอะไรให้เรียบร้อยใส่ default schema is &amp;lsquo;ghost online private server&amp;rsquo;, host คือ localhost พอเข้าได้แล้วFile&amp;gt;Open Script แล้วหา ghost online private server.sql จากนั้น Script&amp;gt;Execute

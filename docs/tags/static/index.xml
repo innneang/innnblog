@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Static on Innnnnnnnnnn</title>
-    <link>https://innnblog.com/tags/static/</link>
+    <link>https://innneang.github.io/innnblog/tags/static/</link>
     <description>Recent content in Static on Innnnnnnnnnn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 16 May 2013 01:00:49 +0000</lastBuildDate>
     
-	<atom:link href="https://innnblog.com/tags/static/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://innneang.github.io/innnblog/tags/static/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ตัวนับสถิติอันไหนเจ๋ง</title>
-      <link>https://innnblog.com/2013/05/what-is-the-best-stat-counter/</link>
+      <link>https://innneang.github.io/innnblog/2013/05/what-is-the-best-stat-counter/</link>
       <pubDate>Thu, 16 May 2013 01:00:49 +0000</pubDate>
       
-      <guid>https://innnblog.com/2013/05/what-is-the-best-stat-counter/</guid>
+      <guid>https://innneang.github.io/innnblog/2013/05/what-is-the-best-stat-counter/</guid>
       <description>มีหลายๆคนสงสัยว่าพวกตัวนับสถิติบนเว็บไซต์ต่างๆอันไหนตรง เป๊ะ เด๊ะมากที่สุด
 ผมขอตอบเลยว่า stats.in.th ทั้งนี้ไม่นับของ truehits นะ truehits เป๊ะอยู่แล้วเพราะต้องเสียเงิน พวกนายหน้าคนหาโฆษณาต่างๆก็จะดูจาก truehits นี่และ ใครอยากได้คนมาลงแบนเนอร์ก็ติด truehits ซะละ
 ออกทะเลไปไกลแล้ว

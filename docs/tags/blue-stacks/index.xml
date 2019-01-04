@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blue Stacks on Innnnnnnnnnn</title>
-    <link>https://innnblog.com/tags/blue-stacks/</link>
+    <link>https://innneang.github.io/innnblog/tags/blue-stacks/</link>
     <description>Recent content in Blue Stacks on Innnnnnnnnnn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 01 Jan 2013 05:08:04 +0000</lastBuildDate>
     
-	<atom:link href="https://innnblog.com/tags/blue-stacks/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://innneang.github.io/innnblog/tags/blue-stacks/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>เปิดแอพ Android ในคอมด้วย Bluestacks</title>
-      <link>https://innnblog.com/2013/01/bluestacks/</link>
+      <link>https://innneang.github.io/innnblog/2013/01/bluestacks/</link>
       <pubDate>Tue, 01 Jan 2013 05:08:04 +0000</pubDate>
       
-      <guid>https://innnblog.com/2013/01/bluestacks/</guid>
+      <guid>https://innneang.github.io/innnblog/2013/01/bluestacks/</guid>
       <description>สวัสดีครับ หลังปีใหม่ไม่กี่วันผมพบของดีมาอย่างหนึ่งครับ มันคือ Bluestacks ผมเคยใช้มานานแล้วแต่ดูเหมือนว่ามันไม่ค่อยเสถียรซักเท่าไรเพราะว่ามันเปิดแอพได้ไม่กี่แอพ เป็นแอพที่ทาง Bluestacks เลือกเอาไว้ว่าใช้ได้แค่นี้นะ นี่ นี่ นี่&amp;hellip; ที่จริงที่ผมใช้มามันคือรุ่น Alpha ครับ คือเน่ากว่า Beta อีก
 ลืมกล่าาว Bluestacks คืออะไร
 BlueStacks คือ App Player ที่เอาไว้เล่นแอพ Android บนคอมพิวเตอร์ของเราได้ ชื่อเต็มๆว่า BlueStacks App Player ทำงานด้วย Runtime แบบ native เพื่อให้สามารถทำงานได้ดีกว่า Emulator

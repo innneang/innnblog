@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ssl on Innnnnnnnnnn</title>
-    <link>https://innnblog.com/tags/ssl/</link>
+    <link>https://innneang.github.io/innnblog/tags/ssl/</link>
     <description>Recent content in Ssl on Innnnnnnnnnn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 05 Apr 2015 14:30:37 +0000</lastBuildDate>
     
-	<atom:link href="https://innnblog.com/tags/ssl/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://innneang.github.io/innnblog/tags/ssl/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ตอนนี้ innnblog.com มี ssl แล้วนะ</title>
-      <link>https://innnblog.com/2015/04/now-iinnn-net-is-ssl/</link>
+      <link>https://innneang.github.io/innnblog/2015/04/now-iinnn-net-is-ssl/</link>
       <pubDate>Sun, 05 Apr 2015 14:30:37 +0000</pubDate>
       
-      <guid>https://innnblog.com/2015/04/now-iinnn-net-is-ssl/</guid>
+      <guid>https://innneang.github.io/innnblog/2015/04/now-iinnn-net-is-ssl/</guid>
       <description>บล็อกนี้เป็นเว็บไดอารี่ มาอัพเดตว่าเว็บตัวเองมีอะไรเปลี่ยนแปลง ซึ่งไม่ได้เขียนหมวดนี้มานานมาก (เพราะไม่ได้เปลี่ยนอะไรเลย) เป็นหลักไมล์เล็กๆ ของเว็บ ว่าตอนนี้มี ssl แล้ว จะสังเกตได้จากรูปกุญแจสีเขียว และจะถูก foward เข้าไปหน้า https://www.innnblog.com ทันที
 ส่วนวิธีทำนั้น ไว้จะมาเขียนในบล็อกหน้า \เพื่อตัวเองในอนาคตมาอ่าน เพราะนี้เริ่มลืมแล้ว
 เพียงเท่านี้การเชื่อมต่อระหว่างคุณผู้อ่านกับเซิฟเวอร์ก็ได้รับการเข้ารหัสตลอดทางแล้วครับ ถถถ
