@@ -1,0 +1,43 @@
+---
+author: in
+date: 2013-02-08 16:34:35+00:00
+draft: false
+title: ฟอนต์สวยๆจาก RSU
+type: post
+url: /2013/02/rsu-font/
+categories:
+- Programmer Zone
+tags:
+- font
+---
+
+เมื่อก่อนผมหาฟอนต์สวยๆมาเยอะมาก เข้าเว็บ f0nt.com นานมากพอมาวันนี้ถามพี่คนนึงเขาแนะนำฟอนต์ RSU มา
+
+ก็เลยลองมาใช้แล้วปรากฏว่ามันสวยจริงๆ สวยมากๆด้วย ลองดูภาพตัวอย่าง
+
+[caption id="attachment_281" align="alignnone" width="455"][![RSU](https://www.innnblog.com/wp-content/uploads/2013/02/23350_351739251607755_1474485172_n.jpg)
+](https://www.innnblog.com/wp-content/uploads/2013/02/23350_351739251607755_1474485172_n.jpg) คมไหม?[/caption]
+
+_**ฟอนต์นี้เหมาะกับงานอะไร**_
+
+
+
+	  * งานที่ต้องใช้ฟอนต์สวยๆ แหงละ
+	  * ทำ Facebook Page ปกติจะโพสคำคมอะก็ก็ใช้ฟอนต์นี้ ทำให้งานเราสวยขึ้นเยอะเลยทีเดียว
+	  * Present งานให้มันดูเวอร์ๆ <ทำมาละ
+	  * เขียนไว้เพื่อวันหลังมาตามหาฟอนต์ :D
+
+
+
+**อยากใช้ฟอนต์ทำยังไง เข้าไปที่เว็บ [http://www2.rsu.ac.th/files/rsufont.zip](http://www2.rsu.ac.th/files/rsufont.zip)**
+
+**ติดตั้งฟอนต์ทำยังไง [http://www2.rsu.ac.th/files/RSU%20Font%20Manual.pdf](http://www2.rsu.ac.th/files/RSU%20Font%20Manual.pdf)**
+
+[![rsu-font](https://www.innnblog.com/wp-content/uploads/2013/02/8-2-2556-23-37-57-295x300.png)
+](https://www.innnblog.com/wp-content/uploads/2013/02/8-2-2556-23-37-57.png)
+
+
+
+
+
+

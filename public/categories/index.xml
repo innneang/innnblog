@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Chris Turner</title>
+    <link>https://example.com/categories/</link>
+    <description>Recent content in Categories on Chris Turner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 11 May 2014 17:27:57 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anime</title>
+      <link>https://example.com/categories/anime/</link>
+      <pubDate>Sun, 11 May 2014 17:27:57 +0000</pubDate>
+      
+      <guid>https://example.com/categories/anime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Behind S3 Camera</title>
+      <link>https://example.com/categories/behind-s3-camera/</link>
+      <pubDate>Sun, 11 May 2014 17:27:57 +0000</pubDate>
+      
+      <guid>https://example.com/categories/behind-s3-camera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bookmust Read</title>
+      <link>https://example.com/categories/bookmust-read/</link>
+      <pubDate>Fri, 29 May 2015 16:04:59 +0000</pubDate>
+      
+      <guid>https://example.com/categories/bookmust-read/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Innns Diary</title>
+      <link>https://example.com/categories/innns-diary/</link>
+      <pubDate>Fri, 04 Jan 2019 10:35:21 +0000</pubDate>
+      
+      <guid>https://example.com/categories/innns-diary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Innns Radio</title>
+      <link>https://example.com/categories/innns-radio/</link>
+      <pubDate>Tue, 14 May 2013 15:27:36 +0000</pubDate>
+      
+      <guid>https://example.com/categories/innns-radio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Innns Review</title>
+      <link>https://example.com/categories/innns-review/</link>
+      <pubDate>Fri, 06 May 2016 13:19:30 +0000</pubDate>
+      
+      <guid>https://example.com/categories/innns-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>It News D</title>
+      <link>https://example.com/categories/it-news-d/</link>
+      <pubDate>Sun, 08 Jun 2014 01:58:23 +0000</pubDate>
+      
+      <guid>https://example.com/categories/it-news-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manga</title>
+      <link>https://example.com/categories/manga/</link>
+      <pubDate>Thu, 28 Nov 2013 16:15:14 +0000</pubDate>
+      
+      <guid>https://example.com/categories/manga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Movies</title>
+      <link>https://example.com/categories/movies/</link>
+      <pubDate>Fri, 08 Aug 2014 12:41:54 +0000</pubDate>
+      
+      <guid>https://example.com/categories/movies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programmer Zone</title>
+      <link>https://example.com/categories/programmer-zone/</link>
+      <pubDate>Wed, 13 Sep 2017 18:24:19 +0000</pubDate>
+      
+      <guid>https://example.com/categories/programmer-zone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://example.com/categories/projects/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>https://example.com/categories/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Diary</title>
+      <link>https://example.com/categories/web-diary/</link>
+      <pubDate>Mon, 04 May 2015 09:47:54 +0000</pubDate>
+      
+      <guid>https://example.com/categories/web-diary/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

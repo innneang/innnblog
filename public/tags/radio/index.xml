@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Radio on Chris Turner</title>
+    <link>https://example.com/tags/radio/</link>
+    <description>Recent content in Radio on Chris Turner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 14 May 2013 15:27:36 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/radio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>iSky in Thai 2</title>
+      <link>https://example.com/2013/05/isky-in-thai-2/</link>
+      <pubDate>Tue, 14 May 2013 15:27:36 +0000</pubDate>
+      
+      <guid>https://example.com/2013/05/isky-in-thai-2/</guid>
+      <description>ตอนนี้เว็บ iSky.in.th เปิดให้บริการเต็มพิกัดแล้ว เป็นเพลงสากลแดนซ์ต่อเนื่องที่เพราะที่สุด ไปฟังกันได้นะ
+เว็บเรามีหน้าเว็บมือถือแล้วนะ จากแต่ก่อนที่เข้าไปแล้วจะแสดงผลเละๆไม่มีอะไร ตอนนี้ปรับให้สวยแจ่ม เข้ากับ iPhone iPod iPad Android Samsung ทั้งหลายเป็นอย่างดีแล้ว
+การฟังผ่าน iOS ทั้ง iPhone iPad ต่างๆก็สามารถทำได้แล้ว ฟังแล้วไปทำอย่างอื่นก็ได้ แต่เป็นการใช้ฟังชั่นของ Safari ไม่ได้เขียนแอพขึ้นมา ใช้แก้ขัดไปก่อนละกัน :P
+การฟังผ่าน Android ตอนนี้ iToyz ยังไม่ได้แก้แอพให้ เลยยังฟังผ่านแอพไม่ได้ แต่สามารถใช้โปรแกรมเช่น ServeStream ฟังได้นะ :D โหลดฟรีได้ที่ Play store เลย
+วิทยุนี่เรากำลังโกอินเตอร์ เตรียมตัวรีแบรนใหม่ ดังระดับโลก รอฟังกันได้เลย</description>
+    </item>
+    
+  </channel>
+</rss>

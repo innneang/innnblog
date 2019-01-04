@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>App Player on Chris Turner</title>
+    <link>https://example.com/tags/app-player/</link>
+    <description>Recent content in App Player on Chris Turner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 Jan 2013 05:08:04 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/app-player/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>เปิดแอพ Android ในคอมด้วย Bluestacks</title>
+      <link>https://example.com/2013/01/bluestacks/</link>
+      <pubDate>Tue, 01 Jan 2013 05:08:04 +0000</pubDate>
+      
+      <guid>https://example.com/2013/01/bluestacks/</guid>
+      <description>สวัสดีครับ หลังปีใหม่ไม่กี่วันผมพบของดีมาอย่างหนึ่งครับ มันคือ Bluestacks ผมเคยใช้มานานแล้วแต่ดูเหมือนว่ามันไม่ค่อยเสถียรซักเท่าไรเพราะว่ามันเปิดแอพได้ไม่กี่แอพ เป็นแอพที่ทาง Bluestacks เลือกเอาไว้ว่าใช้ได้แค่นี้นะ นี่ นี่ นี่&amp;hellip; ที่จริงที่ผมใช้มามันคือรุ่น Alpha ครับ คือเน่ากว่า Beta อีก
+ลืมกล่าาว Bluestacks คืออะไร
+BlueStacks คือ App Player ที่เอาไว้เล่นแอพ Android บนคอมพิวเตอร์ของเราได้ ชื่อเต็มๆว่า BlueStacks App Player ทำงานด้วย Runtime แบบ native เพื่อให้สามารถทำงานได้ดีกว่า Emulator
+กล่าวง่ายมันคือ Android ในคอมพิวเตอร์ของเราดีๆนี่เองละครั
+แต่ว่าในวันนี้ที่มาแนะนำเพราะว่ามันเป็นรุ่น Beta แล้วสามารถใช้ได้ดีกว่าเก่ามาก มีการรองรับแอพเพิ่มขึ้นเช่น Bad Piggies, Instagram, Pulse แอพอ่านข่าวชื่อดัง, Angry Birds Star Wars, &amp;hellip; และสามารถใช้ใน Mac ได้ครับ
+ดาวโหลดได้ที่เว็บของ BlueStacks เลยครับ http://www.bluestacks.com/
+ใครที่อยากประยุกต์สามารถโหลดแอพ Line มาสมัครได้ด้วยนะ สมัคร Line ในคอม :D</description>
+    </item>
+    
+  </channel>
+</rss>

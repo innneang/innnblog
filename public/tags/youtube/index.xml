@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Youtube on Chris Turner</title>
+    <link>https://example.com/tags/youtube/</link>
+    <description>Recent content in Youtube on Chris Turner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 07 Jan 2013 11:28:19 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ดาวน์โหลดวิดีโอ, เพลงจาก Youtube</title>
+      <link>https://example.com/2013/01/how-to-download-youtube/</link>
+      <pubDate>Mon, 07 Jan 2013 11:28:19 +0000</pubDate>
+      
+      <guid>https://example.com/2013/01/how-to-download-youtube/</guid>
+      <description>วิธีพวกนี้เป็นวิธีที่ผมรู้ แล้วใช้คนเดียวมานานแล้ว ตอนนี้อยากแบ่งปันให้เพื่อนร่วมโลกได้ใช้กันบ้างครับ วิธีของผมไม่ต้องไปหาโปรแกรมดาวน์โหลดต่างๆมาช่วยครับ เป็นวิธีที่ใช้ที่ไหนก็ได้ สะดวกมากๆเลยทีเดียว
+ Copy ชื่อเว็บ (URL) ณ ขณะนั้น  
+2.เข้าเว็บ Keepvid.com แปะ URL ของเราลองไปตรงช่องที่ Keepvid จัดเอาไว้ให้ แล้วกด Download ดูตามรูปเลยครับ
+
+3.จะมีกล่องสีเหลืองๆขึ้นมาข้างบน ให้กด Always run on this site เพื่อให้วันหลังจะได้ไม่ต้องมีกล่องนี้ขึ้นมาอีกครับ
+
+ดาวโหลด youtube downloader
+4.จะมีกล่องขึ้นมา (อีกแล้ว) ให้กดติ๊กถูก แล้วกด Run ตามภาพด้านล่าง
+
+ โหลด free youtube download
+ เลือกความละเอียดของวิดีโอเพื่อดาวน์โหลดครับ แนะนำ MP4 ครับ 720p คือ HD ; 1080p คือ Full HD ซึ่งเป็นความละเอียดสูงสุดครับ  หรือหากต้องการแค่ไฟล์เพลง MP3 ให้กดอันล่างสุดครับจะพาไปที่เว็บ SnipMP3.com ซึ่งวิธีการจะคล้ายๆดาวน์โหลด Keepvid ครับ</description>
+    </item>
+    
+  </channel>
+</rss>

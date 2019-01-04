@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Chris Turner" />
+    <meta name="description" content="Describe your website">
+    <link rel="shortcut icon" type="image/x-icon" href="https://example.com/img/favicon.ico">
+    <title>ลองบล็อกด้วย Jekyll: Blogging Like A Hacker</title>
+    <meta name="generator" content="Hugo 0.53" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="https://example.com/css/main.css" />
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,200bold,400old" />
+    
+    <!--[if lt IE 9]>
+			<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+			<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+		<![endif]-->
+
+    
+  </head>
+
+  <body>
+    <div id="wrap">
+
+      
+      <nav class="navbar navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="https://example.com/"><i class="fa fa-home"></i></a>
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+    <div class="navbar-collapse collapse" id="navbar">
+      <ul class="nav navbar-nav navbar-right">
+      
+        
+        <li><a href="/blog/">BLOG</a></li>
+        
+        <li><a href="/projects/">PROJECTS</a></li>
+        
+        <li><a href="/resume/">RESUME</a></li>
+        
+      
+      </ul>
+    </div>
+  </div>
+</nav>
+
+      
+      <div class="container">
+        <div class="blog-post">
+          <h3>
+            <strong><a href="https://example.com/2015/05/play-with-jekyll/">ลองบล็อกด้วย Jekyll: Blogging Like A Hacker</a></strong>
+          </h3>
+        </div>
+        <div class="blog-title">
+          <h4>
+          May 9, 2015
+            &nbsp;&nbsp;
+            
+            <span class="label label-success">Blogging</span>
+            
+            <span class="label label-success">Jekyll</span>
+            
+            <span class="label label-success">wordpress</span>
+            
+          </h4>
+        </div>
+        <div class="panel panel-default">
+          <div class="panel-body">
+            <div class="blogpost">
+              
+
+<p><img src="https://www.innnblog.com/wp-content/uploads/2015/05/jekyll-white-black.png" alt="jekyll-white-black" /></p>
+
+<p>วันสองวันมานี้ผมได้ทำการศึกษาเรื่อง Jekyll ซึ่งเป็น Static file generator คือเราเขียนบล็อกเป็นไฟล์ Text แล้ว Jekyll จะแปลงเป็นไฟล์ HTML ให้เรานำไปอัพโหลดบนเซิฟเวอร์ต่อได้</p>
+
+<!-- more -->
+
+<p>ครั้งแรกที่ผมเห็น Jekyll คือในเว็บของ <a href="http://paulstamatiou.com/">Paul Stammy</a> ที่เห็นแล้วสบถในใจว่าทำไมสวยขนาดนี้ จากนั้นจึงไปค้นว่าใช้ Jekyll เขียนบล็อก ศึกษาไปศึกษามาแล้วพบว่า Jekyll นี่สุดยอดมากจริงๆ</p>
+
+<h1 id="ข-อด-ค-อ">ข้อดีคือ</h1>
+
+<pre><code>  * ทุกอย่างเป็น static file ทำให้ทำงานเร็วมาก และโฮสต์ไว้ที่ไหนก็ได้ [เช่น Github page สามารถโฮสต์ static file ได้ฟรี เลยมีหลายคนที่โฮสต์บล็อกที่เขียนด้วย Jekyll ไว้ใน Github ดังนั้นค่าใช้จ่ายสำหรับการเขียนบล็อกจะมีแค่ค่าโดเมน]
+  * ไม่มีการเชื่อมต่อ Database ทำให้การย้าย Host เป็นไปได้เร็วมาก เพียงกดอัพโหลด ไม่ต้องจัดการกับการย้ายฐานข้อมูล mysql เหมือนของทางฝั่ง Wordpress
+  * เหมาะแก่การทำเว็บเล็กๆ เช่นเว็บ Doccument หรือบล็อกเปิดใหม่ที่รักความ Geek มากๆ
+  * ไม่เยอะเหมือน Wordpress [คือ Wordpress มันเยอะ เกินคำว่าบล็อกไปแล้ว]
+  * การเขียน Theme และส่วนเสริมอื่นๆทำได้ง่าย เพราะใช้ Liquid ในการจัดการ Theme และระบบต่างๆถูกเขียนมาดีอยู่แล้ว [คิดไปคิดมาก็เหมือน Wordpress เลย]
+  * มี Web server ในตัว ทำให้ไม่จำเป็นต้องลง Appserve, Xampp เพิ่ม สะดวกดี![commandline-jekyll](https://www.innnblog.com/wp-content/uploads/2015/05/commandline-jekyll.png)
+</code></pre>
+
+<h1 id="ข-อเส-ยค-อ">ข้อเสียคือ</h1>
+
+<pre><code>  * แม่งใช้ยากโคตร เพราะโปรแกรม Jekyll ถูกเขียนโดยภาษา Ruby ตอนนำมาใช้ใน Windows เลยต้องพลิกหลายตลบ เพราะไม่ได้ออกแบบมาให้ใช้ใน Windows ผมลองแล้วพลิกหลายรอบแล้ว ยอมแพ้ เลยลง Ubuntu ในโน้ตบุคเพื่อการนี้ [อยากเล่นมาก] \\คนมันไม่มี Mac TT
+  * community ที่เป็นคนไทย ภาษาไทย หาได้ยากมาก มาก ถึงไม่มีเลย เท่าที่ค้นมีคนไทยเพียงสามคน รวมผมด้วยที่ใช้ Jekyll ในการเขียนบล็อก [สามารถดู Demo Jekyll ของผม ได้ที่ [blog.innnblog.com] ](http://blog.innnblog.com)
+  * กว่าจะเขียนเสร็จคือต้องเขียนเป็น Markdown &gt; Build &gt; Upload ถึงสามขั้นตอน ซึ่งหากจะพูดว่าเป็น Static file แล้วดีก็ใช่ แต่ว่าลำบากขนาดนี้ขอใช้ Wordpress ต่อดีกว่า
+  * หากเขียน Markdown ใน Sublime หรือ Atom แล้วมันไม่รองรับภาษาไทย เพิ่มความยากลำบากแก่การเขียนบล็อกเพิ่มขี้นหลายเท่า อาจจะต้องเขียนใน Texteditor เปล่าๆด้วยตนเอง
+</code></pre>
+
+<p>ทีแรกผมคิดจะย้ายบล็อกตัวเองไปเป็น Jekyll เหมือนกัน แต่คิดถึงปัญหาที่ตามมาแล้วทั้งกว่าจะเขียนบล็อกได้นี่ต้องใช้คอมเครื่องที่เป็น Linux, Mac ติดตั้ง Jekyll เขียนด้วยภาษา Markdown แล้วอัพโหลดด้วย Filezilla ผมบ่นกับตัวเองเป็นรอบที่สองว่าอย่าเลยถ้าแม่งจะลำบากขนาดนี้</p>
+
+<p>อนึ่งหากย้อนกลับไปดูคนที่พัฒนา Jekyll เขาใช้คำว่า &ldquo;Blogging Like a Hacker&rdquo; ซึ่งผมก็เริ่มเก็ทจริงๆ lol</p>
+
+<h1 id="เหมาะก-บ">เหมาะกับ</h1>
+
+<p>เช่นเดียวกับที่เขียนไปในตอนแรกว่า Jekyll เหมาะกับเว็บ Doccument วิธีใช้ต่างๆ หากสามารถสร้างเว็บที่สวย Static file และเร็วโคตร โดยไม่ต้องพึ่ง Wordpress ที่ต้องติดต่อกับฐานข้อมูลและมีโอกาสพังได้บ่อยๆจะดีแค่ไหน สามารถใช้ Github page ทำโฮสต์ฟรีตลอดชีพได้จะดีแค่ไหน</p>
+
+<p>และหากคุณเป็น Blogger ที่อยากจะ Blogging like a hacker แล้วละก็ Jekyll นี่โคตรจะตอบโจทย์ เพราะจะพบกับสุดยอดแห่งความ Geek ในการเขียนบล็อกเลย lol</p>
+
+<h1 id="ย-ายจาก-wordpress-เป-น-jekyll">ย้ายจาก Wordpress เป็น Jekyll</h1>
+
+<p>ตอนผมลองครั้งแรกผมหาวิธีหลายๆอย่างเพื่อย้ายบล็อกตัวเองเป็น Jekyll หาวิธีหลายทาง พบว่าวิธีที่ดีที่สุดคือการใช้ <a href="https://github.com/thomasf/exitwp">exitwp script</a> เนื่องจากผมลองใช้หลายๆตัวแล้ว[โดยเฉพาะที่หน้าเว็บ Jekyll Doccument แนะนำ]จะติดปัญหาเรื่อง Software ไม่ครบ ไม่ลงตัว บลาๆ ใช้ตัวนี้ลงตัวสุดแล้ว เพียง</p>
+
+<pre><code>  1. Export Wordpress เป็น XML ที่ menu export
+  2. นำไปวางไว้ในโฟลเดอร์ XML ของ exitwp
+  3. รัน python exitwp.py
+  4. จบ
+</code></pre>
+
+<p>เราจะได้ไฟล์เว็บของเรามาอยู่ในรูปของ Markdown [หรือ Html ก็ได้ ตามที่ตั้งค่า] แล้วให้ Jekyll Generate เป็น Static file อีกทีนึง</p>
+
+<p>ข้อควรรู้: exitwp อ่าน slug ภาษาไทยไม่ได้ จะเปลี่ยนเป็นตัวอะไรไม่รู้อ่านไม่ออก เพราะฉะนั้นหากจะทำควรเปลี่ยน Url เป็นภาษาอังกฤษก่อน</p>
+
+<h1 id="ใช-หร-อไม-ใช">ใช้หรือไม่ใช้</h1>
+
+<p>ไม่ใช้ครับ ถ้าจำลำบากขนาดนี้ แล้วต้องมาเขียน Plugin เองอีก อินใช้ Wordpress ต่อไปดีและ</p>
+
+              <hr>
+              <div class="related-posts">
+                <h5>Related Posts</h5>
+                
+                  <div class="row">
+                    <div class="col-sm-4 col-md-4 col-lg-4">
+                      <h6 style="text-align: right">
+                        February 12, 2013
+                      </h6>
+                    </div>
+                    <div class="col-sm-8 col-md-8 col-lg-8">
+                      <h6 style="text-align: left">
+                        <strong><a href="/2013/02/troubleshooting-slow-wordpress-admin/">แก้ไขปัญหา Wordpress-admin อืด</a></strong>
+                      </h6>
+                    </div>
+                  </div>
+                
+              </div>
+            </div>
+          </div>
+          <hr>
+        <div class="disqus">
+  <div id="disqus_thread"></div>
+  <script type="text/javascript">
+
+    (function() {
+      
+      
+      if (window.location.hostname == "localhost")
+        return;
+
+      var disqus_shortname = '';
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  <a href="http://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>
+        </div>
+      </div>
+      
+    </div>
+
+    
+    <footer>
+  <div id="footer">
+    <div class="container">
+      <p class="text-muted">&copy; All rights reserved. Powered by <a href="https://gohugo.io/">Hugo</a> and
+      <a href="http://www.github.com/nurlansu/hugo-sustain/">sustain</a> with ♥</p>
+    </div>
+  </div>
+</footer>
+<div class="footer"></div>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script src="https://example.com/js/docs.min.js"></script>
+<script src="https://example.com/js/main.js"></script>
+
+<script src="https://example.com/js/ie10-viewport-bug-workaround.js"></script>
+
+
+    
+  </body>
+</html>

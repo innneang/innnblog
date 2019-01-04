@@ -1,0 +1,50 @@
+---
+author: in
+date: 2014-10-08 14:07:53+00:00
+draft: false
+title: วิธีโกงเกม Maze runner [iOS]
+type: post
+url: /2014/10/%e0%b8%a7%e0%b8%b4%e0%b8%98%e0%b8%b5%e0%b9%82%e0%b8%81%e0%b8%87%e0%b9%80%e0%b8%81%e0%b8%a1-maze-runner-ios/
+categories:
+- Programmer Zone
+tags:
+- cheat
+- ios
+- maze runner
+---
+
+**Mazerunner** เป็นเกมแนว Endless Runner อีกเกม ออกมาเพื่อโปรโมตตัวหนัง คล้ายๆ Minion Rush หรือ Subway Surfers แต่อยู่ที่ว่าหากคุณได้ลองเล่นแล้วจะรู้สึกได้ทันทีว่าเกมมันเจ๋ง (และหากคุณไปดูหนังคุณอาจจะรู้สึกว่าหนังมันห่วย) เพราะมีลูกเล่นต่างๆที่เพิ่มเข้ามามากมาย เช่นทางถล่ม กำแพงบีบ หลุมหรือแมพสวยๆอีก 108 แมพ และข้อแตกต่างที่สำคัญจาก Minion Rush หรือ Subway Surfers ที่มีเป้าหมายเดียวคือการทำ Score ให้สูงที่สุด แต่ในเกมนี้คุณต้องออกจากเขาวงกตให้ทันเวลาที่กำหนด ไม่เช่นนั้นประตูเขาวงกตจะปิดและ Game Over ครับ
+
+<!-- more -->
+
+ดาวน์โหลด Maze Runner ได้จาก [Play Store [Android]](https://play.google.com/store/apps/details?id=com.pikpok.mr.play) และ [App Store [iOS]](https://itunes.apple.com/th/app/the-maze-runner/id910738761?mt=8)
+
+บล็อกนี้จะเป็นการสอนการโกงเกม  Maze Runner ใน iOS โดยใช้ช่องโหว่ in App purchase ที่มันมีตั้งนานแล้วแต่ไม่ได้รับการแก้ไขในเกมนี้
+
+![maze_runner_1](https://www.innnblog.com/wp-content/uploads/2014/10/maze_runner_1.jpg)
+
+
+
+## **วิธีทำ**
+
+
+วิธีต่อไปนี้ต้อง Jailbreak เครื่องให้เรียบร้อยด้วยนะครับ
+1.ดาวน์โหลด LocalIAPStore จาก Source: insanelyi ใน Cydia ติดตั้ง และ Respring ให้เรียบร้อย
+
+![maze_runner_3](https://www.innnblog.com/wp-content/uploads/2014/10/maze_runner_3.jpg)
+
+
+2.เปิด Setting มา ดูว่ากดเปิด Enable ไว้รึยัง ถ้าเปิดไว้ก็ไปต่อขั้นตอนที่ 3 ได้เลย
+
+3.เปิดเกมแล้วกดซื้อของแบบ In app purchase ได้เลย ตอนนี้ทุกอย่างฟรี! แต่มีข้อแม้ว่าคุณต้องระวังอย่าไปกรอก Password ตอนมันขึ้นถามเด็ดขาด ไม่งั้นอาจจะต้องเสียตังจริงๆ [คือกดซื้อ พอให้กรอก User/Password ก็กด Cancel ไป]
+
+![maze_runner_2](https://www.innnblog.com/wp-content/uploads/2014/10/maze_runner_2.jpg)
+
+
+เพียงเท่านี้คุณก็จะได้เพชรและเงินอันไม่จำกัด กดซื้อของได้ทุกอย่างในเกม ไม่ว่าจะเป็นตัวละคร Booster เพชร บลาๆ
+
+หมายเหตุ: หากยินดีที่จะทำตามขั้นตอนด้านบน ให้ละลึกเสมอว่า ผมไม่ขอรับผิดชอบต่อเครื่องพัง หรือการกดซื้อ in app purchase แล้วโดนชาร์จตังผิดจริงๆแบบในกรณีคุ๊กกี้รันโดยทั้งสิ้น คุณเป็นคนรับความเสี่ยงทุกอย่างที่จะเกิดขึ้น
+
+อนึ่งวิธีนี้สามารถใช้ร่วมกับเกมหรือแอพอื่นที่ LocalIAPStore รองรับได้ด้วยนะครับ
+
+**ขอให้สนุกกับการเล่นเกมครับ**
