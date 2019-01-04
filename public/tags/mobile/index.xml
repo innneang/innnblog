@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mobile on Chris Turner</title>
+    <link>https://example.com/tags/mobile/</link>
+    <description>Recent content in Mobile on Chris Turner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 14 Aug 2014 12:58:01 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/mobile/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>แชทในแอพ Facebook โดยตรงไม่ต้องดาวน์โหลด Facebook messenger</title>
+      <link>https://example.com/2014/08/facebook-messenger-workaround/</link>
+      <pubDate>Thu, 14 Aug 2014 12:58:01 +0000</pubDate>
+      
+      <guid>https://example.com/2014/08/facebook-messenger-workaround/</guid>
+      <description>[caption id=&amp;ldquo;attachment_2065&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;900&amp;rdquo;]Image : Mashable[/caption]
+ข่าวดีสำหรับคนเกลียดแอพ Facebook messenger นะครับ ตอนนี้มีวิธีที่จะตอบ-อ่านข้อความในเฟสบุคโดยไม่ต้องดาวน์โหลดแอพ Messenger แล้ว!!! Facebook เริ่มย้ายฟังก์ชั่นข้อความออกจากแอพหลักเมื่ออาทิตย์ที่แล้ว แต่ก็อย่างที่เห็นครับคนด่ากระจาย คะแนนโหวต 1 ดาว แต่ตอนนี้ได้มีคนคิดวิธีแก้ให้สามารถใช้ฟังก์ชั่นข้อความเดิมได้โดยไม่ต้องดาวน์โหลดแอพเพิ่มแล้วครับ \ปรบมือ
+เมื่อเราพยายามเปิดเมนูข้อความจากแอพ Facebook หลัก ตอนนีจะเห็นข้อความแจ้งเตือนฟังก์ชั่นข้อความได้ย้ายไปที่แอพ Messenger แล้ว พร้อมกับมีปุ่มให้ดาวน์โหลดแอพใหม่จาก App Store, Google Play
+วิธีแก้ไขก็คือ!!!  1. ก่อนอื่นอย่าเพิ่งดาวน์โหลดแอพ Messenger นะครับ ถ้ามีก็ลบทิ้งไป 2. เปิดแอพ Facebook แล้วไปกดปุ่ม Install Messenger ได้เลย พอกดแล้วมันจะพาไปหน้าดาวน์โหลดแอพ ก็กดดาวน์โหลดได้เลย แต่ให้กดหยุดก่อนที่มันจะดาวน์โหลดแอพเสร็จ 3. ตอนนี้หากคุณกลับไปที่แอพ Facebook ก็สามารถใช้ฟังก์ชั่น Messages ได้เลยตามปกติครับ  อนึ่งวิธีนี้ว่า Facebook อาจอัพเดตเพื่อปิดช่องทางนี้เมื่อไรก็ได้ นั้นหมายความว่าวิธีนี้อาจจะใช้ไม่ได้ตลอดไป วิธีอื่นนอกจากการ Jailbreak เครื่อง คือการใช้ Facebook ผ่านเว็บแทนครับ
+สำหรับบล็อกหน้าถ้าว่างจะเขียนว่า Jailbreak เครื่องแล้วมีช่องทางอื่นยังไงบ้างต่อไปครับ</description>
+    </item>
+    
+  </channel>
+</rss>

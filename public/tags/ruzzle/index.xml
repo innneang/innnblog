@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ruzzle on Chris Turner</title>
+    <link>https://example.com/tags/ruzzle/</link>
+    <description>Recent content in Ruzzle on Chris Turner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 24 Feb 2013 12:44:20 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/ruzzle/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>โกง Ruzzle For Android</title>
+      <link>https://example.com/2013/02/cheat-ruzzle-for-android/</link>
+      <pubDate>Sun, 24 Feb 2013 12:44:20 +0000</pubDate>
+      
+      <guid>https://example.com/2013/02/cheat-ruzzle-for-android/</guid>
+      <description>เกม Ruzzle เป็นเกม Puzzle (มั่ว) ที่ให้เราแข่งกันค้นหาศัพท์กันเพื่อน ตามรูปที่ 5 ครับ ตอนนี้กำลังฮิตอยู่ใน Facebook (พี่) Wall ผมเหมือนไม่มีคนเล่นเลย (โห่ๆ) หลักๆก็ไม่มีอะไรจะพูดมากอยู่แล้ว เพราะ Interface ใช้ง่ายดี การแข่งหาศัพท์สามารถลากซ้ายเอียงขวาตีลังกาลากก็ได้ ขอให้แค่มันติดกันเท่านั้นพอ คำยิ่งยาว ยิ่งยาก ยิ่งได้คะแนน โดยจะมีตัวอักษรบางตัวที่ให้คะแนนเพิ่มด้วย
+Trick : มองตัว S / ED / Ing อะไรที่ทำให้คำมันยาวขึ้นให้ดี ไม่ผิดกฏ
+แต่ที่จะพูดวันนี้ไม่ใช่เรื่องนั้น (อีกแล้ว)
+
+เกม Ruzzle นั้นสามารถทำการโกงได้อย่างง่ายดาย!! โดยถ้าคุณใช้ Android คุณสามารถค้นหาคำว่า &amp;ldquo;Ruzzle help&amp;rdquo; ได้
+วิธีใช้ง่ายๆ เปิด Ruzzle help กด Get started เกมจะเปิดขึ้น เข้าเล่นเกมกับผู้โชคร้าย กดปุ่ม Screenshot 1 ครั้ง รูปจะถูกนำไปประมวลผลกับ Dictionary แล้วจะขึ้นเป็นเส้นๆให้ลากตามได้เลย
+Trick :Screenshot ให้กดปุ่ม ปิดเครื่อง และปุ่ม Home ค้างไว้พร้อมกัน ถ้าไม่ได้ลองหาวิธีโดยการกดที่ Step Three มันจะบอกวิธีแบบอื่นไว้</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software on Chris Turner</title>
+    <link>https://example.com/tags/software/</link>
+    <description>Recent content in Software on Chris Turner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 18 Mar 2013 13:43:46 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ผู้บริหาร Samsung ยืนยัน S3 ได้ความสามารถ S4 ด้วย :D</title>
+      <link>https://example.com/2013/03/samsung-galaxy-s3-s4/</link>
+      <pubDate>Mon, 18 Mar 2013 13:43:46 +0000</pubDate>
+      
+      <guid>https://example.com/2013/03/samsung-galaxy-s3-s4/</guid>
+      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;640&amp;rdquo;] UI กล้อง ใน Samsung Galaxy S4[/caption]
+เมื่อไม่กี่วันก่อน Samsung เพิ่งเปิดตัว Galaxy S4 ไป หลายคนสงสัย(ผมด้วยคน)ว่า S3 ในมือจะโดนลอยแพไหม วันนี้ทางผู้บริหาร Samsung นาม Nick DiCarlo มาตอบให้แล้วว่า ****ความสามารถทั้งหมดที่ไม่ขึ้นกับ Hardware (เช่นอินฟาเรด) ของ S4 จะถูกนำมาใส่ในมือถือเรือธง (นั้นรวมถึง S3) ด้วย [แต่ไม่ได้บอกว่าเมื่อไร และเรือธงนั้นรวมถึง S1,S2 ด้วยรึเปล่า]
+&#34;Anything that we can do that&#39;s not dependent on hardware like infrared, we&#39;ll definitely bring to all the flagship devices&#34; ต่อมาเมื่อถามถึงความสามารถที่โดนใจ (wow) ใน S4 เขาตอบว่าก็มี Camera UI &amp;lt;&amp;lt;ไปต่อ, WatchNow TV Remote&amp;lt;&amp;lt;อด, Gesture Control&amp;lt;&amp;lt;อด</description>
+    </item>
+    
+  </channel>
+</rss>

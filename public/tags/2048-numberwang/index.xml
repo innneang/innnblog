@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2048 Numberwang on Chris Turner</title>
+    <link>https://example.com/tags/2048-numberwang/</link>
+    <description>Recent content in 2048 Numberwang on Chris Turner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 08 Jun 2014 01:58:23 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/2048-numberwang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>การตลาดชั้นเยี่ยม ผู้สร้างเกม Threes บ่น 2048 ดังกว่าได้ไง</title>
+      <link>https://example.com/2014/06/threes-developer-say-how-2048-is-popular/</link>
+      <pubDate>Sun, 08 Jun 2014 01:58:23 +0000</pubDate>
+      
+      <guid>https://example.com/2014/06/threes-developer-say-how-2048-is-popular/</guid>
+      <description>เกม 2048 เป็นเกมกระดานที่ให้เราเลื่อนไปเลื่อนมา &amp;ldquo;โดยมันแจกฟรีและเป็น Open source&amp;rdquo;ทำให้คนเล่นมากมาย จากที่ผมเขียนบล็อกเมื่อวันก่อน เกม 2048 ข้อสุดท้ายของเทคนิคที่ผมเขียนก็คือหากคุณเป็นคนที่ชอบเกม2048 มากให้ไปหาเกมที่ชื่อ Threes มาเล่น
+เมื่อไม่กี่วันก่อนผู้สร้างเกม Threes! ได้ออกมาเขียนบล็อกบอกว่า เกมชั้นนี่ มาก่อนใครเพื่อนทำไมโดนคนอื่นโขมยไปแล้วดังเป็นพลุแตกได้ละ
+เกม Threes นั้นเป็นจุดเริ่มต้นของการลอกครั้งยิ่งใหญ่เลยละครับ เรื่องมันมีอยู่ว่า
+1.หลังจาก Threes เปิดตัวได้ 21 วัน ก็มีเกมที่ชื่อว่า 1024 มาอยู่ใน Appstore iOS ที่ลอกไอเดีย และทุกอย่าง แต่เกม 1024 มีการปรับเปลี่ยนวิธีการเล่นให้แตกต่างออกไป ทำให้ไม่สนุกและไม่ได้รับความนิยมมากนัก
+2.อีก 10 วันถัดมามีเกมชื่อ 2048 ปรากฏขึ้นซึ่งลอกไอเดียมาจากเกม 1024 อีกที เป็นเกมที่เปิดให้เล่นฟรีได้บนเว็บ และมีวิธีการเล่นที่น่าสนใจกว่ามาก จึงทำให้มันดัวเป็นพลุแตก เพราะมีคนมาโพสในเว็บ Hacker News ทำให้มันดังขึ้นมาก
+3.หลังจากเกม 2048 เปิดตัว ก็เกิดเกม 2048-numberwang ขึ้น ซึ่งใช้คณิตศาสตร์ชั้นสูงในการคำนวณ จากที่ลองเล่น พบว่า กินจุดเลย&amp;hellip; เล่นแล้วงงมาก
+แล้วมันเป็นการตลาดตรงไหน เราทุกคนรู้จักแต่เกม 2048 หากมีต้นฉบับมาพูดแบบนี้ คงมีคนไม่น้อยใช่ไหมละครับที่จะไปซื้อต้นฉบับมาเล่น แน่นอนผมคนนึงละ
+ซึ่งหากใครอยากลองเล่นเกม Threes!</description>
+    </item>
+    
+  </channel>
+</rss>
