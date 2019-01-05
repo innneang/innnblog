@@ -10,9 +10,8 @@ install:
 
 # Build the website
 script:
-  - hugo
+  - ../binaries/hugo
   - cd public
-  - cd -rf tag
   - mv tags tag
   - git add .
   - git commit -m "Travis CI rebuilding site `date`"
