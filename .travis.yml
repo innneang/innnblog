@@ -10,7 +10,7 @@ install:
 
 # Build the website
 script:
-  - ../binaries/hugo
+  - hugo
   - cd public
   - mv tags tag
   - git add .
