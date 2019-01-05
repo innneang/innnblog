@@ -1,27 +1,18 @@
-msg="rebuilding site `date`"
-echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
+# Install the apt prerequisites
+addons:
+  apt:
+    packages:
+      - python-pygments
 
-# Push source and build repos.
+# Clean and don't fail
+install:
+  - rm -rf public || exit 0
 
-# Build the project.
-hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
-
-# Go To Public folder
-cd public
-
-rm -rf tag
-mv tags tag
-# Add changes to git.
-git add .
-
-# Commit changes.
-if [ $# -eq 1 ]
-  then msg="$1"
-fi
-git commit -m "$msg"
-
-# Push source and build repos.
-git push -f origin master
-
-# Come Back up to the Project Root
-cd ..
+# Build the website
+script:
+  - cd public
+  - cd -rf tag
+  - mv tags tag
+  - git add .
+  - git commit -m "Travis CI rebuilding site `date`"
+  - git push -f origin master
