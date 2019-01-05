@@ -10,8 +10,7 @@ install:
 
 # Build the website
 script:
-  - ls -alt
-  - pwd
+  - hugo
   - cd public
   - cd -rf tag
   - mv tags tag
