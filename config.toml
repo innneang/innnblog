@@ -8,7 +8,7 @@ googleAnalytics = ""
 theme = "hugo-sustain"
 #publishDir = "docs"
 [permalinks]
-  post = "/:year/:month/:slug"
+  blog = "/:year/:month/:slug"
 
 [params]
   avatar = "ava.jpg"
