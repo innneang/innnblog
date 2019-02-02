@@ -4,7 +4,7 @@ date: 2013-01-29 12:08:00+00:00
 draft: false
 title: Angel Beats แผนพิชิตนางฟ้า
 type: post
-url: /2013/01/angel-beats-%e0%b9%81%e0%b8%9c%e0%b8%99%e0%b8%9e%e0%b8%b4%e0%b8%8a%e0%b8%b4%e0%b8%95%e0%b8%99%e0%b8%b2%e0%b8%87%e0%b8%9f%e0%b9%89%e0%b8%b2/
+url: /2013/01/angel-beats/
 categories:
 - Anime
 - Innn's Diary

@@ -4,7 +4,7 @@ date: 2013-03-05 07:17:16+00:00
 draft: false
 title: Toradora ดูจบแล้ว~
 type: post
-url: /2013/03/toradora-%e0%b8%94%e0%b8%b9%e0%b8%88%e0%b8%9a%e0%b9%81%e0%b8%a5%e0%b9%89%e0%b8%a7/
+url: /2013/03/toradora/
 categories:
 - Anime
 - Innn's Diary
