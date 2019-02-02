@@ -32,11 +32,11 @@ theme = "hugo-sustain"
   weight = 100
   identifier = "blog"
   url = "/blog/"
-  [[menu.main]]
-    name = "archived"
-    weight = 100
-    identifier = "blog"
-    url = "/archived/"
+[[menu.main]]
+  name = "archived"
+  weight = 100
+  identifier = "blog"
+  url = "/archived/"
 [[menu.main]]
   name = "projects"
   identifier = "projects"
