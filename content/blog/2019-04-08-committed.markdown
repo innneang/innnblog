@@ -1,7 +1,7 @@
 ---
 author: in
 title: "Committed to"
-date: 2019-04-07T14:19:00+07:00
+date: 2019-04-08T14:20:00+07:00
 draft: false
 categories:
 - Innn's Diary
