@@ -241,3 +241,15 @@ html, body {
       margin-bottom:12px;
       
   }
+ .name{
+   display:inline;
+ }
+  .nameBig {
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+@media only screen and (max-width: 1200px) and (min-width: 991px) {
+  .name{
+    display:block;
+  }
+}
