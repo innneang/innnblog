@@ -127,6 +127,7 @@ html, body {
   }
   .panel{
     border-style: none;
+    box-shadow: none;
   }
   .panel-body {
     padding-top: -10px;
