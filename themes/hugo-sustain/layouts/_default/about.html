@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="{{ .Site.Params.Author }}" />
+    {{ if .Site.Params.description }}<meta name="description" content="{{ .Site.Params.description }}">{{ end }}
+    <link rel="shortcut icon" type="image/x-icon" href="{{ .Site.BaseURL }}img/favicon.ico">
+    <title>
+    {{- $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" -}}
+    {{- if eq $url "/" -}}
+        {{- .Site.Title -}}
+    {{- else -}}
+        {{- if .Params.heading -}} {{- .Params.heading -}} {{- else -}} {{- .Title -}} {{- end -}}
+    {{- end -}}
+	</title>
+    {{ .Hugo.Generator }}
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}css/about.css" />
+    {{- if .Params.highlight -}}
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.7.0/styles/tomorrow.min.css">
+    {{ end }}
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+    <link href="https://fonts.googleapis.com/css?family=Bai+Jamjuree" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Kanit" rel="stylesheet">
+    {{ range .Site.Params.custom_css }}
+    <link rel="stylesheet" href="{{ $.Site.BaseURL}}{{ . }}">
+    {{ end }}
+    {{ `<!--[if lt IE 9]>
+			<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+			<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+		<![endif]-->` | safeHTML }}
+
+    {{ template "_internal/google_analytics.html" . }}
+  </head>
+
+  
+  <body>
+    <div id="wrap">
+      <!-- Header -->
+      {{ partial "header" . }}
+      {{ if isset .Params "showpagemeta" }}
+        {{ .Render "projects" }}
+      {{ else }}
+      <div class="container">
+        <div class='row'>
+            <div class="col-md-8">
+                <div class="panel panel-default">
+                        <div class="panel-body">
+                            <div class="blogpost">
+                            {{ .Content }}
+                            </div>
+                        </div>
+                        <hr>
+                        <!-- {{ partial "disqus" . }} -->
+                </div>
+            </div>
+         <div class="col-md-4 fontKanit">
+            <div class='avatar'>
+                <img with="180" height="180" class="img-circle" src="http://localhost:1313/img/ava.jpg" alt="Responsive image">
+                <h1>สรัช ลิมาวงษ์ปราณี</h1>
+            </div>
+            <div class='aboutMe'>
+                <span class='bigBold'>ชื่อเล่น</span>
+                <span>อิน</span>
+            </div>
+            <div class='aboutMe'>
+                    <span class='bigBold'>อาชีพ</span>
+                    <span>นิสิต</span>
+            </div>   
+            <div class='aboutMe'>
+                <span class='bigBold'>อายุ</span>
+                <span>19</span>
+            </div>
+            <div class='aboutMe'>
+                <span class='bigBold'>สนใจ</span>
+                <span>ภาพยนตร์, หนังสือ,ดีไซน์,สตาร์ทอัพ</span>
+            </div>
+
+       
+            <div class='aboutMe'>
+                <span class='bigBold'>MYERS-BRIGGS</span>
+                <span class='linkS'><a href="https://www.16personalities.com/istj-personality">ISTJ</a></span>
+            </div>
+            <div class='aboutMe'>
+                <span class='bigBold'>Social Network</span>
+                <span class='linkS'><a href="https://twitter.com/innneang">Twitter</a></span>
+                <span class='linkS'><a href="https://www.facebook.com/profile.php?id=100003150494791">Facebook</a></span>
+            </div>
+         </div>
+        
+    </div>
+      </div>
+      {{ end }}
+    </div>
+
+    <!-- Footer -->
+    {{ partial "footer" . }}
+
+  </body>
+</html>
