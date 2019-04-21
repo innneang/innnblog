@@ -26,8 +26,8 @@ tags:
 
 หมึกที่แพงก็ใช่ว่าจะใช้ได้นาน อย่างเก่งก็เดือนนึง สำหรับเด็กนักเรียนอย่างผม
 
-[caption id="" align="alignnone" width="668"][![frxion by pilot](https://www.innnblog.com/wp-content/uploads/2013/06/frixion-pen.jpg)
-](https://www.innnblog.com/wp-content/uploads/2013/06/frixion-pen.jpg) คำทดสอบจาก @suppakit_ ผ่าน iMenn Blog[/caption]
+[![frxion by pilot](https://www.innnblog.com/wp-content/uploads/2013/06/frixion-pen.jpg)
+](https://www.innnblog.com/wp-content/uploads/2013/06/frixion-pen.jpg) คำทดสอบจาก @suppakit_ ผ่าน iMenn Blog
 
 <!-- more -->
 

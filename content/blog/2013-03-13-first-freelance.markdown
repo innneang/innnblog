@@ -18,8 +18,8 @@ categories:
 
 เมื่อวันที่ 11 ผมได้ศึกษาเกี่ยวกับ Dropbox ถึงวิธีทำนู๊น นี้ นั้น (ความลับ อยากรู้เปิดหน้าเว็บ[ประกาศขาย](https://www.innnblog.com/%e0%b8%ad%e0%b8%b1%e0%b8%9e-dropbox-2-%e0%b9%84%e0%b8%9b-18/)) แล้วทดลองใช้กับไอดีตัวเองประกฏว่าใช้ได้ เลยเขียนบอท(โปรแกรมทำงานอัตโนมัติ)จะได้ไม่ต้องเปลืองแรงเมื่อยมือ พอทำเสร็จแล้วก็เขียน[หน้าเว็บประกาศขาย](https://www.innnblog.com/%e0%b8%ad%e0%b8%b1%e0%b8%9e-dropbox-2-%e0%b9%84%e0%b8%9b-18/) พร้อมโปรโมชั่นฟรี 5 คนแรก <<ความคิดบรรเจิดสุดๆจากพี่ชายสุดรัก เขียนเสร็จก็หลับไป
 
-[caption id="attachment_467" align="alignnone" width="490"][![เว็บ Fruityjob](https://www.innnblog.com/wp-content/uploads/2013/03/12-3-2556-23-36-29-1.jpg)
-](https://www.innnblog.com/wp-content/uploads/2013/03/12-3-2556-23-36-29-1.jpg) เว็บ Fruityjob[/caption]
+[![เว็บ Fruityjob](https://www.innnblog.com/wp-content/uploads/2013/03/12-3-2556-23-36-29-1.jpg)
+](https://www.innnblog.com/wp-content/uploads/2013/03/12-3-2556-23-36-29-1.jpg) เว็บ Fruityjob
 
 
 

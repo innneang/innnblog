@@ -55,11 +55,11 @@ categories:
 
 ก่อนหน้านี้เราจะใช้ Calendar ในการวางตารางการใช้ชีวิต แต่ตอนหลังช่วงใกล้ๆสอบ รู้สึกว่าไม่อยากหยิบโทรศัพท์ขึ้นมาเพื่อดูตารางอ่านหนังสือ เลยเน้นการวางแผนล่วงหน้าประมาณ 10-15 วันแทน
 
-[caption id="attachment_2731" align="alignnone" width="2220"]![ปฏิทินอ่านหนังสือเดือน พ.ค. 2017](https://www.innnblog.com/wp-content/uploads/2018/04/Screen-Shot-2018-04-10-at-03.41.30.png)
-ปฏิทินอ่านหนังสือเดือน พ.ค. 2017[/caption]
+![ปฏิทินอ่านหนังสือเดือน พ.ค. 2017](https://www.innnblog.com/wp-content/uploads/2018/04/Screen-Shot-2018-04-10-at-03.41.30.png)
+ปฏิทินอ่านหนังสือเดือน พ.ค. 2017
 
-[caption id="attachment_2759" align="alignnone" width="650"]![](https://www.innnblog.com/wp-content/uploads/2018/04/IMG_6756-e1523377592379-1024x768.jpg)
-Innn's practical planner[/caption]
+![](https://www.innnblog.com/wp-content/uploads/2018/04/IMG_6756-e1523377592379-1024x768.jpg)
+Innn's practical planner
 
 ในเรื่องการอ่านหนังสือแต่ละวิชาก็มีวิธีอ่านต่างกันไป จะเขียนแยกเป็นรายวิชาด้านล่าง
 
@@ -112,8 +112,8 @@ _**หนังสือแนะนำ**_
 
 ฟิสิกส์เราเรียนพิเศษแค่สองที่คือธวัชชัย และเซ้ง มีเพื่อนไม่น้อยเรียน Applied Physic ของอาจารย์เผ่า แต่คอร์สตะลุยโจทย์ โจทย์ไม่ยากมาก ชอบเอาข้อสอบเก่ามาใส่ๆ เอามาทำเองก็ได้ (ซึ่งเราก็ซีเอา 555555555)
 
-[caption id="attachment_2755" align="alignnone" width="650"]![](https://www.innnblog.com/wp-content/uploads/2018/04/IMG_6772-1024x768.jpg)
-เนื้อหาเยอะ ก็ทำ Short note สั้นๆกันลืม[/caption]
+![](https://www.innnblog.com/wp-content/uploads/2018/04/IMG_6772-1024x768.jpg)
+เนื้อหาเยอะ ก็ทำ Short note สั้นๆกันลืม
 
 
 ## เคมี
@@ -129,8 +129,8 @@ _**หนังสือแนะนำ**_
 
 เราอ่านจาก Bio by Tent ที่เป็นรูปเต่าทอง เป็นหนังสือในตำนานที่นักเรียน ม.ปลายทุกคนต้องมี คือไม่ต้องไปหาที่ไหนมาอ่านเยอะอะ จำเล่มนี้ให้ได้ทุกตัวอักษรเท่านั้นก็ก็อดมากแล้ว
 
-[caption id="attachment_2761" align="alignnone" width="650"]![](https://www.innnblog.com/wp-content/uploads/2018/04/IMG_6767-1024x768.jpg)
-ผ่านการใช้งานมาหนักหน่วง เป็นเล่มที่ชอบที่สุดเลย[/caption]
+![](https://www.innnblog.com/wp-content/uploads/2018/04/IMG_6767-1024x768.jpg)
+ผ่านการใช้งานมาหนักหน่วง เป็นเล่มที่ชอบที่สุดเลย
 
 นอกจากอ่านเองแล้วก็เรียนพิเศษเอา อ่านที่เรียนพิเศษเอา
 
@@ -148,8 +148,8 @@ _**หนังสือแนะนำ**_
 
 จริงๆเราเรียนหมอพิชญ์คอร์ส OPD1,2,3,4,5,6, ICU, ตะลุยโจทย์ด้วย แต่เราจดไม่ทัน ไปเรียนและหลับ รู้สึกไม่ค่อยชอบเท่าตอนม.ต้น
 
-[caption id="attachment_2753" align="alignnone" width="650"]![](https://www.innnblog.com/wp-content/uploads/2018/04/IMG_6771-1024x768.jpg)
-สรุปชีวะเราเอง[/caption]
+![](https://www.innnblog.com/wp-content/uploads/2018/04/IMG_6771-1024x768.jpg)
+สรุปชีวะเราเอง
 
 
 ## สังคม

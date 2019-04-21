@@ -17,8 +17,8 @@ tags:
 
 <!-- more -->
 
-[caption id="attachment_2564" align="alignnone" width="850"]![Scala theatre ](https://www.innnblog.com/wp-content/uploads/2016/05/Scala_showing_Thai_film_the_love_of_siam.jpg)
-Pantip user:Kampongpiratevee - pantip.com[/caption]
+![Scala theatre ](https://www.innnblog.com/wp-content/uploads/2016/05/Scala_showing_Thai_film_the_love_of_siam.jpg)
+Pantip user:Kampongpiratevee - pantip.com
 
 ก่อนหน้านี้เพื่อนผมมักพูดว่าลิโด้เลวร้ายแบบนู้นแบบนี้ มีคนยืนสูบบุหรี่น่ากลัว เหม็นกลิ่นบุหรี่อีก ทำให้เกิดความคิดฝังหัวว่ามันคงแย่มากๆมา (ซึ่งสกาล่าก็เป็นหนึ่งในโรงภาพยนตร์เครือ APEX เช่นกัน) แต่จากการไปดูหนังครั้งนี้ทำให้ความคิดเปลี่ยนไป
 
@@ -28,11 +28,11 @@ Pantip user:Kampongpiratevee - pantip.com[/caption]
 ###### เนื่องจากมีป้ายห้ามถ่ายรูป จึงขอนำรูปภาพจากอินเตอร์เน็ตและเว็บสกาล่ามาเล่าเรื่องประกอบแทน
 
 
-[caption id="attachment_2570" align="alignnone" width="650"]![แค่เป็นตั๋วก็สวยงามแล้ว](https://www.innnblog.com/wp-content/uploads/2016/05/scala-movie-ticket-1024x593.jpg)
-แค่เป็นตั๋วก็สวยงามแล้ว[/caption]
+![แค่เป็นตั๋วก็สวยงามแล้ว](https://www.innnblog.com/wp-content/uploads/2016/05/scala-movie-ticket-1024x593.jpg)
+แค่เป็นตั๋วก็สวยงามแล้ว
 
-[caption id="attachment_2566" align="alignnone" width="900"]![scala-theatre-04-enlarge](https://www.innnblog.com/wp-content/uploads/2016/05/scala-theatre-04-enlarge.jpg)
-ด้านในตกแต่งได้สมคำล่ำลือ ด้วยศิลปะการตกแต่งแบบอาร์ต เดโค[/caption]
+![scala-theatre-04-enlarge](https://www.innnblog.com/wp-content/uploads/2016/05/scala-theatre-04-enlarge.jpg)
+ด้านในตกแต่งได้สมคำล่ำลือ ด้วยศิลปะการตกแต่งแบบอาร์ต เดโค
 
 หลังจากการซื้อตั๋วและนั่งรอหนังฉาย ก่อนหนังฉายก็จะมีคนไประดมซื้อปอปคอร์นและขนมหน้าโรง ซึ่งก็ขอบอกเลยว่าราคามิตรภาพมาก ปอปคอร์นขนาดปกติ ขายอยู่ที่ราคา 40 บาท (แถมมีขนาดเดียวด้วยไม่ต้องเลือกมาก) ในขณะที่ราคาทะลุร้อย ณ โรงภาพยนตร์ Major และ SF ส่วนชาเขียวโออิชิขายอยู่ที่ราคา 25 บาท ซึ่งก็ถือได้ว่าราคาไม่แพงจริงๆ
 
