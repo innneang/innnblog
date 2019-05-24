@@ -225,7 +225,7 @@ section h2:before, section h2:after {
   height: 10px;
   background: #f3f3f3c4;
   top: calc(50% - 5px);
-  width: 1500%
+  width: 3000%
 }
 
 section h2:before {
@@ -240,6 +240,7 @@ section h2:after {
 
 section.section-title {
   margin: 3em auto 2em;
+  overflow: hidden;
 }
 
 section.section-title h2 {
@@ -261,3 +262,6 @@ section.section-title h3 {
   position: relative
 }
 /* endtry */
+.table-of-content a{
+  font-size: 1.1em;
+}
