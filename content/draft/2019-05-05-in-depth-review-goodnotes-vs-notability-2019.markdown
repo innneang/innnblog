@@ -39,7 +39,7 @@ typora-root-url: ../../static
 
  <section class='section-title'>
 
-## User Interface
+<h2><span>User Interface</span></h2>
 
  </section>
 
@@ -61,7 +61,7 @@ typora-root-url: ../../static
 
  <section class='section-title'>
 
-## การจดโน๊ต
+<h2><span>การจดโน๊ต</span></h2>
 
  </section>
 
@@ -101,7 +101,7 @@ typora-root-url: ../../static
 
  <section class='section-title'>
 
-## ความเสถียร
+<h2><span>ความเสถียร</span></h2>
 
  </section>
 
@@ -112,7 +112,7 @@ typora-root-url: ../../static
 
  <section class='section-title'>
 
-## Killer features
+<h2><span>Killer features</span></h2>
 
  </section>
 ในส่วนนี้จะพูดถึง Killer-features ที่ผมคิดว่าเป็นฟังก์ชั่นสำคัญที่เป็นข้อดีของแต่ละแอพที่กินกันไม่ลง ต้องสลับมาใช้ด้วยเหตุผลนี้เป็นต้น
@@ -136,7 +136,7 @@ typora-root-url: ../../static
 
  <section class='section-title'>
 
-## การใช้งานบนคอมพิวเตอร์
+<h2><span>การใช้งานบนคอมพิวเตอร์</span></h2>
 
  </section>
 
@@ -156,7 +156,9 @@ typora-root-url: ../../static
 
  <section class='section-title'>
 
-## Backup
+
+<h2><span>Backup</span></h2>
+
 
  </section>
 
@@ -176,8 +178,9 @@ typora-root-url: ../../static
 
 
  <section class='section-title'>
+ 
+<h2><span>สรุป</span></h2>
 
-## สรุป
 
  </section>
 
