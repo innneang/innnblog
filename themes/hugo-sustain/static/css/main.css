@@ -205,3 +205,14 @@ div.footer{
 .label-success{
   background-color: var(--linkColor);
 }
+.border {
+  border: 3px solid #e5e5e5;
+  padding: 1rem;
+  margin: 2rem 0;
+}
+.hHead{
+color: white;
+background-color: rgb(228, 34, 99);
+display: inline-block;
+padding: 5px 10px;
+}
