@@ -7,7 +7,6 @@ html, body {
   height: 100%;
   background-color: #fff;
   font-family: 'Bai Jamjuree', sans-serif;
-  overflow-x: hidden;
   /* The html and body elements cannot have any padding or margin. */
   /* border-top: 3px solid #27A822; */
 }
