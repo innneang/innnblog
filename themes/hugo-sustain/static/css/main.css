@@ -219,7 +219,7 @@ padding: 5px 10px;
 
 
 /* try */
-section h2 span:before, section h2 span:after {
+section h2:before, section h2:after {
   content: "";
   position: absolute;
   height: 10px;
@@ -228,27 +228,27 @@ section h2 span:before, section h2 span:after {
   width: 1500%
 }
 
-section h2 span:before {
+section h2:before {
   right: 100%;
   margin-right: 0.8em
 }
 
-section h2 span:after {
+section h2:after {
   left: 100%;
   margin-left: 0.8em
 }
 
-.section-title {
+section.section-title {
   margin: 3em auto 2em;
 }
 
-.section-title h2 {
+section.section-title h2 {
   font-size: 3rem;
   font-weight: 700;
   margin-bottom: 0
 }
 
-.section-title h3 {
+section.section-title h3 {
   font-weight: 500;
   color: #8f9599;
   font-size: 1.5rem;
