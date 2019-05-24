@@ -268,4 +268,5 @@ section.section-title h3 {
 
 #wrap{
   overflow: hidden;
+  max-width: 100vw;
 }
