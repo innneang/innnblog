@@ -14,7 +14,7 @@ disableHugoGeneratorInject = true
 [params]
   avatar = "ava.jpg"
   author = "Sarat Limawongpranee"
-  description = "TH Blog Diary"
+  description = "Thai Blog Diary"
 
   # Custom assets can be linked with their paths relative to static/
   custom_css = []
