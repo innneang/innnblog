@@ -8,6 +8,7 @@ categories:
 - Innn's Diary
 tags:
 typora-root-url: ../../static
+lazy: true
 
 ---
 <div class='border'>
@@ -22,7 +23,8 @@ typora-root-url: ../../static
 
 วันนี้ในฐานะผู้ใช้นิสิตแพทย์ที่ต้องใช้ iPad พร้อมแอพเหล่านี้ในการเรียนในชีวิตประจำวัน และต้องการหาแอพจดโน้ตที่ดีที่สุด หลังจากที่ผ่านการใช้งานอย่างโชกโชนเป็นระยะเวลาเกือบ 1 ปีเต็ม ก็คิดว่าเราน่าจะเขียนวิเคราะห์เปรียบเทียบสองแอพนี้ให้ทุกคนได้เลือกซื้อไปใช้ได้อย่างเหมาะสม
 
-![goodnotes-vs-notability](/img/goodnotes-vs-notability.png)
+{{< lazy src="/img/goodnotes-vs-notability.png" alt="goodnotes-vs-notability" >}}
+
 <div class='border table-of-content'>
 <h4 class='hHead'>หัวข้อเปรียบเทียบ</h4>
 
@@ -51,7 +53,7 @@ typora-root-url: ../../static
 
   ไม่สามารถสร้าง Sub-folder ได้ มีตัวแบ่ง division ให้เราแยกรายวิชาต่างๆออกจากกันได้ ค่อนข้างเรียบง่าย ไม่ยืดหยุ่น ถือว่าเป็นข้อเสียหลักของ Notability สำหรับคนที่มีโน้ตเยอะๆในวิชาต่างๆไม่สามารถแบ่งจัดสรรให้เป็นระเบียบได้ง่าย
 
-![goodnotes-vs-notability-5](/img/goodnotes-vs-notability-5.png)  
+{{< lazy src="/img/goodnotes-vs-notability-5.png" alt="goodnotes-vs-notability" >}}
 
 ### Goodnotes 5
 
@@ -59,7 +61,7 @@ typora-root-url: ../../static
 
 ทั้งสองแอพสามารถ Sort โน้ตตามชื่อ, Modified date, Created date ได้ซึ่งมีประโยชน์มากหากอาจารย์แจกไฟล์แล้วไม่ต้องทำการแก้ไขชื่อไฟล์ ใช้ฟังก์ชั่น Sort by Created date ลิสตั้งแต่ที่สอนวันแรกไปวันสุดท้ายตามวันที่เราเพิ่มโน้ตเข้ามาในแอพได้ทันที
 
-![goodnotes-vs-notability-3](/img/goodnotes-vs-notability-3-8714432.png)
+{{< lazy src="/img/goodnotes-vs-notability-3-8714432.png" alt="goodnotes-vs-notability" >}}
 
  <section id='note-taking' class='section-title'>
 
@@ -78,7 +80,7 @@ typora-root-url: ../../static
 
   ในส่วนของ Lasso ในแอพ Notability นั้นสามารถ**หมุน Object** และขยายได้เลย ไม่ต้องกดเมนูเพิ่มเติมแต่อย่างไร
 
-  ![goodnotes-vs-notability](/img/goodnotes-vs-notability.gif)
+{{< lazy src="/img/goodnotes-vs-notability.gif" alt="goodnotes-vs-notability" >}}
 
   และสามารถ Zoom-out เพื่อเห็นภาพใหญ่ของหน้ากระดาษนั้นได้ ตรงนี้เป็นฟีเจอร์ที่ผมอยากได้และรีเควสลงไปที่หน้าเว็บ Notability โดยตรง และไม่นาน ก็ได้ใช้จริงๆ 
 
@@ -96,13 +98,13 @@ typora-root-url: ../../static
 
   มีปากกา Highlight ที่เพิ่ม Contrast  ให้ตัวหนังสือ ทำให้เส้นตรงได้ง่าย
 
-![goodnotes-vs-notability-9](/img/goodnotes-vs-notability-9.gif)
+{{< lazy src="/img/goodnotes-vs-notability-9.gif" alt="goodnotes-vs-notability" >}}
 
   แต่ Lasso ของ Goodnotes นั้นทำได้แค่ย้ายวัตถุ **ต้องกดเมนู Resize ก่อนถึงจะหมุนได้**
 
   มีปุ่มกดดู Overview โน้ตได้คล้าย Powerpoint เป็นข้อได้เปรียบของ Goodnotes
 
-![goodnotes-vs-notability-2](/img/goodnotes-vs-notability-2-8714461.png)
+{{< lazy src="/img/goodnotes-vs-notability-2-8714461.png" alt="goodnotes-vs-notability" >}}
 
  <section id='stability' class='section-title'>
 
@@ -132,7 +134,7 @@ typora-root-url: ../../static
 
   **Split view** นั้นสามารถแบ่งหน้าจดโน้ตเป็นสองหน้าได้ เพราะฉะนั้นเราสามารถดูข้อสอบ กับเฉลยข้อสอบและตรวจไปพร้อมๆกันได้ โดยไม่ต้องสลับ Tab เหมือน Goodnotes ซึ่งนับว่า**สะดวกมากๆๆๆๆๆๆๆ**
 
-![goodnotes-vs-notability-10](/img/goodnotes-vs-notability-10.gif)
+{{< lazy src="/img/goodnotes-vs-notability-10.gif" alt="goodnotes-vs-notability" >}}
 
 ### Goodnotes 5
 ยกให้ฟังก์ชั่นกระดาษ และปกที่หลากหลายเป็น และการเพิ่มหน้าใหม่ด้วยรูป เป็น Killer Feautres ของ Goodnotes
@@ -154,7 +156,7 @@ typora-root-url: ../../static
 
 ในส่วนของ Notability นั้นมีแอพให้โหลดใน App Store มานานแล้ว และมีความเสถียร ซิงค์กับ iCloud ได้โดยอัตโนมัติ
 
-  ![macbook-goodnotes-vs-notability](/img/macbook-goodnotes-vs-notability.png)
+{{< lazy src="/img/macbook-goodnotes-vs-notability.png" alt="goodnotes-vs-notability" >}}
 
 ### Goodnotes 5
 
@@ -177,13 +179,13 @@ typora-root-url: ../../static
 
 ข้อได้เปรียบอย่างหนึ่งที่ Notability มีเหนือ Goodnotes 5 คือระบบ Auto backup ที่สามารถเชื่อม Google Drive, Dropbox, etc และทำการ Backup เป็นไฟล์ pdf หรือตามที่กำหนดได้ ตรงนี้ส่วนที่ผมใช้ก็คือนั่งที่คอมห้องสมุดคณะจอนึงเปิดไฟล์เลคเชอร์ที่ต้องการอ่านจาก Google drive บนจอคอม พร้อมกับอ่านสรุปประกอบใน iPad ก็ทำได้
 
-  ![3](/img/goodnotes-vs-notability-3.png)
+{{< lazy src="/img/goodnotes-vs-notability-3.png" alt="goodnotes-vs-notability" >}}
 
 ### Goodnotes 5
 
   แต่ในส่วนของ Goodnotes5 ปัจจุบันนั้นยังไม่มีระบบ Auto Backup มีแต่การกด Export ทั้งหมดเพื่อส่งไปแอพอื่นเท่านั้น ดังนั้นก็คือหากใครต้องการอ่านที่เราจดบนคอมหรือที่อื่นที่ไม่ได้รันอุปกรณ์ iOS ก็ไม่มีทางเลือกนอกจากกด Export เท่านั้น
 
-![2](/img/goodnotes-vs-notability-2.png)
+{{< lazy src="/img/goodnotes-vs-notability-2.png" alt="goodnotes-vs-notability" >}}
 
  <section id='summary' class='section-title'>
 
