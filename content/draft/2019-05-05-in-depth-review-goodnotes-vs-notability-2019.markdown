@@ -26,16 +26,17 @@ typora-root-url: ../../static
 <h4 class='hHead'>หัวข้อเปรียบเทียบ</h4>
 
 - [User Interface](#user-interface)
-- [การจดโน๊ตและฟังก์ชั่น สี ความรก zoom](#การจดโน-ต)
-- [ความเสถียร ความเร็วในการโหลด และซูม](#ความเสถ-ยร)
-- [Split view is a killer feature](#killer-features)
-- [การใช้งานบนคอมพิวเตอร์](#การใช-งานบนคอมพ-วเตอร)
+- [การจดโน๊ตและฟังก์ชั่น](#note-taking)
+- [ความเสถียร ความเร็วในการโหลด](#stability)
+- [Killer Features](#killer-features)
+- [การใช้งานบนคอมพิวเตอร์](#computer-usage)
 - [Backup](#backup)
-
+- [สรุป](#summary)
 
 </div>
 
- <section class='section-title'>
+ <section id='user-interface' class='section-title'>
+
 
 <h2><span>User Interface</span></h2>
 
@@ -59,7 +60,8 @@ typora-root-url: ../../static
 
 ![goodnotes-vs-notability-3](/img/goodnotes-vs-notability-3-8714432.png)
 
- <section class='section-title'>
+ <section id='note-taking' class='section-title'>
+
 
 <h2><span>การจดโน๊ต</span></h2>
 
@@ -101,7 +103,8 @@ typora-root-url: ../../static
 
 ![goodnotes-vs-notability-2](/img/goodnotes-vs-notability-2-8714461.png)
 
- <section class='section-title'>
+ <section id='stability' class='section-title'>
+
 
 <h2><span>ความเสถียร</span></h2>
 
@@ -112,7 +115,8 @@ typora-root-url: ../../static
 
 เรื่องนี้เป็นปัญหาใหญ่ เราไม่ควรเอาชีวิตการเรียน หรือการทำงานไปเสี่ยงกับเครื่องมือที่มีความไม่แน่นอน แต่ปัญหานี้อาจจะค่อยๆแก้ใน Update ถัดๆไป
 
- <section class='section-title'>
+ <section id='killer-features' class='section-title'>
+
 
 <h2><span>Killer features</span></h2>
 
@@ -136,7 +140,8 @@ typora-root-url: ../../static
 
 แต่ในส่วนที่ผม(และหลายคน)ชอบใน Goodnotes 5 ก็คือการเพิ่มหน้าใหม่ด้วยรูปทั้งรูป ฟังแล้วอาจเฉยๆ แต่เป็นฟังก์ชั่นที่ใช้บ่อยเมื่ออาจารย์ไม่แจกสไลด์ สามารถยกกล้องขึ้นถ่ายและกลายเป็นหน้าใหม่ทั้งหน้าได้เลย สะดวกมากๆ
 
- <section class='section-title'>
+ <section id='computer-usage' class='section-title'>
+
 
 <h2><span>การใช้งานบนคอมพิวเตอร์</span></h2>
 
@@ -156,7 +161,8 @@ typora-root-url: ../../static
 
 แต่ในส่วนของ Notability นั้นมี One-way Backup ให้สามารถ Backup ไฟล์ PDF ขึ้น Dropbox หรือ Google Drive มาอ่านบนคอมพิวเตอร์ได้โดยไม่ต้องซื้อแอพซึ่งถ้าเราไม่ได้ต้องการแก้ไขอะไรบนคอมพิวเตอร์อยู่แล้ว ก็ไม่จำเป็นต้องซื้อ Notability มาใช้ก็ได้ (ตรงนี้ Goodnotes ไม่มี หากต้องการอ่านโน๊ตบนคอมต้องซื้อแอพขายแยกต่างหากเท่านั้น)
 
- <section class='section-title'>
+ <section id='backup' class='section-title'>
+
 
 
 <h2><span>Backup</span></h2>
@@ -178,15 +184,30 @@ typora-root-url: ../../static
 
 ![2](/img/goodnotes-vs-notability-2.png)
 
+ <section id='summary' class='section-title'>
 
- <section class='section-title'>
 
 <h2><span>สรุป</span></h2>
 
 
  </section>
 
+Goodnotes 5 กับ Notability มีข้อดีข้อเสียแตกต่างกันไป แม้ว่า Goodnotes 5 จะมีฟีเจอร์เยอะกว่าไม่ว่าจะปากกาไฮไลต์ การวาด Shape หรือเพิ่มหน้าใหม่ด้วยรูป แต่ Goodnotes 5 ณ ขณะนี้เหมาะกับการใช้งานเป็นสมุดโน๊ตเล่มนึงมากกว่านำมาจดเลคเชอร์ หรือ annotate PDF ด้วยเรื่องของความเร็ว ความเสถียร การ Backup ดังนั้นผมคิดว่าหากต้องซื้อแอพเพื่อจดโน้ตคู่กับปากกา Apple Pencil แล้ว Notability เป็นแอพจดโน้ตที่เหมาะสมกับคนส่วนใหญ่ที่สุด
 
-ภาพ gif:
 
-screenshot ใส่ใน macbook, iPad iPhone
+ <div class='border'>
+ <div class='row'>
+ <div class='col-md-3'>
+
+<img class="img-responsive" src="/img/notability.jpg" style='border-radius: 15px; max-width:100px;'>
+
+ </div>
+ <div class='col-md-9'>
+
+# Notability
+##### ฿349.00
+Notability เป็นแอพที่ผมคิดว่ามีความเสถียรต่อการใช้ในชีวิตประจำวัน และฟังก์ชั่นเพียงพอต่อการใช้งาน ซึ่งรวมถึง Auto Backup และ Split View ที่ได้ใช้บ่อยมากๆ
+
+ </div>
+ </div>
+ </div>
