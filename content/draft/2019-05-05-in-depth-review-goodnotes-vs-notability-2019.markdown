@@ -25,8 +25,8 @@ lazy: true
 
 {{< lazy src="/img/goodnotes-vs-notability.png" alt="goodnotes-vs-notability" >}}
 
-<div class='border table-of-content'>
-<h4 class='hHead'>หัวข้อเปรียบเทียบ</h4>
+ <div class='border table-of-content'>
+ <h4 class='hHead'>หัวข้อเปรียบเทียบ</h4>
 
 - [User Interface](#user-interface)
 - [การจดโน้ตและฟังก์ชั่น](#note-taking)
@@ -36,7 +36,7 @@ lazy: true
 - [Backup](#backup)
 - [สรุป](#summary)
 
-</div>
+ </div>
 
  <section id='user-interface' class='section-title'>
 
