@@ -21,7 +21,6 @@ disableHugoGeneratorInject = true
   custom_js  = []
 
 [params.social]
-  Github        = "innneang"
   Email         = "saratlim@gmail.com"
   Twitter       = "innneang"
 
