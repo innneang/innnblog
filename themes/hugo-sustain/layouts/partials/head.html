@@ -1,36 +1,61 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="author" content="{{ .Site.Params.Author }}" />
-    {{ if .Site.Params.description }}<meta name="description" content="{{ .Site.Params.description }}">{{ end }}
-    <link rel="shortcut icon" type="image/x-icon" href="{{ .Site.BaseURL }}img/favicon.ico">
-    <title>
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="author" content="{{ .Site.Params.Author }}" />
+  {{ if .Description }}
+  <meta name="description" content="{{ .Description }}">{{ else }}
+  <meta name="description" content="{{ .Site.Params.description }}">{{ end }}
+  <meta property="og:title" content="{{ .Title }}">
+  {{ if .IsPage }}
+  <meta property="og:type" content="article">
+  <meta property="article:published_time" content="{{ .Date.Format "2006-01-02" }}">
+  {{ else }}
+  <meta property="og:type" content="website">{{ end }}{{ if .Description }}
+  <meta name="og:description" content="{{ .Description }}">{{ else }}
+  <meta name="og:description" content="{{ .Site.Params.description }}">{{ end }}
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:site_name" content="{{ .Site.Title }}">{{ if .Params.thumbnail }}
+  <meta property="og:image" content="{{ .Site.BaseURL }}{{ .Params.thumbnail }}">{{ end }}
+  {{ if .Site.Params.twitter_card_whitelisted }}{{ if .Params.twitter_summary }}
+  <meta property="twitter:card" content="{{ .Params.twitter_summary }}">{{ else if .Description }}
+  <meta property="twitter:card" content="{{ .Description }}">{{ else }}
+  <meta property="twitter:card" content="{{ .Title }}">{{ end }}{{ end }}
+  {{ if .Description }}
+  <meta name="twitter:description" content="{{ .Description }}">{{ else }}
+  <meta name="twitter:description" content="{{ .Site.Params.description }}">{{ end }}
+  <meta property="twitter:title" content="{{ .Title }}">{{ if .Params.thumbnail }}
+  <meta property="twitter:image" content="{{ .Site.BaseURL }}{{ .Params.thumbnail }}">
+  {{ end }}
+  <link rel="shortcut icon" type="image/x-icon" href="{{ .Site.BaseURL }}img/favicon.ico">
+  <title>
     {{- $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" -}}
     {{- if eq $url "/" -}}
-        {{- .Site.Title -}}
+    {{- .Site.Title -}}
     {{- else -}}
-        {{- if .Params.heading -}} {{- .Params.heading -}} {{- else -}} {{- .Title -}} {{- end -}}
+    {{- if .Params.heading -}} {{- .Params.heading -}} {{- else -}} {{- .Title -}} {{- end -}}
     {{- end -}}
-	</title>
-    {{ .Hugo.Generator }}
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}css/main.css" />
-    {{- if .Params.highlight -}}
-    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.7.0/styles/tomorrow.min.css">
-    {{ end }}
-    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
-    <!-- <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,200bold,400old" /> -->
-    <link href="https://fonts.googleapis.com/css?family=Bai+Jamjuree" rel="stylesheet">
-    {{ range .Site.Params.custom_css }}
-    <link rel="stylesheet" href="{{ $.Site.BaseURL}}{{ . }}">
-    {{ end }}
-    {{ `<!--[if lt IE 9]>
+  </title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+    integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}css/main.css" />
+  {{- if .Params.highlight -}}
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.7.0/styles/tomorrow.min.css">
+  {{ end }}
+  <link rel="stylesheet" type="text/css"
+    href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+  <!-- <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,200bold,400old" /> -->
+  <link href="https://fonts.googleapis.com/css?family=Bai+Jamjuree" rel="stylesheet">
+  {{ range .Site.Params.custom_css }}
+  <link rel="stylesheet" href="{{ $.Site.BaseURL}}{{ . }}">
+  {{ end }}
+  {{ `<!--[if lt IE 9]>
 			<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
 			<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 		<![endif]-->` | safeHTML }}
 
-    {{ template "_internal/google_analytics.html" . }}
-  </head>
+  {{ template "_internal/google_analytics.html" . }}
+</head>
