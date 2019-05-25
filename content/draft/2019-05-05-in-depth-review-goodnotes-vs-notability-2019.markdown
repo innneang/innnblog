@@ -1,6 +1,6 @@
 ---
 author: in
-title: "Goodnotes vs Notability"
+title: "เปรียบเทียบ Goodnotes 5 กับ Notability"
 date: 2019-05-23T14:22:00+07:00
 draft: false
 categories:
