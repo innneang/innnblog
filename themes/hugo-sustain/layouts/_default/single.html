@@ -2,7 +2,6 @@
 
 <body>
   <div id="wrap">
-
     <!-- Header -->
     {{ partial "header" . }}
     {{ if isset .Params "showpagemeta" }}
@@ -50,6 +49,17 @@
           </div>
           {{ end }}
         </div>
+        <div style='position:absolute; display:hidden;' id='middleAnimated'></div>
+        <div id='tweetbox' data-aos-offset='500' data-aos-duration='1200' data-aos="fade-left"
+          data-aos-anchor='#middleAnimated'>
+          <img id='closetweet' src='{{ .Site.BaseURL }}img/x.png'>
+          <p class='text-muted'>ชอบบทความนี้รึเปล่า? <br>กดทวิตเป็นกำลังใจ 🤟</p>
+          <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button"
+            data-url='{{ .Permalink }}' data-size="large" data-text="บทความนี้นายเขียนดีมากเลย เราชอบมาก !"
+            data-via="innneang" data-show-count="false">Tweet</a>
+          <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+          <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </div>
       </div>
       <hr>
       <!-- {{ partial "disqus" . }} -->
@@ -63,10 +73,10 @@
 
   {{ if .Params.lazy}}
   <script>
-      window.lazyLoadOptions = {
-        elements_selector: '.lazy'
-      }
-    </script>
+    window.lazyLoadOptions = {
+      elements_selector: '.lazy'
+    }
+  </script>
   <script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@12.0.0/dist/lazyload.min.js"></script>
   {{ end }}
 </body>
