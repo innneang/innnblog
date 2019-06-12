@@ -27,6 +27,11 @@ disableHugoGeneratorInject = true
 
 ## Main Menu
 [[menu.main]]
+  name = "hire"
+  weight = 100
+  identifier = "hire"
+  url = "http://hire.innnblog.com/"
+[[menu.main]]
   name = "blog"
   weight = 100
   identifier = "blog"
