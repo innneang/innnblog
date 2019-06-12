@@ -28,17 +28,17 @@ disableHugoGeneratorInject = true
 ## Main Menu
 [[menu.main]]
   name = "hire"
-  weight = 100
+  weight = 10
   identifier = "hire"
   url = "http://hire.innnblog.com/"
 [[menu.main]]
   name = "blog"
-  weight = 100
+  weight = 20
   identifier = "blog"
   url = "/blog/"
 [[menu.main]]
   name = "archived"
-  weight = 100
+  weight = 30
   identifier = "blog"
   url = "/archived/"
 # [[menu.main]]
