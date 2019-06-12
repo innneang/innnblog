@@ -36,11 +36,6 @@ disableHugoGeneratorInject = true
   weight = 20
   identifier = "blog"
   url = "/blog/"
-[[menu.main]]
-  name = "archived"
-  weight = 30
-  identifier = "blog"
-  url = "/archived/"
 # [[menu.main]]
 #   name = "projects"
 #   identifier = "projects"
