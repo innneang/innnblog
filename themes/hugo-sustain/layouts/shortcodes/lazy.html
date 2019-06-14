@@ -1,7 +1,5 @@
 <p>
-    <div class='lazy-wrapper'>
-        <img class="lazy" {{ with .Get "src"}} data-src="{{.}}" {{ end }} {{ with .Get "alt"}} alt="{{.}}" {{ end }}>
-    </div>
+    <img class="lazy" {{ with .Get "src"}} data-src="{{.}}" {{ end }} {{ with .Get "alt"}} alt="{{.}}" {{ end }}>
     <noscript>
         <img {{ with .Get "src"}} src="{{.}}" {{ end }} {{ with .Get "alt" }} alt="{{.}}" {{end}}>
     </noscript>
