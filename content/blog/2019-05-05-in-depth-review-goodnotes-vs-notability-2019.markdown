@@ -4,6 +4,9 @@ title: "เปรียบเทียบ Goodnotes 5 กับ Notability"
 description: จากประสบการณ์ผู้ใช้งานจริง 1 ปีเต็มในการใช้ Goodnotes และ Notability ซื้ออะไรดี
 date: 2019-05-23T14:22:00+07:00
 draft: false
+url: /2019/05/in-depth-review-goodnotes-vs-notability-2019/
+aliases:
+    - /2019/05/เปรียบเทียบ-goodnotes-5-กับ-notability/
 categories:
 - Innn's Diary
 tags:
