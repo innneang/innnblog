@@ -1,7 +1,7 @@
 ---
 author: in
-title: "List of all of my projects ever"
-description: List of all of my projects ever
+title: "List of all my projects ever"
+description: List of all my projects ever
 date: 2021-06-20T20:56:00+07:00
 draft: false
 url: /2021/06/list-of-all-of-my-projects/
@@ -16,7 +16,7 @@ tags:
 
 
 
-## List of all of my projects ever
+## List of all my projects ever
 
 (Use for my future reference)
 
