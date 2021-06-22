@@ -85,7 +85,7 @@ Developed android application with @keenthekeen for 7th e-ICON World Contest, ho
 ## 2016
 - Siamknowledge [(Git)](https://github.com/Nutn0n/siamknowledge)
 
-Worked with @nutn0nn to develop website for Siamknowledge School.
+Worked with @nutn0nn to develop tutor-student automatic matching website for Siamknowledge School.
 
 ![](/img/2021/siamknowledge.png)
 
