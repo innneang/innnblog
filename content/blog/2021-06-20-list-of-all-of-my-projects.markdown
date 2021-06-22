@@ -50,19 +50,19 @@ Abandoned due to api changing.
 ![](/img/2021/herebus.jpg)
 
 - Hungrystation.co
-Worked with [เพนกวินรีวิว](https://www.facebook.com/guinhungry) to develop wordpress theme from provided design
+Worked with [เพนกวินรีวิว](https://www.facebook.com/guinhungry) to develop a wordpress theme from provided design
 
 ![](/img/2021/hungry.png)
 
 
 - Salt.co.th [(Link)](https://salt.co.th)
 
-Worked with @nutn0nn to develop website for Salt publisher.
+Worked with @nutn0nn to develop a website for Salt publisher.
 
 ![](/img/2021/salt.png)
 - Wassadudee [(Link)](https://wassadudee.com)
 
-Freelance job hired by Grappik Agency to develop wordpress theme from provided design
+Freelance job hired by Grappik Agency to develop a wordpress theme from provided design
 
 ![](/img/2021/wassadudee.png)
 
@@ -71,21 +71,21 @@ Freelance job hired by Grappik Agency to develop wordpress theme from provided d
 
 - Pyongtravellerxdoctor [(Link)](https://pyongtravellerxdoctor.com)
 
-Develop website for @pyongtravellerxdoctor
+Develop a website for @pyongtravellerxdoctor
 ![](/img/2021/pyong.png)
 
 ## 2017
 
 - Recall [[Git]](https://github.com/keenthekeen/Recall)
 
-Developed android application with @keenthekeen for 7th e-ICON World Contest, hosted by Ministry of Education, Republic of Korea
+Developed an android application with @keenthekeen for 7th e-ICON World Contest, hosted by Ministry of Education, Republic of Korea
 
 
 
 ## 2016
 - Siamknowledge [(Git)](https://github.com/Nutn0n/siamknowledge)
 
-Worked with @nutn0nn to develop tutor-student automatic matching website for Siamknowledge School.
+Worked with @nutn0nn to develop a tutor-student automatic matching website for Siamknowledge School.
 
 ![](/img/2021/siamknowledge.png)
 
