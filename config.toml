@@ -4,7 +4,7 @@ title = "Innnnnnnnnnn"
 # Enable comments by entering your Disqus shortname
 #disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = "UA-39295142-1"
+# googleAnalytics = "UA-39295142-1"
 theme = "hugo-sustain"
 disableHugoGeneratorInject = true
 #publishDir = "docs"
