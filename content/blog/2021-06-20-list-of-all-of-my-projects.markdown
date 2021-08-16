@@ -32,7 +32,7 @@ todo: write description , add projects before 2016
 
 ## 2020
 
-- Protutor [(Link)](https://protutor.in.th)
+- Protutor [(สอนพิเศษออนไลน์)](https://protutor.in.th) [เรียนพิเศษที่บ้าน](https://protutor.in.th)
 ![](/img/2021/protutor.png)
 
 
