@@ -12,7 +12,7 @@ disableHugoGeneratorInject = true
   blog = "/:year/:month/:slug"
 
 [params]
-  avatar = "ava.jpg"
+  avatar = "ava.jpeg"
   author = "Sarat Limawongpranee"
   description = "Thai Blog Diary"
 
@@ -22,7 +22,7 @@ disableHugoGeneratorInject = true
 
 [params.social]
   Email         = "saratlim@gmail.com"
-  Twitter       = "cyruszhang99"
+  Twitter       = "CyrusZhang99"
 
 
 ## Main Menu
